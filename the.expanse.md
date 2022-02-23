@@ -19,7 +19,6 @@ Camina Drummer 卡米娜·德鲁默
 Cara 卡拉
 Chrisjen Avasarala 克里斯金·阿瓦萨罗拉
 Clarissa Mao 克拉丽莎·毛
-Paolo Cortázar 保罗·科塔萨尔 医生
 Cotyar Ghazi 柯特亚·加齐
 David Calrassi 大卫·卡拉西
 Diogo Harari 迪亚戈·哈拉里
@@ -36,7 +35,9 @@ Kelly 凯利
 Lionel Polanski 莱昂内尔·波兰斯基
 Milan 米兰
 Muskrat 穆史克拉特
+Noel Mugabo 诺埃尔·穆加博
 Ochida 内田
+Paolo Cortázar 保罗·科塔萨尔 医生
 Rossif 罗西夫
 Sadavir Errinwright 萨达瓦·艾伦怀特
 Sanchez 桑切斯
@@ -54,9 +55,12 @@ Caustic Bitch “刻薄婊子”，PinkWink “粉红女郎”
 Eight Tenets of Bushido “武士道八信条”号
 Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
+
 Perishable Harvest “短暂收获”号
 Rocinanate “罗西南多”号 Epstein 艾普斯坦
+Sparrowhawk “雀鹰”号
 Vincent Soo “苏文森”号
+Voice of the Whirlwind “旋风之声”号 Magnetar 磁星级
 
 
 # 三、企业、政府、团体
@@ -89,7 +93,9 @@ Io 木卫一
 Laconia 拉科尼亚
 Kronos 康诺斯星系
 Medina Station 麦地那空间站
+New Egypt 新埃及
 Pallas 智神星
+Persephone 珀耳塞福涅星系
 Phobos 火卫一
 Phoebe 土卫九
 Saturnus 土星
@@ -110,6 +116,7 @@ Undersecretary 联合国副秘书长
 
 # 六、武器
 Pulsar-class destroyers 脉冲星级别驱逐舰
+Gravitar-class 重力级
 Stalker “潜行者”铠甲
 
 # 七、缩写
@@ -122,6 +129,7 @@ The extraction team 开采队
 comms 通讯器
 drive 引擎
 Extrasolar object 系外天体
+hunting frigate 狩猎护卫舰
 ki-ka-ko “叽-咔-叩”
 material reality 物质现实
 protomolecule 原分子
