@@ -15,6 +15,7 @@ Aliana 艾莉安娜
 Anderson Dawes 安德森·道斯
 Anton Trejo 安东·特雷霍
 Augusto Nguyen 奥古斯托·阮
+Black 布莱克
 Camina Drummer 卡米娜·德鲁默
 Cara 卡拉
 Chrisjen Avasarala 克里斯金·阿瓦萨罗拉
@@ -23,21 +24,27 @@ Cotyar Ghazi 柯特亚·加齐
 David Calrassi 大卫·卡拉西
 Diogo Harari 迪亚戈·哈拉里
 Duchet 杜谢
+Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲
 Elvi Okoye 艾薇·奥科耶 医生
 Esteban Sorrento-Gillis 埃斯特本·索伦托·吉利斯
 Fayez 法耶兹
 Frederick L. Johnson 佛瑞德里克·L·约翰逊
+Giselle 吉赛尔
 Harshaan Lee 哈沙安·李 博士
+Jacobin 雅各宾
+Jillian Houston 吉莉安·休斯顿
 Josephus A. Miller 约瑟夫·A·米勒
 Jules-Pierre Mao 朱尔斯-皮埃尔·毛
 Juliette Mao 朱莉叶·毛
 Kelly 凯利
+Kit 基特 亚历克斯儿子
 Lionel Polanski 莱昂内尔·波兰斯基
 Milan 米兰
-Muskrat 穆史克拉特
+Muskrat 穆史克拉特 特蕾莎的宠物狗
 Noel Mugabo 诺埃尔·穆加博
 Ochida 内田
 Paolo Cortázar 保罗·科塔萨尔 医生
+Rohi 罗伊 基特妻子
 Rossif 罗西夫
 Sadavir Errinwright 萨达瓦·艾伦怀特
 Sanchez 桑切斯
@@ -51,6 +58,7 @@ Xan 赞
 # 二、舰船
 Agatha King “阿加莎·金”号
 Black Kite “黑风筝”号
+Canterbury “坎特伯雷”号
 Caustic Bitch “刻薄婊子”，PinkWink “粉红女郎”
 Eight Tenets of Bushido “武士道八信条”号
 Falcon “鹰隼”号
@@ -65,9 +73,12 @@ Voice of the Whirlwind “旋风之声”号 Magnetar 磁星级
 
 # 三、企业、政府、团体
 BELT 小行星带
+Belters 小行星带人
 Force Recon Battalion 部队侦察营
+Free Navy 自由舰队
 Martian Congressional Republic（MCR） 火星国会共和国
 Martian Marine Corps 火星海军陆战队
+Nieuwestad 纽威斯特德
 Outer Planets All（OPA） 外行星联盟
 Science Directorate 科学理事会
 security forces 安全部队
@@ -79,6 +90,7 @@ UN Navy（UNN） 联合国舰队
 
 # 四、地名
 Adro system 阿德罗星系
+Auberon 奥伯伦
 Bara Gaon巴拉加恩
 Callisto 木卫四
 Ceres 谷神星
@@ -86,6 +98,7 @@ Cyllene 木卫四十八
 Deimos 火卫二
 Eros 爱神星
 Europa 木卫二
+Firdaws 菲达斯
 Ganymede 木卫三
 Gedara 格达拉
 Hecate Base 赫卡特基地
@@ -99,6 +112,7 @@ Persephone 珀耳塞福涅星系
 Phobos 火卫一
 Phoebe 土卫九
 Saturnus 土星
+Svarga Minor 小斯瓦尔加
 Tecoma 特科马
 Titan 土卫六
 Typhoon 飓风空间站
@@ -125,6 +139,7 @@ PDC 定点防御炮
 
 
 # 其他
+autodoc 自动诊疗机
 The extraction team 开采队
 comms 通讯器
 drive 引擎
@@ -132,5 +147,6 @@ Extrasolar object 系外天体
 hunting frigate 狩猎护卫舰
 ki-ka-ko “叽-咔-叩”
 material reality 物质现实
+ops deck 操作甲板
 protomolecule 原分子
 recyclers 循环器
