@@ -11,7 +11,7 @@ James R. Holden 詹姆斯·霍顿
 Naomi Nagata 奈奥米·永田
 
 
-Aliana 艾莉安娜
+Aliana Tanaka 艾莉安娜·田中
 Anderson Dawes 安德森·道斯
 Anton Trejo 安东·特雷霍
 Augusto Nguyen 奥古斯托·阮
@@ -49,8 +49,7 @@ Rossif 罗西夫
 Sadavir Errinwright 萨达瓦·艾伦怀特
 Sanchez 桑切斯
 Souther 萨瑟
-Tanaka 田中
-Teresa Duarte 特蕾莎·杜阿尔特
+Teresa Duarte 特蕾莎·杜阿尔特 Tiny 特妮
 Tristan Reeves 崔斯坦·里弗斯
 Winston Duarte 温斯顿·杜阿尔特
 Xan 赞
@@ -90,6 +89,7 @@ UN Navy（UNN） 联合国舰队
 
 # 四、地名
 Adro system 阿德罗星系
+Arcadia 阿卡迪亚
 Auberon 奥伯伦
 Bara Gaon巴拉加恩
 Callisto 木卫四
@@ -98,6 +98,7 @@ Cyllene 木卫四十八
 Deimos 火卫二
 Eros 爱神星
 Europa 木卫二
+Farhome 法厚木
 Firdaws 菲达斯
 Ganymede 木卫三
 Gedara 格达拉
@@ -144,8 +145,10 @@ The extraction team 开采队
 comms 通讯器
 drive 引擎
 Extrasolar object 系外天体
+fuel pellets 燃料球
 hunting frigate 狩猎护卫舰
 ki-ka-ko “叽-咔-叩”
+mag boots 磁力靴
 material reality 物质现实
 ops deck 操作甲板
 protomolecule 原分子
