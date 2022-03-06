@@ -44,6 +44,7 @@ Muskrat 穆史克拉特 特蕾莎的宠物狗
 Noel Mugabo 诺埃尔·穆加博
 Ochida 内田
 Paolo Cortázar 保罗·科塔萨尔 医生
+Quinn de Bodard 奎恩·德·波达
 Rohi 罗伊 基特妻子
 Rossif 罗西夫
 Sadavir Errinwright 萨达瓦·艾伦怀特
@@ -82,6 +83,7 @@ Outer Planets All（OPA） 外行星联盟
 Science Directorate 科学理事会
 security forces 安全部队
 separatist 独立主义者
+Tereshkova 捷列什科娃
 Transport Union运输联盟
 United Nations（UN） 联合国
 UN Navy（UNN） 联合国舰队
@@ -91,7 +93,7 @@ UN Navy（UNN） 联合国舰队
 Adro system 阿德罗星系
 Arcadia 阿卡迪亚
 Auberon 奥伯伦
-Bara Gaon巴拉加恩
+Bara Gaon 巴拉加恩
 Callisto 木卫四
 Ceres 谷神星
 Cyllene 木卫四十八
@@ -108,7 +110,7 @@ Laconia 拉科尼亚
 Kronos 康诺斯星系
 Medina Station 麦地那空间站
 New Egypt 新埃及
-Pallas 智神星
+Pallas 智神星空间站
 Persephone 珀耳塞福涅星系
 Phobos 火卫一
 Phoebe 土卫九
@@ -153,3 +155,4 @@ material reality 物质现实
 ops deck 操作甲板
 protomolecule 原分子
 recyclers 循环器
+slow life model 慢生命形态
