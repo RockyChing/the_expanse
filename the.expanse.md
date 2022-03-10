@@ -10,11 +10,12 @@ Bobbie Draper 博比·德雷珀
 James R. Holden 詹姆斯·霍顿
 Naomi Nagata 奈奥米·永田
 
-
+Amalie ud-Daula 阿马莉·尤道拉
 Aliana Tanaka 艾莉安娜·田中
 Anderson Dawes 安德森·道斯
 Anton Trejo 安东·特雷霍
 Augusto Nguyen 奥古斯托·阮
+Bakari 巴卡里 基特儿子
 Black 布莱克
 Camina Drummer 卡米娜·德鲁默
 Cara 卡拉
@@ -32,6 +33,7 @@ Frederick L. Johnson 佛瑞德里克·L·约翰逊
 Giselle 吉赛尔
 Harshaan Lee 哈沙安·李 博士
 Jacobin 雅各宾
+Jandol 老詹
 Jillian Houston 吉莉安·休斯顿
 Josephus A. Miller 约瑟夫·A·米勒
 Jules-Pierre Mao 朱尔斯-皮埃尔·毛
@@ -45,7 +47,7 @@ Noel Mugabo 诺埃尔·穆加博
 Ochida 内田
 Paolo Cortázar 保罗·科塔萨尔 医生
 Quinn de Bodard 奎恩·德·波达
-Rohi 罗伊 基特妻子
+Rokia 罗琪娅 Rohi 罗伊 基特妻子
 Rossif 罗西夫
 Sadavir Errinwright 萨达瓦·艾伦怀特
 Sanchez 桑切斯
@@ -53,7 +55,7 @@ Souther 萨瑟
 Teresa Duarte 特蕾莎·杜阿尔特 Tiny 特妮
 Tristan Reeves 崔斯坦·里弗斯
 Winston Duarte 温斯顿·杜阿尔特
-Xan 赞
+Xan 阿赞
 
 # 二、舰船
 Agatha King “阿加莎·金”号
@@ -76,12 +78,13 @@ BELT 小行星带
 Belters 小行星带人
 Force Recon Battalion 部队侦察营
 Free Navy 自由舰队
+Jacobin-Black Combined Capital 雅各宾-布莱克联合资本，基特
 Martian Congressional Republic（MCR） 火星国会共和国
 Martian Marine Corps 火星海军陆战队
-Nieuwestad 纽威斯特德
 Outer Planets All（OPA） 外行星联盟
 Science Directorate 科学理事会
 security forces 安全部队
+Sejong World College 世宗世界学院
 separatist 独立主义者
 Tereshkova 捷列什科娃
 Transport Union运输联盟
@@ -92,6 +95,7 @@ UN Navy（UNN） 联合国舰队
 # 四、地名
 Adro system 阿德罗星系
 Arcadia 阿卡迪亚
+Aterpol 阿特波尔
 Auberon 奥伯伦
 Bara Gaon 巴拉加恩
 Callisto 木卫四
@@ -109,11 +113,14 @@ Io 木卫一
 Laconia 拉科尼亚
 Kronos 康诺斯星系
 Medina Station 麦地那空间站
+Nag Hammadi 纳格哈马地
 New Egypt 新埃及
+Nieuwestad 纽威斯特德，重力1.2g
 Pallas 智神星空间站
 Persephone 珀耳塞福涅星系
 Phobos 火卫一
 Phoebe 土卫九
+Preiss 普瑞斯
 Saturnus 土星
 Svarga Minor 小斯瓦尔加
 Tecoma 特科马
@@ -148,6 +155,7 @@ comms 通讯器
 drive 引擎
 Extrasolar object 系外天体
 fuel pellets 燃料球
+handheld 手持机
 hunting frigate 狩猎护卫舰
 ki-ka-ko “叽-咔-叩”
 mag boots 磁力靴
