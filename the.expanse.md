@@ -28,8 +28,9 @@ Duchet 杜谢
 Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲
 Elvi Okoye 艾薇·奥科耶 医生
 Esteban Sorrento-Gillis 埃斯特本·索伦托·吉利斯
-Fayez 法耶兹
+Fayez Sarkis 法耶兹·萨基斯
 Frederick L. Johnson 佛瑞德里克·L·约翰逊
+Galwan ud-Din 加尔万·尤金
 Giselle 吉赛尔
 Harshaan Lee 哈沙安·李 博士
 Jacobin 雅各宾
@@ -86,6 +87,7 @@ Science Directorate 科学理事会
 security forces 安全部队
 Sejong World College 世宗世界学院
 separatist 独立主义者
+State Building 联邦大厦
 Tereshkova 捷列什科娃
 Transport Union运输联盟
 United Nations（UN） 联合国
@@ -105,10 +107,13 @@ Deimos 火卫二
 Eros 爱神星
 Europa 木卫二
 Farhome 法厚木
+Felicité 费利西泰
 Firdaws 菲达斯
 Ganymede 木卫三
 Gedara 格达拉
+Haza 哈扎星系
 Hecate Base 赫卡特基地
+Ilus 伊洛斯
 Io 木卫一
 Laconia 拉科尼亚
 Kronos 康诺斯星系
@@ -117,11 +122,14 @@ Nag Hammadi 纳格哈马地
 New Egypt 新埃及
 Nieuwestad 纽威斯特德，重力1.2g
 Pallas 智神星空间站
+Pátria 帕特里亚
 Persephone 珀耳塞福涅星系
 Phobos 火卫一
 Phoebe 土卫九
 Preiss 普瑞斯
+Sanctuary 圣神殿星系
 Saturnus 土星
+Sumner 萨姆纳
 Svarga Minor 小斯瓦尔加
 Tecoma 特科马
 Titan 土卫六
@@ -153,11 +161,13 @@ autodoc 自动诊疗机
 The extraction team 开采队
 comms 通讯器
 drive 引擎
+extrapolative physics 外推物理学
 Extrasolar object 系外天体
 fuel pellets 燃料球
 handheld 手持机
 hunting frigate 狩猎护卫舰
 ki-ka-ko “叽-咔-叩”
+logistics department 后勤部门
 mag boots 磁力靴
 material reality 物质现实
 ops deck 操作甲板
