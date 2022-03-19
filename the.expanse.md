@@ -10,8 +10,9 @@ Bobbie Draper 博比·德雷珀
 James R. Holden 詹姆斯·霍顿
 Naomi Nagata 奈奥米·永田
 
-Amalie ud-Daula 阿马莉·尤道拉
 Aliana Tanaka 艾莉安娜·田中
+Alvaro Pió 阿尔瓦罗·皮奥
+Amalie ud-Daula 阿马莉·尤道拉
 Anderson Dawes 安德森·道斯
 Anton Trejo 安东·特雷霍
 Augusto Nguyen 奥古斯托·阮
@@ -87,6 +88,7 @@ Science Directorate 科学理事会
 security forces 安全部队
 Sejong World College 世宗世界学院
 separatist 独立主义者
+Sohag Presbyterian Academy 索哈格长老会学院
 State Building 联邦大厦
 Tereshkova 捷列什科娃
 Transport Union运输联盟
@@ -95,6 +97,7 @@ UN Navy（UNN） 联合国舰队
 
 
 # 四、地名
+Abbassia 阿巴斯亚，新埃及宜居行星
 Adro system 阿德罗星系
 Arcadia 阿卡迪亚
 Aterpol 阿特波尔
@@ -119,8 +122,9 @@ Laconia 拉科尼亚
 Kronos 康诺斯星系
 Medina Station 麦地那空间站
 Nag Hammadi 纳格哈马地
-New Egypt 新埃及
+New Egypt 新埃及星系
 Nieuwestad 纽威斯特德，重力1.2g
+Nouvelle École 努维尔高等学校 Abbassia
 Pallas 智神星空间站
 Pátria 帕特里亚
 Persephone 珀耳塞福涅星系
