@@ -69,7 +69,7 @@ Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
 
 Perishable Harvest “短暂收获”号
-Rocinanate “罗西南多”号 Epstein 艾普斯坦
+Rocinante “罗西南多”号 Epstein 艾普斯坦
 Sparrowhawk “雀鹰”号
 Vincent Soo “苏文森”号
 Voice of the Whirlwind “旋风之声”号 Magnetar 磁星级
@@ -162,6 +162,7 @@ PDC 定点防御炮
 
 # 其他
 autodoc 自动诊疗机
+light body armor 轻型防弹盔甲
 The extraction team 开采队
 comms 通讯器
 drive 引擎
