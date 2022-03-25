@@ -28,6 +28,7 @@ Diogo Harari 迪亚戈·哈拉里
 Duchet 杜谢
 Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲
 Elvi Okoye 艾薇·奥科耶 医生
+Solomon Epstein 所罗门·爱泼斯坦 爱泼斯坦引擎
 Esteban Sorrento-Gillis 埃斯特本·索伦托·吉利斯
 Fayez Sarkis 法耶兹·萨基斯
 Frederick L. Johnson 佛瑞德里克·L·约翰逊
@@ -69,10 +70,12 @@ Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
 
 Perishable Harvest “短暂收获”号
-Rocinante “罗西南多”号 Epstein 艾普斯坦
+Rocinante “罗西南多”号
 Sparrowhawk “雀鹰”号
 Vincent Soo “苏文森”号
 Voice of the Whirlwind “旋风之声”号 Magnetar 磁星级
+Storm 暴风级驱逐舰
+
 
 
 # 三、企业、政府、团体
@@ -179,3 +182,4 @@ ops deck 操作甲板
 protomolecule 原分子
 recyclers 循环器
 slow life model 慢生命形态
+tight-beam 集束通信
