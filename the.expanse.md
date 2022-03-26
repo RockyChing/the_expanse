@@ -5,7 +5,7 @@ by 印象
 校：
 # 一、人物
 Alex Kamal 亚历克斯·卡玛尔
-Amos Burton 艾莫斯·伯顿    Timothy 蒂莫西
+Amos Burton 艾莫斯·伯顿    Timothy 蒂莫西   Bluto 布鲁托
 Bobbie Draper 博比·德雷珀
 James R. Holden 詹姆斯·霍顿
 Naomi Nagata 奈奥米·永田
@@ -70,7 +70,7 @@ Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
 
 Perishable Harvest “短暂收获”号
-Rocinante “罗西南多”号
+Rocinante “罗西南多”号 Roci “罗西”号
 Sparrowhawk “雀鹰”号
 Vincent Soo “苏文森”号
 Voice of the Whirlwind “旋风之声”号 Magnetar 磁星级
@@ -115,6 +115,7 @@ Europa 木卫二
 Farhome 法厚木
 Felicité 费利西泰
 Firdaws 菲达斯
+Freehold 弗里霍德
 Ganymede 木卫三
 Gedara 格达拉
 Haza 哈扎星系
@@ -165,21 +166,22 @@ PDC 定点防御炮
 
 # 其他
 autodoc 自动诊疗机
-light body armor 轻型防弹盔甲
-The extraction team 开采队
 comms 通讯器
 drive 引擎
+extraction team 开采队
 extrapolative physics 外推物理学
 Extrasolar object 系外天体
+flight deck 驾驶舱
 fuel pellets 燃料球
 handheld 手持机
 hunting frigate 狩猎护卫舰
 ki-ka-ko “叽-咔-叩”
+light body armor 轻型防弹盔甲
 logistics department 后勤部门
 mag boots 磁力靴
 material reality 物质现实
-ops deck 操作甲板
+ops deck 操作台
 protomolecule 原分子
 recyclers 循环器
 slow life model 慢生命形态
-tight-beam 集束通信
+tightbeam 集束通信
