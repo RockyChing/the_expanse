@@ -24,6 +24,7 @@ Chrisjen Avasarala 克里斯金·阿瓦萨罗拉
 Clarissa Mao 克拉丽莎·毛
 Cotyar Ghazi 柯特亚·加齐
 David Calrassi 大卫·卡拉西
+David Trujillo 大卫·特鲁希略
 Diogo Harari 迪亚戈·哈拉里
 Duchet 杜谢
 Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲
@@ -34,7 +35,7 @@ Fayez Sarkis 法耶兹·萨基斯
 Frederick L. Johnson 佛瑞德里克·L·约翰逊
 Galwan ud-Din 加尔万·尤金
 Giselle 吉赛尔
-Harshaan Lee 哈沙安·李 博士
+Harshaan Lee 哈沙安·李 博士 艾薇团队成员
 Jacobin 雅各宾
 Jandol 老詹
 Jillian Houston 吉莉安·休斯顿
@@ -54,6 +55,7 @@ Rokia 罗琪娅 Rohi 罗伊 基特妻子
 Rossif 罗西夫
 Sadavir Errinwright 萨达瓦·艾伦怀特
 Sanchez 桑切斯
+Sanders 桑德斯 博士 艾薇团队成员
 Souther 萨瑟
 Teresa Duarte 特蕾莎·杜阿尔特 Tiny 特妮
 Tristan Reeves 崔斯坦·里弗斯
@@ -70,6 +72,7 @@ Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
 
 Perishable Harvest “短暂收获”号
+Proteus “变形虫”号 外星飞船
 Rocinante “罗西南多”号 Roci “罗西”号
 Sparrowhawk “雀鹰”号
 Vincent Soo “苏文森”号
@@ -116,6 +119,7 @@ Farhome 法厚木
 Felicité 费利西泰
 Firdaws 菲达斯
 Freehold 弗里霍德
+Galbraith 加尔布雷斯星系
 Ganymede 木卫三
 Gedara 格达拉
 Haza 哈扎星系
@@ -175,6 +179,7 @@ flight deck 驾驶舱
 fuel pellets 燃料球
 handheld 手持机
 hunting frigate 狩猎护卫舰
+jellyfish 海蜇
 ki-ka-ko “叽-咔-叩”
 light body armor 轻型防弹盔甲
 logistics department 后勤部门
@@ -183,5 +188,7 @@ material reality 物质现实
 ops deck 操作台
 protomolecule 原分子
 recyclers 循环器
+sea slugs 海洋蛞蝓
 slow life model 慢生命形态
+Tempest “暴风雨”，神秘力量
 tightbeam 集束通信
