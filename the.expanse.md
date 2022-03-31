@@ -51,6 +51,7 @@ Noel Mugabo 诺埃尔·穆加博
 Ochida 内田
 Paolo Cortázar 保罗·科塔萨尔 医生
 Quinn de Bodard 奎恩·德·波达
+Roberta Draper 罗伯塔·德雷珀
 Rokia 罗琪娅 Rohi 罗伊 基特妻子
 Rossif 罗西夫
 Sadavir Errinwright 萨达瓦·艾伦怀特
@@ -70,6 +71,7 @@ Caustic Bitch “刻薄婊子”，PinkWink “粉红女郎”
 Eight Tenets of Bushido “武士道八信条”号
 Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
+Gathering Storm “暴风集结”号
 
 Perishable Harvest “短暂收获”号
 Proteus “变形虫”号 外星飞船
@@ -97,7 +99,7 @@ separatist 独立主义者
 Sohag Presbyterian Academy 索哈格长老会学院
 State Building 联邦大厦
 Tereshkova 捷列什科娃
-Transport Union运输联盟
+Transport Union 运输联盟
 United Nations（UN） 联合国
 UN Navy（UNN） 联合国舰队
 
@@ -190,5 +192,6 @@ protomolecule 原分子
 recyclers 循环器
 sea slugs 海洋蛞蝓
 slow life model 慢生命形态
+Sweet Sixteen 二八豆蔻
 Tempest “暴风雨”，神秘力量
 tightbeam 集束通信
