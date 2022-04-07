@@ -22,6 +22,7 @@ Black 布莱克
 Botton 波顿
 Camina Drummer 卡米娜·德鲁默
 Cara 卡拉
+Charles Parker 查尔斯·帕克
 Chrisjen Avasarala 克里斯金·阿瓦萨罗拉
 Clarissa Mao 克拉丽莎·毛
 Cotyar Ghazi 柯特亚·加齐
@@ -56,6 +57,7 @@ Quinn de Bodard 奎恩·德·波达
 Roberta Draper 罗伯塔·德雷珀
 Rokia 罗琪娅 Rohi 罗伊 基特妻子
 Rossif 罗西夫
+Saba 萨巴 地下组织
 Sadavir Errinwright 萨达瓦·艾伦怀特
 Sanchez 桑切斯
 Sanders 桑德斯 博士 艾薇团队成员
@@ -77,6 +79,7 @@ Callisto 木卫四
 Ceres 谷神星
 Cyllene 木卫四十八
 Deimos 火卫二
+Draper Station 德雷珀空间站
 Eros 爱神星
 Europa 木卫二
 Farhome 法厚木
@@ -120,14 +123,15 @@ Agatha King “阿加莎·金”号
 Black Kite “黑风筝”号
 Canterbury “坎特伯雷”号
 Caustic Bitch “刻薄婊子”，PinkWink “粉红女郎”
-Derecho “德雷科”号
 Eight Tenets of Bushido “武士道八信条”号
 Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
 Gathering Storm “暴风集结”号 Storm “暴风”号
 Perishable Harvest “短暂收获”号
 Proteus “变形虫”号 外星飞船
+Rising Derecho “瑞星·德雷科”号 “德雷科”号 拉科尼亚驱逐舰
 Rocinante “罗西南多”号 Roci “罗西”号
+Sidpai “希派”号 “罗西”号冒名的飞船
 Sparrowhawk “雀鹰”号
 Vincent Soo “苏文森”号
 Voice of the Whirlwind “旋风之声”号 Magnetar 磁星级
@@ -180,10 +184,9 @@ PDC 定点防御炮
 
 # 其他
 autodoc 自动诊疗机
-comms 通讯器
+comms 通信器
 drive 引擎
 drive signature 引擎特征
-
 extraction team 开采队
 extrapolative physics 外推物理学
 Extrasolar object 系外天体
@@ -199,10 +202,14 @@ mag boots 磁力靴
 material reality 物质现实
 ops deck 操作台
 protomolecule 原分子
+recording station 记录站
 recyclers 循环器
+rock hoppers 采矿船
 sea slugs 海洋蛞蝓
+siege of Laconia 拉科尼亚围城战
 slow life model 慢生命形态
 Sweet Sixteen 二八豆蔻
 Tempest “暴风雨”，神秘力量
 thermal profile 热力曲线
 tightbeam 集束通信
+traffic analysis 航运分析
