@@ -75,6 +75,7 @@ Arcadia 阿卡迪亚
 Aterpol 阿特波尔
 Auberon 奥伯伦星系
 Bara Gaon 巴拉加恩
+Breach Candy 布瑞彻·坎迪
 Callisto 木卫四
 Ceres 谷神星
 Cyllene 木卫四十八
@@ -98,16 +99,15 @@ Io 木卫一
 Laconia 拉科尼亚
 Kronos 康诺斯星系
 Medina Station 麦地那空间站
-Nag Hammadi 纳格哈马地
 New Egypt 新埃及星系
-Nieuwestad 纽威斯特德，重力1.2g
+Nieuwestad 纽威斯特德，重力1.2g，Fortuna Sittard 福图纳·西塔德
 Nouvelle École 努维尔高等学校 Abbassia
 Pallas 智神星空间站
 Pátria 帕特里亚
 Persephone 珀耳塞福涅星系
 Phobos 火卫一
 Phoebe 土卫九
-Preiss 普瑞斯
+San Esteban 圣埃斯特本星系
 Sanctuary 圣神殿星系
 Saturnus 土星
 Sumner 萨姆纳
@@ -127,7 +127,9 @@ Eight Tenets of Bushido “武士道八信条”号
 Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
 Gathering Storm “暴风集结”号 Storm “暴风”号
+Nag Hammadi “纳格·哈马地”号
 Perishable Harvest “短暂收获”号
+Preiss “普瑞斯”号
 Proteus “变形虫”号 外星飞船
 Rising Derecho “瑞星·德雷科”号 “德雷科”号 拉科尼亚驱逐舰
 Rocinante “罗西南多”号 Roci “罗西”号
@@ -200,6 +202,7 @@ light body armor 轻型防弹盔甲
 logistics department 后勤部门
 mag boots 磁力靴
 material reality 物质现实
+unknown entities 未知实体
 ops deck 操作台
 protomolecule 原分子
 recording station 记录站
