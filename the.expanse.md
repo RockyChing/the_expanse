@@ -50,6 +50,7 @@ Kit 基特 亚历克斯儿子
 Lionel Polanski 莱昂内尔·波兰斯基
 Milan 米兰
 Muskrat 穆史克拉特 特蕾莎的宠物狗
+Negila 内吉拉 博士
 Noel Mugabo 诺埃尔·穆加博
 Ochida 内田
 Paolo Cortázar 保罗·科塔萨尔 医生
@@ -98,6 +99,7 @@ Innis Deep 伊尼斯
 Io 木卫一
 Laconia 拉科尼亚
 Kronos 康诺斯星系
+Mariner Valley 马里纳谷
 Medina Station 麦地那空间站
 New Egypt 新埃及星系
 Nieuwestad 纽威斯特德，重力1.2g，Fortuna Sittard 福图纳·西塔德
@@ -120,6 +122,7 @@ Vesta 灶神星
 
 # 三、舰船
 Agatha King “阿加莎·金”号
+Amaterasu “天照大神”号
 Black Kite “黑风筝”号
 Canterbury “坎特伯雷”号
 Caustic Bitch “刻薄婊子”，PinkWink “粉红女郎”
@@ -141,6 +144,7 @@ Storm 暴风级驱逐舰
 
 
 # 四、企业、政府、团体
+Alighar Muslim University 阿利格尔穆斯林大学
 BELT 小行星带
 Belters 小行星带人
 Force Recon Battalion 部队侦察营
@@ -150,6 +154,7 @@ Jacobin-Black Combined Capital 雅各宾-布莱克联合资本，基特
 Martian Congressional Republic（MCR） 火星国会共和国
 Martian Marine Corps 火星海军陆战队
 Outer Planets All（OPA） 外行星联盟
+Royal Charter Energy 皇家宪章能源公司，艾薇老雇主
 Science Directorate 科学理事会
 security forces 安全部队
 Sejong World College 世宗世界学院
@@ -160,6 +165,7 @@ Survey Exploration Directorate 勘测勘探部
 Tereshkova 捷列什科娃
 Transport Union 运输联盟
 United Nations（UN） 联合国
+University of Calabar 加拉巴大学
 UN Navy（UNN） 联合国舰队
 
 
