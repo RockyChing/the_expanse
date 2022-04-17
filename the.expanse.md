@@ -185,6 +185,7 @@ Gravitar-class 重力级
 Stalker “潜行者”铠甲
 
 # 七、缩写
+HUD 平视显示屏（Head Up Display）
 MCRN 火星舰队
 OPA 外行星联盟
 PDC 定点防御炮
