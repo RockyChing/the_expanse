@@ -10,18 +10,17 @@ Bobbie Draper 博比·德雷珀
 James R. Holden 詹姆斯·霍顿
 Naomi Nagata 奈奥米·永田
 
-Akari 明里 田中姑姑
-Aliana Tanaka 艾莉安娜·田中
+
+Aliana Tanaka 艾莉安娜·田中（Akari 明里 田中姑姑）
 Alvaro Pió 阿尔瓦罗·皮奥
 Amalie ud-Daula 阿马莉·尤道拉
 Anderson Dawes 安德森·道斯
 Anton Trejo 安东·特雷霍
 Augusto Nguyen 奥古斯托·阮
-Bakari 巴卡里 基特儿子
 Black 布莱克
 Botton 波顿
 Camina Drummer 卡米娜·德鲁默
-Cara 卡拉
+Cara 卡拉（Xan 阿赞）
 Charles Parker 查尔斯·帕克
 Chrisjen Avasarala 克里斯金·阿瓦萨罗拉
 Clarissa Mao 克拉丽莎·毛
@@ -31,25 +30,23 @@ David Trujillo 大卫·特鲁希略
 Diogo Harari 迪亚戈·哈拉里
 Duchet 杜谢
 Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲
-Elvi Okoye 艾薇·奥科耶 医生
+Elvi Okoye 艾薇·奥科耶（Harshaan Lee 哈沙安·李 博士 ）
 Solomon Epstein 所罗门·爱泼斯坦 爱泼斯坦引擎
 Esteban Sorrento-Gillis 埃斯特本·索伦托·吉利斯
 Fayez Sarkis 法耶兹·萨基斯
 Frederick L. Johnson 佛瑞德里克·L·约翰逊
 Galwan ud-Din 加尔万·尤金
 Giselle 吉赛尔
-Harshaan Lee 哈沙安·李 博士 艾薇团队成员
 Jacobin 雅各宾
 Jandol 老詹
-Jillian Houston 吉莉安·休斯顿
+Jillian Houston 吉莉安·休斯顿（Bridge Caspar 布里奇·卡斯帕  Amanda Feil 阿曼达·菲尔  Natasha Li 娜塔莎·李）
 Josephus A. Miller 约瑟夫·A·米勒
 Jules-Pierre Mao 朱尔斯-皮埃尔·毛
 Juliette Mao 朱莉叶·毛
 Kelly 凯利
-Kit 基特 亚历克斯儿子
+Kit 基特 亚历克斯儿子（Bakari 巴卡里 基特儿子）
 Lionel Polanski 莱昂内尔·波兰斯基
 Milan 米兰
-Muskrat 穆史克拉特 特蕾莎的宠物狗
 Negila 内吉拉 博士
 Noel Mugabo 诺埃尔·穆加博
 Ochida 内田
@@ -63,10 +60,9 @@ Sadavir Errinwright 萨达瓦·艾伦怀特
 Sanchez 桑切斯
 Sanders 桑德斯 博士 艾薇团队成员
 Souther 萨瑟
-Teresa Duarte 特蕾莎·杜阿尔特 Tiny 特妮
+Teresa Duarte 特蕾莎·杜阿尔特 Tiny 特妮（Muskrat 穆史克拉特 特蕾莎的宠物狗）
 Tristan Reeves 崔斯坦·里弗斯
 Winston Duarte 温斯顿·杜阿尔特
-Xan 阿赞
 
 
 # 二、地名
