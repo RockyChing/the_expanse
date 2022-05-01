@@ -11,7 +11,7 @@ James R. Holden 詹姆斯·霍顿
 Naomi Nagata 奈奥米·永田
 
 
-Aliana Tanaka 艾莉安娜·田中（Akari 明里 田中姑姑）
+Aliana Tanaka 艾莉安娜·田中（Akari 明里，田中姑姑 Imahara Institute 今原学院，田中学习 Fernanda Daté 费尔南达·达特）
 Alvaro Pió 阿尔瓦罗·皮奥
 Amalie ud-Daula 阿马莉·尤道拉
 Anderson Dawes 安德森·道斯
@@ -29,12 +29,14 @@ David Calrassi 大卫·卡拉西
 David Trujillo 大卫·特鲁希略
 Diogo Harari 迪亚戈·哈拉里
 Duchet 杜谢
+Elise 伊莉丝，霍顿母亲
 Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲
 Elvi Okoye 艾薇·奥科耶（Harshaan Lee 哈沙安·李 博士 ）
+Ekko 艾克（Mallia Currán 马莉亚·柯兰 Komi Tuan 科米·图安 Annamarie 安娜玛丽）
 Solomon Epstein 所罗门·爱泼斯坦 爱泼斯坦引擎
 Esteban Sorrento-Gillis 埃斯特本·索伦托·吉利斯
 Fayez Sarkis 法耶兹·萨基斯
-Frederick L. Johnson 佛瑞德里克·L·约翰逊
+Frederick L. Johnson 佛瑞德里克·L·约翰逊（Fred Johnson 佛瑞德·约翰逊）
 Galwan ud-Din 加尔万·尤金
 Giselle 吉赛尔
 Jacobin 雅各宾
@@ -72,6 +74,7 @@ Arcadia 阿卡迪亚
 Aterpol 阿特波尔
 Auberon 奥伯伦星系
 Bara Gaon 巴拉加恩
+Behrenhold 贝伦霍德
 Breach Candy 布瑞彻·坎迪
 Callisto 木卫四
 Ceres 谷神星
@@ -100,7 +103,9 @@ Medina Station 麦地那空间站
 New Egypt 新埃及星系
 Nieuwestad 纽威斯特德，重力1.2g，Fortuna Sittard 福图纳·西塔德
 Nouvelle École 努维尔高等学校 Abbassia
-Pallas 智神星空间站
+Nuriel 努里尔星系
+Pallas 智神星空间站 Pallas-Tycho 智神星-第谷
+
 Pátria 帕特里亚
 Persephone 珀耳塞福涅星系
 Phobos 火卫一
@@ -125,6 +130,7 @@ Caustic Bitch “刻薄婊子”，PinkWink “粉红女郎”
 Eight Tenets of Bushido “武士道八信条”号
 Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
+Forgiveness “宽恕”号
 Gathering Storm “暴风集结”号 Storm “暴风”号
 Nag Hammadi “纳格·哈马地”号
 Perishable Harvest “短暂收获”号
@@ -132,6 +138,7 @@ Preiss “普瑞斯”号
 Proteus “变形虫”号 外星飞船
 Rising Derecho “瑞星·德雷科”号 “德雷科”号 拉科尼亚驱逐舰
 Rocinante “罗西南多”号 Roci “罗西”号
+Scopuli “海岩”号
 Sidpai “希派”号 “罗西”号冒名的飞船
 Sparrowhawk “雀鹰”号
 Vincent Soo “苏文森”号
