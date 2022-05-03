@@ -15,6 +15,7 @@ Aliana Tanaka 艾莉安娜·田中（Akari 明里，田中姑姑 Imahara Institu
 Alvaro Pió 阿尔瓦罗·皮奥
 Amalie ud-Daula 阿马莉·尤道拉
 Anderson Dawes 安德森·道斯
+Anet Dimitriadis 阿诺特·迪米特里斯
 Anton Trejo 安东·特雷霍
 Augusto Nguyen 奥古斯托·阮
 Black 布莱克
@@ -73,11 +74,12 @@ Adro system 阿德罗星系
 Arcadia 阿卡迪亚
 Aterpol 阿特波尔
 Auberon 奥伯伦星系
-Bara Gaon 巴拉加恩
+Bara Gaon 巴拉加恩星系
 Behrenhold 贝伦霍德
 Breach Candy 布瑞彻·坎迪
 Callisto 木卫四
 Ceres 谷神星
+Corazon Sagrado 科拉松·萨拉多 星系
 Cyllene 木卫四十八
 Deimos 火卫二
 Draper Station 德雷珀空间站
@@ -98,6 +100,7 @@ Innis Deep 伊尼斯
 Io 木卫一
 Laconia 拉科尼亚
 Kronos 康诺斯星系
+Magpie 马格佩星系
 Mariner Valley 马里纳谷
 Medina Station 麦地那空间站
 New Egypt 新埃及星系
@@ -105,7 +108,7 @@ Nieuwestad 纽威斯特德，重力1.2g，Fortuna Sittard 福图纳·西塔德
 Nouvelle École 努维尔高等学校 Abbassia
 Nuriel 努里尔星系
 Pallas 智神星空间站 Pallas-Tycho 智神星-第谷
-
+Pankaja 潘卡雅星系
 Pátria 帕特里亚
 Persephone 珀耳塞福涅星系
 Phobos 火卫一
@@ -134,6 +137,7 @@ Forgiveness “宽恕”号
 Gathering Storm “暴风集结”号 Storm “暴风”号
 Nag Hammadi “纳格·哈马地”号
 Perishable Harvest “短暂收获”号
+Pleasant Life “愉快生活”号
 Preiss “普瑞斯”号
 Proteus “变形虫”号 外星飞船
 Rising Derecho “瑞星·德雷科”号 “德雷科”号 拉科尼亚驱逐舰
