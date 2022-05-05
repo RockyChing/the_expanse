@@ -118,6 +118,7 @@ Sanctuary 圣神殿星系
 Saturnus 土星
 Sumner 萨姆纳
 Svarga Minor 小斯瓦尔加
+Thanjavur 坦加布尔
 Tecoma 特科马
 Titan 土卫六
 Typhoon 飓风空间站
@@ -201,6 +202,7 @@ PDC 定点防御炮
 # 其他
 autodoc 自动诊疗机
 comms 通信器
+docking bridge 对接桥
 drive 引擎
 drive signature 引擎特征
 extraction team 开采队
