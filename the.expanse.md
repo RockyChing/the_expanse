@@ -33,11 +33,12 @@ Duchet 杜谢
 Elise 伊莉丝，霍顿母亲
 Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲
 Elvi Okoye 艾薇·奥科耶（Harshaan Lee 哈沙安·李 博士 ）
-Ekko 艾克（Mallia Currán 马莉亚·柯兰 Komi Tuan 科米·图安 Annamarie 安娜玛丽）
+Ekko Levy 艾克·利维（Mallia Currán 马莉亚·柯兰 Komi Tuan 科米·图安 Annamarie 安娜玛丽）
 Solomon Epstein 所罗门·爱泼斯坦 爱泼斯坦引擎
 Esteban Sorrento-Gillis 埃斯特本·索伦托·吉利斯
 Fayez Sarkis 法耶兹·萨基斯
 Frederick L. Johnson 佛瑞德里克·L·约翰逊（Fred Johnson 佛瑞德·约翰逊）
+Gagnon 加格农，医生
 Galwan ud-Din 加尔万·尤金
 Giselle 吉赛尔
 Jacobin 雅各宾
@@ -47,6 +48,7 @@ Josephus A. Miller 约瑟夫·A·米勒
 Jules-Pierre Mao 朱尔斯-皮埃尔·毛
 Juliette Mao 朱莉叶·毛
 Kelly 凯利
+Kim Randall 金姆·兰德尔
 Kit 基特 亚历克斯儿子（Bakari 巴卡里 基特儿子）
 Lionel Polanski 莱昂内尔·波兰斯基
 Milan 米兰
@@ -92,6 +94,7 @@ Freehold 弗里霍德
 Galbraith 加尔布雷斯星系
 Ganymede 木卫三
 Gedara 格达拉
+Gewitter Base 盖维特基地
 Harris 哈里斯星系
 Haza 哈扎星系
 Hecate Base 赫卡特基地
@@ -210,6 +213,7 @@ extrapolative physics 外推物理学
 Extrasolar object 系外天体
 flight deck 驾驶舱
 fuel pellets 燃料球
+goldilocks zone 可居住区
 handheld 手持机
 hunting frigate 狩猎护卫舰
 jellyfish 海蜇
@@ -230,5 +234,6 @@ slow life model 慢生命形态
 Sweet Sixteen 二八豆蔻
 Tempest “暴风雨”，神秘力量
 thermal profile 热力曲线
+the Pen “高墙”
 tightbeam 集束通信
 traffic analysis 航运分析
