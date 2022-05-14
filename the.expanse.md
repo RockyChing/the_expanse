@@ -32,15 +32,17 @@ Diogo Harari 迪亚戈·哈拉里
 Duchet 杜谢
 Elise 伊莉丝，霍顿母亲
 Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲
-Elvi Okoye 艾薇·奥科耶（Harshaan Lee 哈沙安·李 博士 ）
+Elvi Okoye 艾薇·奥科耶
 Ekko Levy 艾克·利维（Mallia Currán 马莉亚·柯兰 Komi Tuan 科米·图安 Annamarie 安娜玛丽）
 Solomon Epstein 所罗门·爱泼斯坦 爱泼斯坦引擎
 Esteban Sorrento-Gillis 埃斯特本·索伦托·吉利斯
 Fayez Sarkis 法耶兹·萨基斯
+Francisca Torrez 弗朗西斯卡·托雷斯
 Frederick L. Johnson 佛瑞德里克·L·约翰逊（Fred Johnson 佛瑞德·约翰逊）
 Gagnon 加格农，医生
 Galwan ud-Din 加尔万·尤金
 Giselle 吉赛尔
+Harshaan Lee 哈沙安·李 博士
 Jacobin 雅各宾
 Jandol 老詹
 Jillian Houston 吉莉安·休斯顿（Bridge Caspar 布里奇·卡斯帕  Amanda Feil 阿曼达·菲尔  Natasha Li 娜塔莎·李）
