@@ -210,6 +210,7 @@ comms 通信器
 docking bridge 对接桥
 drive 引擎
 drive signature 引擎特征
+entity 存在物（gate/ring entity 星环里的存在物）
 extraction team 开采队
 extrapolative physics 外推物理学
 Extrasolar object 系外天体
