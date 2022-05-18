@@ -3,6 +3,11 @@
 by 印象
 译：22.
 校：
+
+James S.A. Corey 詹姆斯·S. A.科里
+Daniel Abraham 丹尼尔·亚伯拉罕
+Ty Franck 泰·弗兰克
+
 # 一、人物
 Alex Kamal 亚历克斯·卡玛尔
 Amos Burton 艾莫斯·伯顿    Timothy 蒂莫西   Bluto 布鲁托
