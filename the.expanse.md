@@ -16,7 +16,7 @@ James R. Holden 詹姆斯·霍顿
 Naomi Nagata 奈奥米·永田
 
 
-Aliana Tanaka 艾莉安娜·田中（Akari 明里，田中姑姑 Imahara Institute 今原学院，田中学习 Fernanda Daté 费尔南达·达特）
+Aliana Tanaka 艾莉安娜·田中（Ahmadi 艾哈迈迪，少校 Akari 明里，田中姑姑  Fernanda Daté 费尔南达·达特 Imahara Institute 今原学院，田中学校 Imogene Batia 伊莫金·巴蒂亚 Tristan Reeves 崔斯坦·里弗斯）
 Alvaro Pió 阿尔瓦罗·皮奥
 Amalie ud-Daula 阿马莉·尤道拉
 Anderson Dawes 安德森·道斯
@@ -73,7 +73,6 @@ Sanchez 桑切斯
 Sanders 桑德斯 博士 艾薇团队成员
 Souther 萨瑟
 Teresa Duarte 特蕾莎·杜阿尔特 Tiny 特妮（Muskrat 穆史克拉特 特蕾莎的宠物狗）
-Tristan Reeves 崔斯坦·里弗斯
 Winston Duarte 温斯顿·杜阿尔特
 
 
@@ -172,6 +171,7 @@ Jacobin-Black Combined Capital 雅各宾-布莱克联合资本，基特
 Martian Congressional Republic（MCR） 火星国会共和国
 Martian Marine Corps 火星海军陆战队
 Outer Planets All（OPA） 外行星联盟
+Psychiatric Services 精神科服务部
 Royal Charter Energy 皇家宪章能源公司，艾薇老雇主
 Science Directorate 科学理事会
 security forces 安全部队
@@ -214,6 +214,7 @@ autodoc 自动诊疗机
 comms 通信器
 docking bridge 对接桥
 drive 引擎
+drive plume 引擎焰（引擎羽流）
 drive signature 引擎特征
 entity 存在物（gate/ring entity 星环里的存在物）
 extraction team 开采队
