@@ -56,7 +56,7 @@ Jules-Pierre Mao 朱尔斯-皮埃尔·毛
 Juliette Mao 朱莉叶·毛
 Kelly 凯利
 Kim Randall 金姆·兰德尔
-Kit 基特 亚历克斯儿子（Bakari 巴卡里 基特儿子）
+Kit Kamal 基特·卡玛尔 亚历克斯儿子（Bakari 巴卡里，基特儿子 Himemiya Gosset 希梅米亚·戈塞特）
 Lionel Polanski 莱昂内尔·波兰斯基
 Milan 米兰
 Negila 内吉拉 博士
@@ -113,7 +113,7 @@ Magpie 马格佩星系
 Mariner Valley 马里纳谷
 Medina Station 麦地那空间站
 New Egypt 新埃及星系
-Nieuwestad 纽威斯特德，重力1.2g，Fortuna Sittard 福图纳·西塔德
+Nieuwestad 纽威斯特德，重力1.2g，（Fortuna Sittard 福图纳·西塔德，首都）
 Nouvelle École 努维尔高等学校 Abbassia
 Nuriel 努里尔星系
 Pallas 智神星空间站 Pallas-Tycho 智神星-第谷
@@ -167,7 +167,7 @@ Belters 小行星带人
 Force Recon Battalion 部队侦察营
 Free Navy 自由舰队
 Intelligence Directorate 情报部
-Jacobin-Black Combined Capital 雅各宾-布莱克联合资本，基特
+Jacobin-Black Combined Capital 雅各宾-布莱克联合资本（JBCC “雅布资本” 基特）
 Martian Congressional Republic（MCR） 火星国会共和国
 Martian Marine Corps 火星海军陆战队
 Outer Planets All（OPA） 外行星联盟
