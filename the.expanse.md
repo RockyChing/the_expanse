@@ -10,23 +10,28 @@ Ty Franck 泰·弗兰克
 
 # 一、人物
 Alex Kamal 亚历克斯·卡玛尔
-Amos Burton 艾莫斯·伯顿    Timothy 蒂莫西   Bluto 布鲁托
+Amos Burton 艾莫斯·伯顿（Timothy 蒂莫西 Bluto 布鲁托）
 Bobbie Draper 博比·德雷珀
 James R. Holden 詹姆斯·霍顿
 Naomi Nagata 奈奥米·永田
 
-
-Aliana Tanaka 艾莉安娜·田中（Ahmadi 艾哈迈迪，少校 Akari 明里，田中姑姑  Fernanda Daté 费尔南达·达特 Imahara Institute 今原学院，田中学校 Imogene Batia 伊莫金·巴蒂亚 Tristan Reeves 崔斯坦·里弗斯）
+Ahmadi 艾哈迈迪，少校
+Aliana Tanaka 艾莉安娜·田中
+Akari 明里，田中姑姑
 Alvaro Pió 阿尔瓦罗·皮奥
 Amalie ud-Daula 阿马莉·尤道拉
+Amanda Feil 阿曼达·菲尔
 Anderson Dawes 安德森·道斯
 Anet Dimitriadis 阿诺特·迪米特里斯
+Annamarie 安娜玛丽
 Anton Trejo 安东·特雷霍
 Augusto Nguyen 奥古斯托·阮
+Bakari 巴卡里，基特儿子
 Black 布莱克
 Botton 波顿
+Bridge Caspar 布里奇·卡斯帕
 Camina Drummer 卡米娜·德鲁默
-Cara 卡拉（Xan 阿赞）
+Cara 卡拉
 Charles Parker 查尔斯·帕克
 Chrisjen Avasarala 克里斯金·阿瓦萨罗拉
 Clarissa Mao 克拉丽莎·毛
@@ -38,27 +43,37 @@ Duchet 杜谢
 Elise 伊莉丝，霍顿母亲
 Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲
 Elvi Okoye 艾薇·奥科耶
-Ekko Levy 艾克·利维（Mallia Currán 马莉亚·柯兰 Komi Tuan 科米·图安 Annamarie 安娜玛丽）
-Solomon Epstein 所罗门·爱泼斯坦 爱泼斯坦引擎
+Ekko Levy 艾克·利维
+Emilia Bell-Cavat 艾米利娅·贝尔-卡瓦特
 Esteban Sorrento-Gillis 埃斯特本·索伦托·吉利斯
 Fayez Sarkis 法耶兹·萨基斯
+Fernanda Daté 费尔南达·达特
 Francisca Torrez 弗朗西斯卡·托雷斯
 Frederick L. Johnson 佛瑞德里克·L·约翰逊（Fred Johnson 佛瑞德·约翰逊）
 Gagnon 加格农，医生
 Galwan ud-Din 加尔万·尤金
 Giselle 吉赛尔
+Gregor Shapiro 格雷戈·夏皮罗
 Harshaan Lee 哈沙安·李 博士
+Himemiya Gosset 希梅米亚·戈塞特
+Imogene Batia 伊莫金·巴蒂亚
 Jacobin 雅各宾
 Jandol 老詹
-Jillian Houston 吉莉安·休斯顿（Bridge Caspar 布里奇·卡斯帕  Amanda Feil 阿曼达·菲尔  Natasha Li 娜塔莎·李）
-Josephus A. Miller 约瑟夫·A·米勒
+Jillian Houston 吉莉安·休斯顿
+Josephus A. Miller 约瑟夫·A·米勒 
 Jules-Pierre Mao 朱尔斯-皮埃尔·毛
 Juliette Mao 朱莉叶·毛
+Kachela al-Din 卡切拉·丁
 Kelly 凯利
 Kim Randall 金姆·兰德尔
-Kit Kamal 基特·卡玛尔 亚历克斯儿子（Bakari 巴卡里，基特儿子 Himemiya Gosset 希梅米亚·戈塞特）
+Kit Kamal 基特·卡玛尔 亚历克斯儿子
+Komi Tuan 科米·图安
 Lionel Polanski 莱昂内尔·波兰斯基
+Mallia Currán 马莉亚·柯兰
+McDowell 麦道尔
 Milan 米兰
+Muskrat 穆史克拉特 特蕾莎的宠物狗
+Natasha Li 娜塔莎·李
 Negila 内吉拉 博士
 Noel Mugabo 诺埃尔·穆加博
 Ochida 内田
@@ -71,9 +86,13 @@ Saba 萨巴 地下组织
 Sadavir Errinwright 萨达瓦·艾伦怀特
 Sanchez 桑切斯
 Sanders 桑德斯 博士 艾薇团队成员
+Solomon Epstein 所罗门·爱泼斯坦 爱泼斯坦引擎
 Souther 萨瑟
-Teresa Duarte 特蕾莎·杜阿尔特 Tiny 特妮（Muskrat 穆史克拉特 特蕾莎的宠物狗）
+Teresa Duarte 特蕾莎·杜阿尔特（Tiny 特妮）
+Théo Ammundsun 西奥·阿蒙德桑
+Tristan Reeves 崔斯坦·里弗斯
 Winston Duarte 温斯顿·杜阿尔特
+Xan 阿赞
 
 
 # 二、地名
@@ -86,6 +105,7 @@ Bara Gaon 巴拉加恩星系
 Behrenhold 贝伦霍德
 Breach Candy 布瑞彻·坎迪
 Callisto 木卫四
+Calypso 木卫十四
 Ceres 谷神星
 Corazon Sagrado 科拉松·萨拉多 星系
 Cyllene 木卫四十八
@@ -96,6 +116,7 @@ Europa 木卫二
 Farhome 法厚木
 Felicité 费利西泰
 Firdaws 菲达斯
+Fortuna Sittard 福图纳·西塔德，纽威斯特德的首都
 Freehold 弗里霍德
 Galbraith 加尔布雷斯星系
 Ganymede 木卫三
@@ -108,12 +129,14 @@ Ilus 伊洛斯
 Innis Deep 伊尼斯
 Io 木卫一
 Laconia 拉科尼亚
+Larson 拉森
 Kronos 康诺斯星系
 Magpie 马格佩星系
 Mariner Valley 马里纳谷
 Medina Station 麦地那空间站
 New Egypt 新埃及星系
-Nieuwestad 纽威斯特德，重力1.2g，（Fortuna Sittard 福图纳·西塔德，首都）
+New Greece 新希腊
+Nieuwestad 纽威斯特德，重力1.2g
 Nouvelle École 努维尔高等学校 Abbassia
 Nuriel 努里尔星系
 Pallas 智神星空间站 Pallas-Tycho 智神星-第谷
@@ -123,6 +146,7 @@ Persephone 珀耳塞福涅星系
 Phobos 火卫一
 Phoebe 土卫九
 San Esteban 圣埃斯特本星系
+San Ysidro 圣易西铎（圣地亚哥）
 Sanctuary 圣神殿星系
 Saturnus 土星
 Sumner 萨姆纳
@@ -151,7 +175,7 @@ Pleasant Life “愉快生活”号
 Preiss “普瑞斯”号
 Proteus “变形虫”号 外星飞船
 Rising Derecho “瑞星·德雷科”号 “德雷科”号 拉科尼亚驱逐舰
-Rocinante “罗西南多”号 Roci “罗西”号
+Rocinante “罗西南多”号（Roci “罗西”号，Tachi “太刀”号）
 Scopuli “海岩”号
 Sidpai “希派”号 “罗西”号冒名的飞船
 Sparrowhawk “雀鹰”号
@@ -166,6 +190,7 @@ BELT 小行星带
 Belters 小行星带人
 Force Recon Battalion 部队侦察营
 Free Navy 自由舰队
+Imahara Institute 今原学院，田中学校
 Intelligence Directorate 情报部
 Jacobin-Black Combined Capital 雅各宾-布莱克联合资本（JBCC “雅布资本” 基特）
 Martian Congressional Republic（MCR） 火星国会共和国
@@ -210,6 +235,7 @@ PDC 定点防御炮
 
 
 # 其他
+alien artifact 外星神器
 autodoc 自动诊疗机
 comms 通信器
 docking bridge 对接桥
@@ -231,6 +257,7 @@ light body armor 轻型防弹盔甲
 logistics department 后勤部门
 mag boots 磁力靴
 material reality 物质现实
+nonlocal signaling protocols 跨域信令协议
 unknown entities 未知实体
 ops deck 操作台
 protomolecule 原分子
