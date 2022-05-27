@@ -38,6 +38,7 @@ Clarissa Mao 克拉丽莎·毛
 Cotyar Ghazi 柯特亚·加齐
 David Calrassi 大卫·卡拉西
 David Trujillo 大卫·特鲁希略
+De Caamp 德坎普，中尉
 Diogo Harari 迪亚戈·哈拉里
 Duchet 杜谢
 Elise 伊莉丝，霍顿母亲
@@ -75,6 +76,7 @@ Milan 米兰
 Muskrat 穆史克拉特 特蕾莎的宠物狗
 Natasha Li 娜塔莎·李
 Negila 内吉拉 博士
+Nobuyuki 诺布雪
 Noel Mugabo 诺埃尔·穆加博
 Ochida 内田
 Paolo Cortázar 保罗·科塔萨尔 医生
@@ -127,6 +129,7 @@ Haza 哈扎星系
 Hecate Base 赫卡特基地
 Ilus 伊洛斯
 Innis Deep 伊尼斯
+Innis Shallows 伊尼斯浅滩
 Io 木卫一
 Laconia 拉科尼亚
 Larson 拉森
@@ -249,7 +252,7 @@ Extrasolar object 系外天体
 flight deck 驾驶舱
 fuel pellets 燃料球
 goldilocks zone 可居住区
-handheld 手持机
+hand terminal 手持终端
 hunting frigate 狩猎护卫舰
 jellyfish 海蜇
 ki-ka-ko “叽-咔-叩”
