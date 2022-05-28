@@ -23,6 +23,7 @@ Amalie ud-Daula 阿马莉·尤道拉
 Amanda Feil 阿曼达·菲尔
 Anderson Dawes 安德森·道斯
 Anet Dimitriadis 阿诺特·迪米特里斯
+Anna Reál 安娜·雷亚尔
 Annamarie 安娜玛丽
 Anton Trejo 安东·特雷霍
 Augusto Nguyen 奥古斯托·阮
@@ -31,7 +32,7 @@ Black 布莱克
 Botton 波顿
 Bridge Caspar 布里奇·卡斯帕
 Camina Drummer 卡米娜·德鲁默
-Cara 卡拉
+Cara 卡拉（Sparkles 光闪闪，艾莫斯称之）
 Charles Parker 查尔斯·帕克
 Chrisjen Avasarala 克里斯金·阿瓦萨罗拉
 Clarissa Mao 克拉丽莎·毛
@@ -88,6 +89,7 @@ Saba 萨巴 地下组织
 Sadavir Errinwright 萨达瓦·艾伦怀特
 Sanchez 桑切斯
 Sanders 桑德斯 博士 艾薇团队成员
+Shin Jung Park 朴新荣·帕克
 Solomon Epstein 所罗门·爱泼斯坦 爱泼斯坦引擎
 Souther 萨瑟
 Teresa Duarte 特蕾莎·杜阿尔特（Tiny 特妮）
@@ -105,6 +107,7 @@ Aterpol 阿特波尔
 Auberon 奥伯伦星系
 Bara Gaon 巴拉加恩星系
 Behrenhold 贝伦霍德
+Benin City 贝宁城
 Breach Candy 布瑞彻·坎迪
 Callisto 木卫四
 Calypso 木卫十四
@@ -139,6 +142,7 @@ Mariner Valley 马里纳谷
 Medina Station 麦地那空间站
 New Egypt 新埃及星系
 New Greece 新希腊
+New Wales 新威尔士
 Nieuwestad 纽威斯特德，重力1.2g
 Nouvelle École 努维尔高等学校 Abbassia
 Nuriel 努里尔星系
@@ -159,6 +163,7 @@ Tecoma 特科马
 Titan 土卫六
 Typhoon 飓风空间站
 Vesta 灶神星
+Warsaw 华沙（波兰首都）
 
 
 # 三、舰船
@@ -182,6 +187,7 @@ Rocinante “罗西南多”号（Roci “罗西”号，Tachi “太刀”号�
 Scopuli “海岩”号
 Sidpai “希派”号 “罗西”号冒名的飞船
 Sparrowhawk “雀鹰”号
+Spider Webb “斯派德·韦勃”号
 Vincent Soo “苏文森”号
 Voice of the Whirlwind “旋风之声”号 Magnetar 磁星级
 Storm 暴风级驱逐舰
@@ -266,6 +272,7 @@ ops deck 操作台
 protomolecule 原分子
 recording station 记录站
 recyclers 循环器
+repair drones 修复无人机
 rock hoppers 采矿船
 sea slugs 海洋蛞蝓
 siege of Laconia 拉科尼亚围城战
