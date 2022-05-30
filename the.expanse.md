@@ -238,15 +238,18 @@ Stalker “潜行者”铠甲
 
 # 七、缩写
 HUD 平视显示屏（Head Up Display）
+IFF 敌我识别系统（Identification Friend or Foe）
 MCRN 火星舰队
 OPA 外行星联盟
 PDC 定点防御炮
+SIGINT 信号情报部
 
 
 # 其他
 alien artifact 外星神器
 autodoc 自动诊疗机
 comms 通信器
+crash couch 抗压座椅
 docking bridge 对接桥
 drive 引擎
 drive plume 引擎焰（引擎羽流）
@@ -283,3 +286,4 @@ thermal profile 热力曲线
 the Pen “高墙”
 tightbeam 集束通信
 traffic analysis 航运分析
+vac suit 太空服
