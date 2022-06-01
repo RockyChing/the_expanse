@@ -36,6 +36,7 @@ Cara 卡拉（Sparkles 光闪闪，艾莫斯称之）
 Charles Parker 查尔斯·帕克
 Chrisjen Avasarala 克里斯金·阿瓦萨罗拉
 Clarissa Mao 克拉丽莎·毛
+Coleridge 柯勒律治
 Cotyar Ghazi 柯特亚·加齐
 David Calrassi 大卫·卡拉西
 David Trujillo 大卫·特鲁希略
@@ -148,6 +149,7 @@ Nouvelle École 努维尔高等学校 Abbassia
 Nuriel 努里尔星系
 Pallas 智神星空间站 Pallas-Tycho 智神星-第谷
 Pankaja 潘卡雅星系
+Parker 帕克星系
 Pátria 帕特里亚
 Persephone 珀耳塞福涅星系
 Phobos 火卫一
@@ -177,6 +179,8 @@ Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
 Forgiveness “宽恕”号
 Gathering Storm “暴风集结”号 Storm “暴风”号
+Ilrys Eves “伊勒斯·艾夫斯”号
+Konjin “金神”号
 Nag Hammadi “纳格·哈马地”号
 Perishable Harvest “短暂收获”号
 Pleasant Life “愉快生活”号
