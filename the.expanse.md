@@ -36,6 +36,7 @@ Cara 卡拉（Sparkles 光闪闪，艾莫斯称之）
 Charles Parker 查尔斯·帕克
 Chrisjen Avasarala 克里斯金·阿瓦萨罗拉
 Clarissa Mao 克拉丽莎·毛
+Cole 科尔
 Coleridge 柯勒律治
 Cotyar Ghazi 柯特亚·加齐
 David Calrassi 大卫·卡拉西
@@ -62,6 +63,7 @@ Himemiya Gosset 希梅米亚·戈塞特
 Imogene Batia 伊莫金·巴蒂亚
 Jacobin 雅各宾
 Jandol 老詹
+Jenna 詹娜
 Jillian Houston 吉莉安·休斯顿
 Josephus A. Miller 约瑟夫·A·米勒 
 Jules-Pierre Mao 朱尔斯-皮埃尔·毛
@@ -81,6 +83,7 @@ Negila 内吉拉 博士
 Nobuyuki 诺布雪
 Noel Mugabo 诺埃尔·穆加博
 Ochida 内田
+Oran Alberts 奥兰·艾伯特
 Paolo Cortázar 保罗·科塔萨尔 医生
 Quinn de Bodard 奎恩·德·波达
 Roberta Draper 罗伯塔·德雷珀
@@ -93,9 +96,11 @@ Sanders 桑德斯 博士 艾薇团队成员
 Shin Jung Park 朴新荣·帕克
 Solomon Epstein 所罗门·爱泼斯坦 爱泼斯坦引擎
 Souther 萨瑟
+Susan Yi 伊苏珊
 Teresa Duarte 特蕾莎·杜阿尔特（Tiny 特妮）
 Théo Ammundsun 西奥·阿蒙德桑
 Tristan Reeves 崔斯坦·里弗斯
+Weyrick 韦里克
 Winston Duarte 温斯顿·杜阿尔特
 Xan 阿赞
 
@@ -157,6 +162,7 @@ Phoebe 土卫九
 San Esteban 圣埃斯特本星系
 San Ysidro 圣易西铎（圣地亚哥）
 Sanctuary 圣神殿星系
+Sao Paulo 圣保罗
 Saturnus 土星
 Sumner 萨姆纳
 Svarga Minor 小斯瓦尔加
@@ -244,6 +250,7 @@ Stalker “潜行者”铠甲
 HUD 平视显示屏（Head Up Display）
 IFF 敌我识别系统（Identification Friend or Foe）
 MCRN 火星舰队
+NIR 近红外（Near-Infrared）
 OPA 外行星联盟
 PDC 定点防御炮
 SIGINT 信号情报部
@@ -252,6 +259,7 @@ SIGINT 信号情报部
 # 其他
 alien artifact 外星神器
 autodoc 自动诊疗机
+by the numbers and by the book 按照命令去做吧
 comms 通信器
 crash couch 抗压座椅
 docking bridge 对接桥
