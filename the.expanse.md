@@ -67,7 +67,7 @@ Jenna 詹娜
 Jillian Houston 吉莉安·休斯顿
 Josephus A. Miller 约瑟夫·A·米勒 
 Jules-Pierre Mao 朱尔斯-皮埃尔·毛
-Juliette Mao 朱莉叶·毛
+Juliette Mao 朱莉叶·毛 （Julie Mao 朱莉·毛）
 Kachela al-Din 卡切拉·丁
 Kelly 凯利
 Kim Randall 金姆·兰德尔
