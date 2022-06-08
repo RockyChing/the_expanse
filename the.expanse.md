@@ -27,12 +27,13 @@ Anna Reál 安娜·雷亚尔
 Annamarie 安娜玛丽
 Anton Trejo 安东·特雷霍
 Augusto Nguyen 奥古斯托·阮
-Bakari 巴卡里，基特儿子
+Bakari 巴卡里（基特儿子）
 Black 布莱克
 Botton 波顿
 Bridge Caspar 布里奇·卡斯帕
 Camina Drummer 卡米娜·德鲁默
 Cara 卡拉（Sparkles 光闪闪，艾莫斯称之）
+Casey 凯西
 Charles Parker 查尔斯·帕克
 Chrisjen Avasarala 克里斯金·阿瓦萨罗拉
 Clarissa Mao 克拉丽莎·毛
@@ -56,11 +57,12 @@ Francisca Torrez 弗朗西斯卡·托雷斯
 Frederick L. Johnson 佛瑞德里克·L·约翰逊（Fred Johnson 佛瑞德·约翰逊）
 Gagnon 加格农，医生
 Galwan ud-Din 加尔万·尤金
-Giselle 吉赛尔
+Giselle 吉赛尔（亚历克斯妻子）
 Gregor Shapiro 格雷戈·夏皮罗
 Harshaan Lee 哈沙安·李 博士
 Himemiya Gosset 希梅米亚·戈塞特
 Imogene Batia 伊莫金·巴蒂亚
+Jacob 雅各布
 Jacobin 雅各宾
 Jandol 老詹
 Jenna 詹娜
@@ -71,11 +73,12 @@ Juliette Mao 朱莉叶·毛 （Julie Mao 朱莉·毛）
 Kachela al-Din 卡切拉·丁
 Kelly 凯利
 Kim Randall 金姆·兰德尔
-Kit Kamal 基特·卡玛尔 亚历克斯儿子
+Kit Kamal 基特·卡玛尔
 Komi Tuan 科米·图安
 Lionel Polanski 莱昂内尔·波兰斯基
 Mallia Currán 马莉亚·柯兰
 McDowell 麦道尔
+Michio Pa 道央·帕
 Milan 米兰
 Muskrat 穆史克拉特 特蕾莎的宠物狗
 Natasha Li 娜塔莎·李
@@ -87,7 +90,7 @@ Oran Alberts 奥兰·艾伯特
 Paolo Cortázar 保罗·科塔萨尔 医生
 Quinn de Bodard 奎恩·德·波达
 Roberta Draper 罗伯塔·德雷珀
-Rokia 罗琪娅 Rohi 罗伊 基特妻子
+Rokia 罗琪娅（Rohi 罗伊基特妻子）
 Rossif 罗西夫
 Saba 萨巴 地下组织
 Sadavir Errinwright 萨达瓦·艾伦怀特
@@ -133,6 +136,7 @@ Galbraith 加尔布雷斯星系
 Ganymede 木卫三
 Gedara 格达拉
 Gewitter Base 盖维特基地
+Hakuseki 哈库斯基
 Harris 哈里斯星系
 Haza 哈扎星系
 Hecate Base 赫卡特基地
@@ -164,12 +168,14 @@ San Ysidro 圣易西铎（圣地亚哥）
 Sanctuary 圣神殿星系
 Sao Paulo 圣保罗
 Saturnus 土星
+St. Anthony 圣安东尼
 Sumner 萨姆纳
 Svarga Minor 小斯瓦尔加
 Thanjavur 坦加布尔
 Tecoma 特科马
 Titan 土卫六
 Typhoon 飓风空间站
+Venus 金星
 Vesta 灶神星
 Warsaw 华沙（波兰首都）
 
@@ -177,15 +183,21 @@ Warsaw 华沙（波兰首都）
 # 三、舰船
 Agatha King “阿加莎·金”号
 Amaterasu “天照大神”号
+Armando Guelf “阿曼多·格尔夫”号
 Black Kite “黑风筝”号
+Blackberry “黑莓”号
+Brother Dog “兄弟狗”号
 Canterbury “坎特伯雷”号
 Caustic Bitch “刻薄婊子”，PinkWink “粉红女郎”
+Dhupa “丹帕”号
 Eight Tenets of Bushido “武士道八信条”号
 Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
 Forgiveness “宽恕”号
 Gathering Storm “暴风集结”号 Storm “暴风”号
 Ilrys Eves “伊勒斯·艾夫斯”号
+Indefatigable “持久”号
+Kerr “克尔”号
 Konjin “金神”号
 Nag Hammadi “纳格·哈马地”号
 Perishable Harvest “短暂收获”号
@@ -198,9 +210,12 @@ Scopuli “海岩”号
 Sidpai “希派”号 “罗西”号冒名的飞船
 Sparrowhawk “雀鹰”号
 Spider Webb “斯派德·韦勃”号
+Tullus Aufidius “图卢斯·奥菲迪厄斯”号
 Vincent Soo “苏文森”号
 Voice of the Whirlwind “旋风之声”号 Magnetar 磁星级
+Vukodlak “乌克德拉克”号
 Storm 暴风级驱逐舰
+Yunus Emre “尤努斯·艾姆雷”号
 
 
 # 四、企业、政府、团体
