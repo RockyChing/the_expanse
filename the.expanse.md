@@ -65,6 +65,7 @@ Imogene Batia 伊莫金·巴蒂亚
 Jacob 雅各布
 Jacobin 雅各宾
 Jandol 老詹
+Jason 杰森
 Jenna 詹娜
 Jillian Houston 吉莉安·休斯顿
 Josephus A. Miller 约瑟夫·A·米勒 
@@ -212,9 +213,8 @@ Sparrowhawk “雀鹰”号
 Spider Webb “斯派德·韦勃”号
 Tullus Aufidius “图卢斯·奥菲迪厄斯”号
 Vincent Soo “苏文森”号
-Voice of the Whirlwind “旋风之声”号 Magnetar 磁星级
+Voice of the Whirlwind “旋风之声”号
 Vukodlak “乌克德拉克”号
-Storm 暴风级驱逐舰
 Yunus Emre “尤努斯·艾姆雷”号
 
 
@@ -237,6 +237,7 @@ security forces 安全部队
 Sejong World College 世宗世界学院
 separatist 独立主义者
 Sohag Presbyterian Academy 索哈格长老会学院
+Star Helix Police 星旋警局
 State Building 联邦大厦
 Survey Exploration Directorate 勘测勘探部
 Tereshkova 捷列什科娃
@@ -258,8 +259,12 @@ Undersecretary 联合国副秘书长
 
 # 六、武器
 Pulsar-class destroyers 脉冲星级别驱逐舰
+Goliath “哥利亚”铠甲
 Gravitar-class 重力级
+Magnetar 磁星级
 Stalker “潜行者”铠甲
+Storm 暴风级
+
 
 # 七、缩写
 HUD 平视显示屏（Head Up Display）
