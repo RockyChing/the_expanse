@@ -147,6 +147,7 @@ Innis Shallows 伊尼斯浅滩
 Io 木卫一
 Laconia 拉科尼亚
 Larson 拉森
+Luna 月球
 Kronos 康诺斯星系
 Magpie 马格佩星系
 Mariner Valley 马里纳谷
@@ -195,6 +196,7 @@ Eight Tenets of Bushido “武士道八信条”号
 Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
 Forgiveness “宽恕”号
+Godalming “歌德明”号
 Gathering Storm “暴风集结”号 Storm “暴风”号
 Ilrys Eves “伊勒斯·艾夫斯”号
 Indefatigable “持久”号
@@ -213,7 +215,7 @@ Sparrowhawk “雀鹰”号
 Spider Webb “斯派德·韦勃”号
 Tullus Aufidius “图卢斯·奥菲迪厄斯”号
 Vincent Soo “苏文森”号
-Voice of the Whirlwind “旋风之声”号
+Voice of the Whirlwind “旋风之声”号（“旋风”号）
 Vukodlak “乌克德拉克”号
 Yunus Emre “尤努斯·艾姆雷”号
 
@@ -260,10 +262,11 @@ Undersecretary 联合国副秘书长
 # 六、武器
 Pulsar-class destroyers 脉冲星级别驱逐舰
 Goliath “哥利亚”铠甲
-Gravitar-class 重力级
-Magnetar 磁星级
+Gravitar class 重力级
+Magnetar class 磁星级级
+Sirocco class 巡洋舰级
 Stalker “潜行者”铠甲
-Storm 暴风级
+Storm class 暴风级
 
 
 # 七、缩写
