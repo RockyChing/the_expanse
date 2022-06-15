@@ -80,6 +80,7 @@ Komi Tuan 科米·图安
 Lionel Polanski 莱昂内尔·波兰斯基
 Mallia Currán 马莉亚·柯兰
 McDowell 麦道尔
+Melero 梅尔罗
 Michio Pa 道央·帕
 Milan 米兰
 Muskrat 穆史克拉特 特蕾莎的宠物狗
@@ -98,6 +99,7 @@ Saba 萨巴 地下组织
 Sadavir Errinwright 萨达瓦·艾伦怀特
 Sanchez 桑切斯
 Sanders 桑德斯 博士 艾薇团队成员
+Sandrine Gujarat 桑德琳·古吉拉特
 Shin Jung Park 朴新荣·帕克
 Solomon Epstein 所罗门·爱泼斯坦 爱泼斯坦引擎
 Souther 萨瑟
@@ -112,13 +114,15 @@ Xan 阿赞
 
 # 二、地名
 Abbassia 阿巴斯亚，新埃及宜居行星
-Adro system 阿德罗星系
+Adro system 阿德罗，星系
 Arcadia 阿卡迪亚
+Argatha 阿加塔，星系
 Aterpol 阿特波尔
-Auberon 奥伯伦星系
-Bara Gaon 巴拉加恩星系
+Auberon 奥伯伦，星系
+Bara Gaon 巴拉加恩，星系
 Behrenhold 贝伦霍德
 Benin City 贝宁城
+Bogotá 波哥大
 Breach Candy 布瑞彻·坎迪
 Callisto 木卫四
 Calypso 木卫十四
@@ -166,6 +170,7 @@ Pátria 帕特里亚
 Persephone 珀耳塞福涅星系
 Phobos 火卫一
 Phoebe 土卫九
+Quivira 奎维拉星系
 San Esteban 圣埃斯特本星系
 San Ysidro 圣易西铎（圣地亚哥）
 Sanctuary 圣神殿星系
@@ -177,6 +182,7 @@ Svarga Minor 小斯瓦尔加
 Thanjavur 坦加布尔
 Tecoma 特科马
 Titan 土卫六
+Torfaen 托芬，星系
 Typhoon 飓风空间站
 Venus 金星
 Vesta 灶神星
@@ -185,14 +191,18 @@ Warsaw 华沙（波兰首都）
 
 # 三、舰船
 Agatha King “阿加莎·金”号
+Amador “阿马多”号
 Amaterasu “天照大神”号
 Armando Guelf “阿曼多·格尔夫”号
 Black Kite “黑风筝”号
 Blackberry “黑莓”号
+Brian “布莱恩”号
 Brother Dog “兄弟狗”号
+Cane Rosso “凯恩·罗索”号
 Canterbury “坎特伯雷”号
 Caustic Bitch “刻薄婊子”，PinkWink “粉红女郎”
 Dhupa “丹帕”号
+Duffy “杜菲”号
 Eight Tenets of Bushido “武士道八信条”号
 Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
@@ -201,8 +211,13 @@ Godalming “歌德明”号
 Gathering Storm “暴风集结”号 Storm “暴风”号
 Ilrys Eves “伊勒斯·艾夫斯”号
 Indefatigable “持久”号
+Kaivalya “凯瓦利亚”号
+Kathy Yates “凯西·耶茨”号
 Kerr “克尔”号
 Konjin “金神”号
+Lastialus “拉斯蒂劳斯”号
+Lin Siniang “林四娘”号
+Malak Alnuwr “马拉克·阿尔努尔”号
 Nag Hammadi “纳格·哈马地”号
 Perishable Harvest “短暂收获”号
 Pleasant Life “愉快生活”号
@@ -211,6 +226,7 @@ Proteus “变形虫”号 外星飞船
 Rising Derecho “瑞星·德雷科”号 “德雷科”号 拉科尼亚驱逐舰
 Rocinante “罗西南多”号（Roci “罗西”号，Tachi “太刀”号）
 Scopuli “海岩”号
+Senator “塞纳托尔”号
 Sidpai “希派”号 “罗西”号冒名的飞船
 Sparrowhawk “雀鹰”号
 Spider Webb “斯派德·韦勃”号
@@ -264,7 +280,7 @@ Undersecretary 联合国副秘书长
 Pulsar-class destroyers 脉冲星级别驱逐舰
 Goliath “哥利亚”铠甲
 Gravitar class 重力级
-Magnetar class 磁星级级
+Magnetar class 磁星级
 Sirocco class 巡洋舰级
 Stalker “潜行者”铠甲
 Storm class 暴风级
