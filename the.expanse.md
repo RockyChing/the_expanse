@@ -17,7 +17,7 @@ Naomi Nagata 奈奥米·永田
 
 Ahmadi 艾哈迈迪，少校
 Aliana Tanaka 艾莉安娜·田中
-Akari 明里，田中姑姑
+Akari 明里，田中姑妈
 Alvaro Pió 阿尔瓦罗·皮奥
 Amalie ud-Daula 阿马莉·尤道拉
 Amanda Feil 阿曼达·菲尔
@@ -31,6 +31,7 @@ Bakari 巴卡里（基特儿子）
 Black 布莱克
 Botton 波顿
 Bridge Caspar 布里奇·卡斯帕
+Caesar 凯撒
 Camina Drummer 卡米娜·德鲁默
 Cara 卡拉（Sparkles 光闪闪，艾莫斯称之）
 Casey 凯西
@@ -53,6 +54,7 @@ Emilia Bell-Cavat 艾米利娅·贝尔-卡瓦特
 Esteban Sorrento-Gillis 埃斯特本·索伦托·吉利斯
 Fayez Sarkis 法耶兹·萨基斯
 Fernanda Daté 费尔南达·达特
+Filip 菲利普
 Francisca Torrez 弗朗西斯卡·托雷斯
 Frederick L. Johnson 佛瑞德里克·L·约翰逊（Fred Johnson 佛瑞德·约翰逊）
 Gagnon 加格农，医生
@@ -78,6 +80,7 @@ Kim Randall 金姆·兰德尔
 Kit Kamal 基特·卡玛尔
 Komi Tuan 科米·图安
 Lionel Polanski 莱昂内尔·波兰斯基
+Loftman 洛夫特曼
 Mallia Currán 马莉亚·柯兰
 McDowell 麦道尔
 Melero 梅尔罗
@@ -215,6 +218,7 @@ Kaivalya “凯瓦利亚”号
 Kathy Yates “凯西·耶茨”号
 Kerr “克尔”号
 Konjin “金神”号
+Lagomorpha “兔毛虫”号
 Lastialus “拉斯蒂劳斯”号
 Lin Siniang “林四娘”号
 Malak Alnuwr “马拉克·阿尔努尔”号
