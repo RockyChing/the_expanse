@@ -2,9 +2,9 @@
 
 by 印象
 译：22.
-校：
+校：22.
 
-James S.A. Corey 詹姆斯·S. A.科里
+James S.A. Corey 詹姆斯·S.A.科里
 Daniel Abraham 丹尼尔·亚伯拉罕
 Ty Franck 泰·弗兰克
 
@@ -15,7 +15,7 @@ Bobbie Draper 博比·德雷珀
 James R. Holden 詹姆斯·霍顿
 Naomi Nagata 奈奥米·永田
 
-Ahmadi 艾哈迈迪，少校
+Ahmadi 艾哈迈迪
 Aliana Tanaka 艾莉安娜·田中
 Akari 明里，田中姑妈
 Alvaro Pió 阿尔瓦罗·皮奥
@@ -82,6 +82,7 @@ Komi Tuan 科米·图安
 Lionel Polanski 莱昂内尔·波兰斯基
 Loftman 洛夫特曼
 Mallia Currán 马莉亚·柯兰
+Marrel Imvic 马雷尔·伊姆维克，语言学家
 McDowell 麦道尔
 Melero 梅尔罗
 Michio Pa 道央·帕
@@ -133,6 +134,7 @@ Ceres 谷神星
 Corazon Sagrado 科拉松·萨拉多 星系
 Cyllene 木卫四十八
 Deimos 火卫二
+Dobridomov 多布里多莫夫，星系
 Draper Station 德雷珀空间站
 Eros 爱神星
 Europa 木卫二
@@ -222,6 +224,7 @@ Lagomorpha “兔毛虫”号
 Lastialus “拉斯蒂劳斯”号
 Lin Siniang “林四娘”号
 Malak Alnuwr “马拉克·阿尔努尔”号
+Musafir “远行者”号
 Nag Hammadi “纳格·哈马地”号
 Perishable Harvest “短暂收获”号
 Pleasant Life “愉快生活”号
@@ -241,7 +244,7 @@ Vukodlak “乌克德拉克”号
 Yunus Emre “尤努斯·艾姆雷”号
 
 
-# 四、企业、政府、团体
+# 四、团体
 Alighar Muslim University 阿利格尔穆斯林大学
 BELT 小行星带
 Belters 小行星带人
