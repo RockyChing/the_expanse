@@ -1,0 +1,153 @@
+/* Generic useful styles: */
+body {
+	font-size: 100%;
+	padding: 0;
+}
+p {
+	margin: 0;
+	padding: 0;
+}
+.bold {
+	font-weight: bold;
+}
+.italic {
+	font-style: italic;
+}
+.underline {
+	text-decoration: underline;
+}
+.strike {
+	text-decoration: line-through;
+}
+.small {
+	font-size: 0.75em;
+}
+small {
+	font-size: 0.75em;
+}
+.big {
+	font-size: 1.2em;
+}
+.center {
+	text-align: center;
+	text-indent: 0em;
+}
+.right {
+	text-align: right;
+	text-indent: 0em;
+}
+.typeface{
+	font-family: monospace
+}
+div.newpage {
+	page-break-before: always;
+}
+h1 {
+	text-indent: 0em;
+	text-align: center
+}
+h2 {
+	text-indent: 0em;
+	text-align: center
+}
+h3 {
+	text-indent: 0em;
+	text-align: center
+}
+h4 {
+	text-indent: 0em;
+	text-align: center
+}
+
+/* Start of Book: */
+div.titlepage {
+	text-align: center;
+	text-indent: 0em;
+	padding: 5em 1.5em 2.5em;
+}
+p.title {
+	font-weight: bold;
+	font-size: 1.2em;
+	padding: 2.5em 0;	
+}
+p.author {
+	font-style: normal;
+}
+p.series-info {
+	font-style: italic;
+	font-size: 0.9em;
+}
+
+div.series-listing {
+	page-break-before: always;
+}
+p.series-title {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+p.series-content {
+	white-space: pre-line;
+	text-indent: 0;
+}
+p.series-current {
+	white-space: pre-line;
+	text-indent: 0;
+	font-weight: bold;
+}
+div.dedication {
+	page-break-before: always;
+	padding: 5em 0;
+}
+div.acknowledgments {
+	page-break-before: always;
+	padding: 2.5em 0 0;
+}
+div.epigraph {
+	page-break-before: always;
+	padding: 5em 0 0;
+}
+/* Chapters: */
+div.chapter {
+	page-break-before: always;
+}
+div.heading {
+	text-indent: 0;
+	text-align: center;
+}
+div.section {
+	text-align: justify;
+	text-indent: 2em;
+}
+p.first {
+	text-indent: 0em;
+}
+p.verse {
+	margin: 0.5em 1 em 0 em;
+	text-indent: -0.5em;	
+}
+p.emphasis {
+	font-weight: bold;
+}
+p.indent-para
+{
+	font-weight:normal;
+	margin-top:0em;
+	margin-bottom:0.3em;
+	margin-left:0em;
+	margin-right:0em;
+	text-align:justify;
+}
+
+blockquote {
+	padding: 1.5em;	
+}
+
+/* Legacy, in order to minimize failures*/
+.header {
+	text-align: center;
+	text-indent: 0em;
+}
+.signature {
+	text-align: right;
+	text-indent: 0em;
+}
