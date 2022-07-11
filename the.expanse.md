@@ -4,16 +4,16 @@ by 印象
 译：22.
 校：22.
 
-James S.A. Corey 詹姆斯·S.A.科里
+James S. A. Corey 詹姆斯·S.A.科里
 Daniel Abraham 丹尼尔·亚伯拉罕
 Ty Franck 泰·弗兰克
 
 # 一、人物
 Alex Kamal 亚历克斯·卡玛尔
 Amos Burton 艾莫斯·伯顿（Timothy 蒂莫西 Bluto 布鲁托）
-Bobbie Draper 博比·德雷珀
 James R. Holden 詹姆斯·霍顿
 Naomi Nagata 奈奥米·永田
+Roberta Draper 罗伯塔·德雷珀（Bobbie 博比）
 
 Ahmadi 艾哈迈迪
 Aliana Tanaka 艾莉安娜·田中
@@ -29,6 +29,7 @@ Anton Trejo 安东·特雷霍
 Antony Dresden 安东尼·德雷斯顿
 Augusto Nguyen 奥古斯托·阮
 Bakari 巴卡里（基特儿子）
+Basia Merton 巴斯亚·默顿（Katoa 卡图亚 Felcia 费西娅）
 Black 布莱克
 Botton 波顿
 Bridge Caspar 布里奇·卡斯帕
@@ -86,18 +87,22 @@ Loftman 洛夫特曼
 Mallia Currán 马莉亚·柯兰
 Marrel Imvic 马雷尔·伊姆维克，语言学家
 McDowell 麦道尔
+Mei 梅
 Melero 梅尔罗
 Michio Pa 道央·帕
 Milan 米兰
 Muskrat 穆史克拉特 特蕾莎的宠物狗
+Myers 迈尔斯
 Natasha Li 娜塔莎·李
 Negila 内吉拉 博士
+Nguyễn 恩格恩
 Nobuyuki 诺布雪
 Noel Mugabo 诺埃尔·穆加博
 Ochida 内田
 Octavia Muss 奥克塔维亚·穆斯
 Oran Alberts 奥兰·艾伯特
 Paolo Cortázar 保罗·科塔萨尔 医生
+Praxidike Meng 普拉克斯迪克·孟（Prax 普拉克斯）
 Quinn de Bodard 奎恩·德·波达
 Roberta Draper 罗伯塔·德雷珀
 Rokia 罗琪娅（Rohi 罗伊基特妻子）
@@ -107,11 +112,14 @@ Sadavir Errinwright 萨达瓦·艾伦怀特
 Sanchez 桑切斯
 Sanders 桑德斯 博士 艾薇团队成员
 Sandrine Gujarat 桑德琳·古吉拉特
+Sematimba 塞玛汀巴（Semi 塞米）
 Shaddid 沙迪德（Captain 队长）
 Shed Garvey 谢德·加维
 Shin Jung Park 朴新荣·帕克
+Skelton 斯凯顿
 Solomon Epstein 所罗门·爱泼斯坦 爱泼斯坦引擎
 Souther 萨瑟
+Strickland 史崔克兰
 Susan Yi 伊苏珊
 Teresa Duarte 特蕾莎·杜阿尔特（Tiny 特妮）
 Théo Ammundsun 西奥·阿蒙德桑
@@ -248,6 +256,7 @@ Rocinante “罗西南多”号（Roci “罗西”号，Tachi “太刀”号  
 Scopuli “海岩”号
 Senator “塞纳托尔”号
 Sidpai “希派”号 “罗西”号冒名的飞船
+Somnambulist “梦游者”号
 Sparrowhawk “雀鹰”号
 Spider Webb “斯派德·韦勃”号
 Tullus Aufidius “图卢斯·奥菲迪厄斯”号
@@ -261,6 +270,7 @@ Yunus Emre “尤努斯·艾姆雷”号
 Alighar Muslim University 阿利格尔穆斯林大学
 BELT 小行星带
 Belters 小行星带人
+Carne Por la Machina 卡恩·波·拉麦奇纳
 Earth security force 地球安保队
 Force Recon Battalion 部队侦察营
 Free Navy 自由舰队
@@ -326,6 +336,7 @@ XO 大副（Executive Officer）
 alien artifact 外星神器
 autodoc 自动诊疗机
 by the numbers and by the book 按照命令去做吧
+casino level 娱乐层
 comms 通信器
 crash couch 抗压座椅
 docking bridge 对接桥
@@ -366,4 +377,5 @@ thermal profile 热力曲线
 the Pen “高墙”
 tightbeam 集束通信
 traffic analysis 航运分析
+transport tube 地铁
 vac suit 太空服
