@@ -116,7 +116,6 @@ div.heading {
 }
 div.section {
 	text-align: justify;
-	text-indent: 2em;
 }
 p.first {
 	text-indent: 0em;
@@ -127,15 +126,21 @@ p.verse {
 }
 p.emphasis {
 	font-weight: bold;
+	text-align:justify;
+	text-indent: 2em;
 }
-p.indent-para
-{
+p.separator {
+	text-align: center;
+	text-indent: 0em;
+}
+p.indent-para {
 	font-weight:normal;
 	margin-top:0em;
-	margin-bottom:0.3em;
+	margin-bottom:0.5em;
 	margin-left:0em;
 	margin-right:0em;
 	text-align:justify;
+	text-indent: 2em;
 }
 
 blockquote {
