@@ -142,6 +142,15 @@ p.indent-para {
 	text-align:justify;
 	text-indent: 2em;
 }
+p.indent-poem {
+	font-weight:normal;
+	margin-top:0em;
+	margin-bottom:0em;
+	margin-left:0em;
+	margin-right:0em;
+	text-align:justify;
+	text-indent: 2em;
+}
 
 blockquote {
 	padding: 1.5em;	
