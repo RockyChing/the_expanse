@@ -133,7 +133,7 @@ p.separator {
 	text-align: center;
 	text-indent: 0em;
 }
-p.indent-para {
+p.para {
 	font-weight:normal;
 	margin-top:0em;
 	margin-bottom:0.5em;
@@ -142,14 +142,19 @@ p.indent-para {
 	text-align:justify;
 	text-indent: 2em;
 }
-p.indent-poem {
+p.poem {
 	font-weight:normal;
+	font-family:KaiTi;
 	margin-top:0em;
 	margin-bottom:0em;
 	margin-left:0em;
 	margin-right:0em;
 	text-align:justify;
 	text-indent: 2em;
+}
+p.center {
+	text-align: center;
+	text-indent: 0em;
 }
 
 blockquote {
