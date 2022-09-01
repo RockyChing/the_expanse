@@ -15,6 +15,7 @@ James R. Holden 詹姆斯·霍顿
 Naomi Nagata 奈奥米·永田
 Roberta Draper 罗伯塔·德雷珀（Bobbie 博比）
 
+Adolphus Murtry 阿道弗斯·默特里
 Ahmadi 艾哈迈迪
 Aliana Tanaka 艾莉安娜·田中
 Akari 明里，田中姑妈
@@ -37,19 +38,24 @@ Black 布莱克
 Botton 波顿
 Bridge Caspar 布里奇·卡斯帕
 Caesar 凯撒
+Carol Chiwewe 卡萝尔·绮薇薇
 Carlos c de Baca 卡洛斯·C·德·巴卡（Bull 布尔）
 Camina Drummer 卡米娜·德鲁默
 Cara 卡拉（Sparkles 光闪闪，艾莫斯称之）
 Casey 凯西
+Cassie 凯茜
+Chandra Wei 钱德拉·魏
 Charles Parker 查尔斯·帕克
 Chrisjen Avasarala 克里斯金·阿瓦萨罗拉
 Clarissa Melpomene Mao 克拉丽莎·梅泊梅尼·毛（Claire 克莱儿，Melba AlzBeta Koh 梅尔芭·阿尔茨塔·柯）
 Cole 科尔
 Coleridge 柯勒律治
+Coop 库普
 Cotyar Ghazi 柯特亚·加齐
 David Calrassi 大卫·卡拉西
 David Trujillo 大卫·特鲁希略
 De Caamp 德坎普，中尉
+Dimitri Havelock 迪米特里·哈夫洛克
 Diogo Harari 迪亚戈·哈拉里
 Duchet 杜谢
 Elise 伊莉丝，霍顿母亲
@@ -68,7 +74,6 @@ Galwan ud-Din 加尔万·尤金
 Giselle 吉赛尔（亚历克斯妻子）
 Gregor Shapiro 格雷戈·夏皮罗
 Harshaan Lee 哈沙安·李 博士
-Havelock 哈夫洛克
 Hector Cortez 赫克托·科特兹（Hank 汉克）
 Himemiya Gosset 希梅米亚·戈塞特
 Imogene Batia 伊莫金·巴蒂亚
@@ -85,6 +90,7 @@ Juarez 华雷斯
 Jules-Pierre Mao 朱尔斯-皮埃尔·毛
 Juliette Andromeda Mao 朱莉叶-安德洛墨达·毛 （Julie Mao 朱莉·毛）
 Kachela al-Din 卡切拉·丁
+Kasim Andrada 卡西姆·安德罗达
 Kelly 凯利
 Kim Randall 金姆·兰德尔
 Kit Kamal 基特·卡玛尔
@@ -92,8 +98,10 @@ Komi Tuan 科米·图安
 Leniki 利尼基
 Lionel Polanski 莱昂内尔·波兰斯基
 Loftman 洛夫特曼
+Lucia 露西娅
 Mallia Currán 马莉亚·柯兰
 Marrel Imvic 马雷尔·伊姆维克，语言学家
+Marwick 马威克
 McDowell 麦道尔
 Mei Meng 梅·孟
 Melero 梅尔罗
@@ -184,7 +192,7 @@ Hakuseki 哈库斯基
 Harris 哈里斯星系
 Haza 哈扎星系
 Hecate Base 赫卡特基地
-Ilus 伊洛斯
+Ilus 伊洛斯（New Terra 新地球，First Landing 首镇）
 Innis Deep 伊尼斯
 Innis Shallows 伊尼斯浅滩
 Io 木卫一
@@ -236,6 +244,7 @@ Amaterasu “天照大神”号
 Anubis “阿努比斯”号
 Arboghast “阿博加斯特”号
 Armando Guelf “阿曼多·格尔夫”号
+Barbapiccola “巴巴匹可拉”号
 Black Kite “黑风筝”号
 Blackberry “黑莓”号
 Brian “布莱恩”号
@@ -247,6 +256,7 @@ Cerisier “樱花”号
 Donnager “唐纳吉尔”号
 Dhupa “丹帕”号
 Duffy “杜菲”号
+Edward Israel “爱德华·以色列”号
 Eight Tenets of Bushido “武士道八信条”号
 Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
@@ -312,7 +322,7 @@ Protogen 普罗托根
 Protogen Security 普罗托根安保公司
 Psychiatric Services 精神科服务部
 Pure 'n' Kleen Water Company  普雷&克雷恩饮用水公司
-Royal Charter Energy 皇家宪章能源公司，艾薇老雇主
+Royal Charter Energy （RCE）皇家宪章能源公司，艾薇老雇主
 Science Directorate 科学理事会
 security forces 安全部队
 Sejong World College 世宗世界学院

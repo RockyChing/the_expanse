@@ -4,8 +4,13 @@ body {
 	padding: 0;
 }
 p {
-	margin: 0;
-	padding: 0;
+	font-weight:normal;
+	margin-top:0em;
+	margin-bottom:0.5em;
+	margin-left:0em;
+	margin-right:0em;
+	text-align:justify;
+	text-indent: 2em;
 }
 .bold {
 	font-weight: bold;
@@ -133,14 +138,13 @@ p.separator {
 	text-align: center;
 	text-indent: 0em;
 }
-p.para {
-	font-weight:normal;
-	margin-top:0em;
-	margin-bottom:0.5em;
-	margin-left:0em;
-	margin-right:0em;
-	text-align:justify;
-	text-indent: 2em;
+p.left {
+	text-align: left;
+	text-indent: 0em;
+}
+p.center {
+	text-align: center;
+	text-indent: 0em;
 }
 p.poem {
 	font-weight:normal;
@@ -151,10 +155,6 @@ p.poem {
 	margin-right:0em;
 	text-align:justify;
 	text-indent: 2em;
-}
-p.center {
-	text-align: center;
-	text-indent: 0em;
 }
 
 blockquote {
