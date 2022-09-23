@@ -45,6 +45,7 @@ Cara 卡拉（Sparkles 光闪闪，艾莫斯称之）
 Casey 凯西
 Cassie 凯茜
 Chandra Wei 钱德拉·魏
+Charles Allen 查尔斯·艾伦
 Charles Parker 查尔斯·帕克
 Chrisjen Avasarala 克里斯金·阿瓦萨罗拉
 Clarissa Melpomene Mao 克拉丽莎·梅泊梅尼·毛（Claire 克莱儿，Melba AlzBeta Koh 梅尔芭·阿尔茨塔·柯）
@@ -52,6 +53,7 @@ Cole 科尔
 Coleridge 柯勒律治
 Coop 库普
 Cotyar Ghazi 柯特亚·加齐
+Cyn 塞恩
 David Calrassi 大卫·卡拉西
 David Trujillo 大卫·特鲁希略
 De Caamp 德坎普，中尉
@@ -63,6 +65,7 @@ Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲
 Elvi Okoye 艾薇·奥科耶
 Ekko Levy 艾克·利维
 Emilia Bell-Cavat 艾米利娅·贝尔-卡瓦特
+Erich 艾里奇
 Esteban Sorrento-Gillis 埃斯特本·索伦托-吉利斯
 Fayez Sarkis 法耶兹·萨基斯
 Fernanda Daté 费尔南达·达特
@@ -90,16 +93,21 @@ Juarez 华雷斯
 Jules-Pierre Mao 朱尔斯-皮埃尔·毛
 Juliette Andromeda Mao 朱莉叶-安德洛墨达·毛 （Julie Mao 朱莉·毛）
 Kachela al-Din 卡切拉·丁
+Kaarlo 克劳罗
+Karal 卡罗尔
 Kasim Andrada 卡西姆·安德罗达
 Kelly 凯利
 Kim Randall 金姆·兰德尔
 Kit Kamal 基特·卡玛尔
 Komi Tuan 科米·图安
+Konecheck 科恩切克
 Leniki 利尼基
 Lionel Polanski 莱昂内尔·波兰斯基
 Loftman 洛夫特曼
 Lucia 露西娅
+Lydia Allen 莉蒂娅·艾伦
 Mallia Currán 马莉亚·柯兰
+Marco Inaros 马尔科·伊拉罗斯
 Marrel Imvic 马雷尔·伊姆维克，语言学家
 Marwick 马威克
 McDowell 麦道尔
@@ -108,6 +116,7 @@ Melero 梅尔罗
 Michael-Jon de Uturbé 迈克尔-乔恩·德·乌图尔贝
 Michio Pa 道央·帕
 Milan 米兰
+Min 敏敏
 Monica Stuart 莫妮卡·斯图尔特
 Moynahan 莫伊纳汉
 Muskrat 穆史克拉特 特蕾莎的宠物狗
@@ -120,7 +129,8 @@ Noel Mugabo 诺埃尔·穆加博
 Ochida 内田
 Octavia Muss 奥克塔维亚·穆斯
 Oran Alberts 奥兰·艾伯特
-Paolo Cortázar 保罗·科塔萨尔 医生
+Paolo Cortázar 保罗·科塔萨尔 博士
+Paula Gutierrez 保拉·古提瑞兹
 Praxidike Meng 普拉克斯迪克·孟（Prax 普拉克斯）
 Quinn de Bodard 奎恩·德·波达
 Ren 雷恩
@@ -144,13 +154,17 @@ Solomon Epstein 所罗门·爱泼斯坦 爱泼斯坦引擎
 Soren 索伦
 Souther 萨瑟
 Stanni 斯坦尼
+Stokes 斯托克斯
 Strickland 史崔克兰（Carlos Merrian 卡洛斯·梅里安）
 Susan Yi 伊苏珊
+Talissa 塔丽莎（Tali 塔丽）
 Teresa Duarte 特蕾莎·杜阿尔特（Tiny 特妮）
 Théo Ammundsun 西奥·阿蒙德桑
 Travin 特拉文
 Tristan Reeves 崔斯坦·里弗斯
+Wendy 温迪
 Weyrick 韦里克
+William Sakai 威廉·酒井
 Winston Duarte 温斯顿·杜阿尔特
 Xan 阿赞
 
@@ -209,6 +223,7 @@ New Wales 新威尔士
 Nieuwestad 纽威斯特德，重力1.2g
 Nouvelle École 努维尔高等学校 Abbassia
 Nuriel 努里尔星系
+Oshima 欧西玛
 Pallas 智神星空间站 Pallas-Tycho 智神星-第谷
 Pankaja 潘卡雅星系
 Parker 帕克星系
@@ -242,9 +257,12 @@ Agatha King “阿加莎·金”号
 Amador “阿马多”号
 Amaterasu “天照大神”号
 Anubis “阿努比斯”号
+Apalala “阿波逻罗”号
 Arboghast “阿博加斯特”号
 Armando Guelf “阿曼多·格尔夫”号
+Augustin Gamarra “奥古斯汀·甘加拉”号
 Barbapiccola “巴巴匹可拉”号
+Barkeith “巴基斯”号
 Black Kite “黑风筝”号
 Blackberry “黑莓”号
 Brian “布莱恩”号
@@ -253,6 +271,7 @@ Cane Rosso “凯恩·罗索”号
 Canterbury “坎特伯雷”号（Cant “坎特”号）
 Caustic Bitch “刻薄婊子”，PinkWink “粉红女郎”
 Cerisier “樱花”号
+Chetzemoka “切泽莫卡”号
 Donnager “唐纳吉尔”号
 Dhupa “丹帕”号
 Duffy “杜菲”号
@@ -279,6 +298,8 @@ Malak Alnuwr “马拉克·阿尔努尔”号
 Musafir “远行者”号
 Nag Hammadi “纳格·哈马地”号
 Nauvoo “诺伍”号（Behemoth “巨兽”号）
+Pella “佩拉”号
+Pau Kant “鲍·康德”号
 Perishable Harvest “短暂收获”号
 Pleasant Life “愉快生活”号
 Preiss “普瑞斯”号
@@ -396,6 +417,7 @@ fuel pellets 燃料球
 glandular implant 腺体植入
 goldilocks zone 可居住区
 hand terminal 手持终端
+high-density resonance coating 高密度共振涂料
 hunting frigate 狩猎护卫舰
 ice hauler 运冰船
 jellyfish 海蜇
