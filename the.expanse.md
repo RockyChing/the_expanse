@@ -42,6 +42,7 @@ Carol Chiwewe 卡萝尔·绮薇薇
 Carlos c de Baca 卡洛斯·C·德·巴卡（Bull 布尔）
 Camina Drummer 卡米娜·德鲁默
 Cara 卡拉（Sparkles 光闪闪，艾莫斯称之）
+Carmondy 卡蒙迪
 Casey 凯西
 Cassie 凯茜
 Chandra Wei 钱德拉·魏
@@ -69,12 +70,14 @@ Erich 艾里奇
 Esteban Sorrento-Gillis 埃斯特本·索伦托-吉利斯
 Fayez Sarkis 法耶兹·萨基斯
 Fernanda Daté 费尔南达·达特
-Filip 菲利普
+Filip Inaros 菲利普·伊拉罗斯
 Francisca Torrez 弗朗西斯卡·托雷斯
 Frederick L. Johnson 弗雷德里克·L·约翰逊（Fred Johnson 弗雷德·约翰逊）
 Gagnon 加格农，医生
 Galwan ud-Din 加尔万·尤金
+Gino 基诺
 Giselle 吉赛尔（亚历克斯妻子）
+Gorman Le 戈尔曼·勒
 Gregor Shapiro 格雷戈·夏皮罗
 Harshaan Lee 哈沙安·李 博士
 Hector Cortez 赫克托·科特兹（Hank 汉克）
@@ -83,6 +86,7 @@ Imogene Batia 伊莫金·巴蒂亚
 Jacob 雅各布
 Jacobin 雅各宾
 Jakande 贾坎德
+Jakulski 雅库尔斯基
 Jandol 老詹
 Jason 杰森
 Jenna 詹娜
@@ -103,6 +107,7 @@ Komi Tuan 科米·图安
 Konecheck 科恩切克
 Leniki 利尼基
 Lionel Polanski 莱昂内尔·波兰斯基
+Lister 利斯特
 Loftman 洛夫特曼
 Lucia 露西娅
 Lydia Allen 莉蒂娅·艾伦
@@ -113,6 +118,7 @@ Marwick 马威克
 McDowell 麦道尔
 Mei Meng 梅·孟
 Melero 梅尔罗
+Micah al-Dujaili 米迦·阿杜贾里
 Michael-Jon de Uturbé 迈克尔-乔恩·德·乌图尔贝
 Michio Pa 道央·帕
 Milan 米兰
@@ -121,13 +127,18 @@ Monica Stuart 莫妮卡·斯图尔特
 Moynahan 莫伊纳汉
 Muskrat 穆史克拉特 特蕾莎的宠物狗
 Myers 迈尔斯
+Nami 南米
+Namono 南诺诺（Nono 诺诺）
 Natasha Li 娜塔莎·李
+Nathan Smith 南森·斯密斯
 Negila 内吉拉 博士
+Nico Sanjrani 尼克·桑杰拉尼
 Nicola 妮可拉
 Nobuyuki 诺布雪
 Noel Mugabo 诺埃尔·穆加博
 Ochida 内田
 Octavia Muss 奥克塔维亚·穆斯
+Oksana 奥科萨纳
 Oran Alberts 奥兰·艾伯特
 Paolo Cortázar 保罗·科塔萨尔 博士
 Paula Gutierrez 保拉·古提瑞兹
@@ -137,12 +148,16 @@ Ren 雷恩
 Robert Fagan 罗伯特·费根（Tilly 蒂莉）
 Roberta Draper 罗伯塔·德雷珀
 Rokia 罗琪娅（Rohi 罗伊基特妻子）
+Rosenfeld Guoliang 罗森菲尔德·郭亮
 Rossif 罗西夫
 Saba 萨巴 地下组织
 Sadavir Errinwright 萨达瓦·艾伦怀特
+Salis 萨利斯
 Samara Rosenberg 姗玛拉·罗森伯格（Sam 姗姆）
+Samuels 塞缪尔斯
 Sanchez 桑切斯
 Sanders 桑德斯 博士 艾薇团队成员
+Sandra Ip 桑德拉·伊普
 Sandrine Gujarat 桑德琳·古吉拉特
 Sematimba 塞玛汀巴（Semi 塞米）
 Serge 塞吉
@@ -192,6 +207,7 @@ Deimos 火卫二
 Dobridomov 多布里多莫夫，星系
 Draper Station 德雷珀空间站
 Eros 爱神星
+Eudoxia 尤多西亚
 Europa 木卫二
 Farhome 法厚木
 Felicité 费利西泰
@@ -206,6 +222,8 @@ Hakuseki 哈库斯基
 Harris 哈里斯星系
 Haza 哈扎星系
 Hecate Base 赫卡特基地
+Hygeia Station 海吉娅空间站
+Iapetus 土卫八
 Ilus 伊洛斯（New Terra 新地球，First Landing 首镇）
 Innis Deep 伊尼斯
 Innis Shallows 伊尼斯浅滩
@@ -240,8 +258,9 @@ Saturnus 土星
 St. Anthony 圣安东尼
 Sumner 萨姆纳
 Svarga Minor 小斯瓦尔加
-Thanjavur 坦加布尔
 Tecoma 特科马
+Thanjavur 坦加布尔
+Thisbe Yards 提斯比造船厂
 Thoth 透特（普罗托根秘密实验基地）
 Titan 土卫六
 Torfaen 托芬，星系
@@ -253,6 +272,7 @@ Warsaw 华沙（波兰首都）
 
 
 # 三、舰船
+Abdel Rahman Badawi “阿卜杜勒·拉赫曼·巴达维”号（Abbey “修道院”号）
 Agatha King “阿加莎·金”号
 Amador “阿马多”号
 Amaterasu “天照大神”号
@@ -261,6 +281,7 @@ Apalala “阿波逻罗”号
 Arboghast “阿博加斯特”号
 Armando Guelf “阿曼多·格尔夫”号
 Augustin Gamarra “奥古斯汀·甘加拉”号
+Azure Dragon “青龙”号
 Barbapiccola “巴巴匹可拉”号
 Barkeith “巴基斯”号
 Black Kite “黑风筝”号
@@ -268,6 +289,7 @@ Blackberry “黑莓”号
 Brian “布莱恩”号
 Brother Dog “兄弟狗”号
 Cane Rosso “凯恩·罗索”号
+Connaught “康诺特”号
 Canterbury “坎特伯雷”号（Cant “坎特”号）
 Caustic Bitch “刻薄婊子”，PinkWink “粉红女郎”
 Cerisier “樱花”号
@@ -282,8 +304,10 @@ Flying Buffalothat “飞行的布法罗”
 Forgiveness “宽恕”号
 Godalming “歌德明”号
 Gathering Storm “暴风集结”号 Storm “暴风”号
+Giambattista “巴蒂斯塔”号
 Guanshiyin “观世音”号
 Hammurabi “汉谟拉比”号
+Hornblower “吹角者”号
 Ilrys Eves “伊勒斯·艾夫斯”号
 Indefatigable “持久”号
 Kaivalya “凯瓦利亚”号
@@ -291,10 +315,12 @@ Kathy Yates “凯西·耶茨”号
 Kerr “克尔”号
 Knight “骑士”号（Shuttle 穿梭艇）
 Konjin “金神”号
+Koto “科托”号
 Lagomorpha “兔毛虫”号
 Lastialus “拉斯蒂劳斯”号
 Lin Siniang “林四娘”号
 Malak Alnuwr “马拉克·阿尔努尔”号
+Minsky “明斯基”号
 Musafir “远行者”号
 Nag Hammadi “纳格·哈马地”号
 Nauvoo “诺伍”号（Behemoth “巨兽”号）
@@ -310,6 +336,7 @@ Rocinante “罗西南多”号（Roci “罗西”号，Tachi “太刀”号  
 Scopuli “海岩”号
 Senator “塞纳托尔”号
 Seung Un “温承炫”号
+Shinsakuto “新佐久户”号
 Sidpai “希派”号 “罗西”号冒名的飞船
 Somnambulist “梦游者”号
 Sparrowhawk “雀鹰”号
@@ -321,6 +348,7 @@ Voice of the Whirlwind “旋风之声”号（“旋风”号）
 Vukodlak “乌克德拉克”号
 Y Que “何如”号
 Yunus Emre “尤努斯·艾姆雷”号
+Witch of Endor “隐多珥女巫”号
 
 
 # 四、团体
@@ -436,6 +464,7 @@ repair drones 修复无人机
 rock hoppers 采矿船
 sea slugs 海洋蛞蝓
 siege of Laconia 拉科尼亚围城战
+skinnies “瘦高仔”（小行星带人的蔑称）
 slow life model 慢生命形态
 slow zone 慢域
 storage locker 储物柜
