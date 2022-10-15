@@ -157,6 +157,14 @@ p.poem {
 	text-indent: 2em;
 }
 
+p.line {
+	border-bottom: 1px solid #E6E6FA
+}
+
+p.linew {
+	border-bottom: 3px solid #E6E6FA
+}
+
 blockquote {
 	padding: 1.5em;	
 }

@@ -41,10 +41,14 @@ Caesar 凯撒
 Carol Chiwewe 卡萝尔·绮薇薇
 Carlos c de Baca 卡洛斯·C·德·巴卡（Bull 布尔）
 Camina Drummer 卡米娜·德鲁默
+Canton 坎顿
+Cantor 坎特
 Cara 卡拉（Sparkles 光闪闪，艾莫斯称之）
 Carmondy 卡蒙迪
+Carrie Fisk 卡丽·菲斯克
 Casey 凯西
 Cassie 凯茜
+Caton 凯顿
 Chandra Wei 钱德拉·魏
 Charles Allen 查尔斯·艾伦
 Charles Parker 查尔斯·帕克
@@ -55,6 +59,7 @@ Coleridge 柯勒律治
 Coop 库普
 Cotyar Ghazi 柯特亚·加齐
 Cyn 塞恩
+Daphne Kohl 达芙妮·科尔
 David Calrassi 大卫·卡拉西
 David Trujillo 大卫·特鲁希略
 De Caamp 德坎普，中尉
@@ -83,6 +88,7 @@ Harshaan Lee 哈沙安·李 博士
 Hector Cortez 赫克托·科特兹（Hank 汉克）
 Himemiya Gosset 希梅米亚·戈塞特
 Imogene Batia 伊莫金·巴蒂亚
+Iwasa 伊瓦萨
 Jacob 雅各布
 Jacobin 雅各宾
 Jakande 贾坎德
@@ -93,6 +99,7 @@ Jenna 詹娜
 Jillian Houston 吉莉安·休斯顿
 Josephus A. Miller 约瑟夫·A·米勒
 Joey 乔伊
+Jordao 乔道
 Juarez 华雷斯
 Jules-Pierre Mao 朱尔斯-皮埃尔·毛
 Juliette Andromeda Mao 朱莉叶-安德洛墨达·毛 （Julie Mao 朱莉·毛）
@@ -100,6 +107,7 @@ Kachela al-Din 卡切拉·丁
 Kaarlo 克劳罗
 Karal 卡罗尔
 Kasim Andrada 卡西姆·安德罗达
+Katria Mendez 卡特莉娅·孟迪兹
 Kelly 凯利
 Kim Randall 金姆·兰德尔
 Kit Kamal 基特·卡玛尔
@@ -139,9 +147,12 @@ Noel Mugabo 诺埃尔·穆加博
 Ochida 内田
 Octavia Muss 奥克塔维亚·穆斯
 Oksana 奥科萨纳
+Onni Langstiver 奥尼·朗斯提佛
 Oran Alberts 奥兰·艾伯特
+Overstreet 奥韦斯崔特
 Paolo Cortázar 保罗·科塔萨尔 博士
 Paula Gutierrez 保拉·古提瑞兹
+Payne Houston 佩恩·休斯顿
 Praxidike Meng 普拉克斯迪克·孟（Prax 普拉克斯）
 Quinn de Bodard 奎恩·德·波达
 Ren 雷恩
@@ -150,7 +161,7 @@ Roberta Draper 罗伯塔·德雷珀
 Rokia 罗琪娅（Rohi 罗伊基特妻子）
 Rosenfeld Guoliang 罗森菲尔德·郭亮
 Rossif 罗西夫
-Saba 萨巴 地下组织
+Saba 萨巴（地下组织）
 Sadavir Errinwright 萨达瓦·艾伦怀特
 Salis 萨利斯
 Samara Rosenberg 姗玛拉·罗森伯格（Sam 姗姆）
@@ -164,6 +175,7 @@ Serge 塞吉
 Shaddid 沙迪德（Captain 队长）
 Shed Garvey 谢德·加维
 Shin Jung Park 朴新荣·帕克
+Singh 辛格
 Skelton 斯凯顿
 Solomon Epstein 所罗门·爱泼斯坦 爱泼斯坦引擎
 Soren 索伦
@@ -299,14 +311,16 @@ Dhupa “丹帕”号
 Duffy “杜菲”号
 Edward Israel “爱德华·以色列”号
 Eight Tenets of Bushido “武士道八信条”号
+Eye of the Typhoon “台风之眼”号（Typhoon “台风”号）
 Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
 Forgiveness “宽恕”号
 Godalming “歌德明”号
-Gathering Storm “暴风集结”号 Storm “暴风”号
+Gathering Storm “暴风集结”号（Storm “暴风”号）
 Giambattista “巴蒂斯塔”号
 Guanshiyin “观世音”号
 Hammurabi “汉谟拉比”号
+Heart of the Tempest “暴风雨之心”号（Tempest “暴风雨”号）
 Hornblower “吹角者”号
 Ilrys Eves “伊勒斯·艾夫斯”号
 Indefatigable “持久”号
@@ -318,6 +332,7 @@ Konjin “金神”号
 Koto “科托”号
 Lagomorpha “兔毛虫”号
 Lastialus “拉斯蒂劳斯”号
+Lightbreaker “破光者”号
 Lin Siniang “林四娘”号
 Malak Alnuwr “马拉克·阿尔努尔”号
 Minsky “明斯基”号
@@ -342,9 +357,10 @@ Somnambulist “梦游者”号
 Sparrowhawk “雀鹰”号
 Spider Webb “斯派德·韦勃”号
 Thomas Prince “托马斯王子”号
+Tori Byron “托瑞·拜伦”号
 Tullus Aufidius “图卢斯·奥菲迪厄斯”号
 Vincent Soo “苏文森”号
-Voice of the Whirlwind “旋风之声”号（“旋风”号）
+Voice of the Whirlwind “旋风之声”号（Whirlwind “旋风”号）
 Vukodlak “乌克德拉克”号
 Y Que “何如”号
 Yunus Emre “尤努斯·艾姆雷”号
@@ -353,6 +369,7 @@ Witch of Endor “隐多珥女巫”号
 
 # 四、团体
 Alighar Muslim University 阿利格尔穆斯林大学
+Association of Worlds 世界公会
 BELT 小行星带
 Belters 小行星带人
 Carne Por la Machina 卡恩·波·拉麦奇纳
@@ -362,6 +379,7 @@ Free Navy 自由舰队
 Imahara Institute 今原学院，田中学校
 Intelligence Directorate 情报部
 Jacobin-Black Combined Capital 雅各宾-布莱克联合资本（JBCC “雅布资本” 基特）
+Laconian Military Council 拉科尼亚军事委员会
 Martian Congressional Republic（MCR） 火星国会共和国
 Martian Marine Corps 火星海军陆战队
 Outer Planets All（OPA） 外行星联盟
@@ -378,14 +396,16 @@ Sejong World College 世宗世界学院
 separatist 独立主义者
 Sohag Presbyterian Academy 索哈格长老会学院
 Star Helix Police 星旋警局
-State Building 联邦大厦
+State Building 帝国大厦
 Survey Exploration Directorate 勘测勘探部
 Tereshkova 捷列什科娃
-Transport Union 运输联盟
+Technology 技术部
+Transport Union 运输联会
 United Nations（UN） 联合国
 University of Calabar 加拉巴大学
 UN Navy（UNN） 联合国舰队
 UN Public Broadcasting 联合国公共广播公司
+Voltaire Collective 伏尔泰联会（OPA一支）
 
 # 五、官阶
 Acting XO 代理大副
@@ -403,7 +423,7 @@ weapons officer 武器部长
 
 
 # 六、武器
-Pulsar-class destroyers 脉冲星级别驱逐舰
+Pulsar-class destroyers 脉冲星级驱逐舰
 Goliath “哥利亚”铠甲
 Gravitar class 重力级
 Magnetar class 磁星级
@@ -433,6 +453,7 @@ casino level 娱乐层
 comms 通信器
 crash couch 抗压座椅
 docking bridge 对接桥
+dogwhistle 狗尾巴草
 drive 引擎
 drive plume 引擎焰（引擎羽流）
 drive signature 引擎特征
@@ -444,6 +465,7 @@ flight deck 驾驶舱
 fuel pellets 燃料球
 glandular implant 腺体植入
 goldilocks zone 可居住区
+gruncher 虼螂
 hand terminal 手持终端
 high-density resonance coating 高密度共振涂料
 hunting frigate 狩猎护卫舰
