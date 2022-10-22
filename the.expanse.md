@@ -52,10 +52,12 @@ Caton 凯顿
 Chandra Wei 钱德拉·魏
 Charles Allen 查尔斯·艾伦
 Charles Parker 查尔斯·帕克
+Chava Lombaugh 查瓦·伦堡
 Chrisjen Avasarala 克里斯金·阿瓦萨罗拉
 Clarissa Melpomene Mao 克拉丽莎·梅泊梅尼·毛（Claire 克莱儿，Melba AlzBeta Koh 梅尔芭·阿尔茨塔·柯）
 Cole 科尔
 Coleridge 柯勒律治
+Connor 康纳
 Coop 库普
 Cotyar Ghazi 柯特亚·加齐
 Cyn 塞恩
@@ -71,6 +73,7 @@ Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲
 Elvi Okoye 艾薇·奥科耶
 Ekko Levy 艾克·利维
 Emilia Bell-Cavat 艾米利娅·贝尔-卡瓦特
+Emma 艾玛
 Erich 艾里奇
 Esteban Sorrento-Gillis 埃斯特本·索伦托-吉利斯
 Fayez Sarkis 法耶兹·萨基斯
@@ -87,6 +90,7 @@ Gregor Shapiro 格雷戈·夏皮罗
 Harshaan Lee 哈沙安·李 博士
 Hector Cortez 赫克托·科特兹（Hank 汉克）
 Himemiya Gosset 希梅米亚·戈塞特
+Ilich 伊利奇
 Imogene Batia 伊莫金·巴蒂亚
 Iwasa 伊瓦萨
 Jacob 雅各布
@@ -133,6 +137,7 @@ Milan 米兰
 Min 敏敏
 Monica Stuart 莫妮卡·斯图尔特
 Moynahan 莫伊纳汉
+Muriel Cowper 穆瑞尔·考珀
 Muskrat 穆史克拉特 特蕾莎的宠物狗
 Myers 迈尔斯
 Nami 南米
@@ -156,6 +161,7 @@ Payne Houston 佩恩·休斯顿
 Praxidike Meng 普拉克斯迪克·孟（Prax 普拉克斯）
 Quinn de Bodard 奎恩·德·波达
 Ren 雷恩
+Rini 莉霓·格劳丁
 Robert Fagan 罗伯特·费根（Tilly 蒂莉）
 Roberta Draper 罗伯塔·德雷珀
 Rokia 罗琪娅（Rohi 罗伊基特妻子）
@@ -163,6 +169,7 @@ Rosenfeld Guoliang 罗森菲尔德·郭亮
 Rossif 罗西夫
 Saba 萨巴（地下组织）
 Sadavir Errinwright 萨达瓦·艾伦怀特
+Sagale 萨格尔
 Salis 萨利斯
 Samara Rosenberg 姗玛拉·罗森伯格（Sam 姗姆）
 Samuels 塞缪尔斯
@@ -301,6 +308,7 @@ Blackberry “黑莓”号
 Brian “布莱恩”号
 Brother Dog “兄弟狗”号
 Cane Rosso “凯恩·罗索”号
+Cassius “卡西斯”号
 Connaught “康诺特”号
 Canterbury “坎特伯雷”号（Cant “坎特”号）
 Caustic Bitch “刻薄婊子”，PinkWink “粉红女郎”
@@ -344,7 +352,9 @@ Pau Kant “鲍·康德”号
 Perishable Harvest “短暂收获”号
 Pleasant Life “愉快生活”号
 Preiss “普瑞斯”号
+Prince of the Face “法斯王子”号
 Proteus “变形虫”号 外星飞船
+Quinn “奎恩”号
 Razorback “狭背鲸”号
 Rising Derecho “瑞星·德雷科”号（“德雷科”号 拉科尼亚驱逐舰）
 Rocinante “罗西南多”号（Roci “罗西”号，Tachi “太刀”号  light frigate 轻型护卫舰）
@@ -364,6 +374,7 @@ Voice of the Whirlwind “旋风之声”号（Whirlwind “旋风”号）
 Vukodlak “乌克德拉克”号
 Y Que “何如”号
 Yunus Emre “尤努斯·艾姆雷”号
+White Crow “白鸦”号
 Witch of Endor “隐多珥女巫”号
 
 
