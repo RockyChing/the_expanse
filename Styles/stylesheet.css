@@ -4,12 +4,12 @@ body {
 	padding: 0;
 }
 p {
-	font-weight:normal;
-	margin-top:0em;
-	margin-bottom:0.5em;
-	margin-left:0em;
-	margin-right:0em;
-	text-align:justify;
+	font-weight: normal;
+	margin-top: 0em;
+	margin-bottom: 0.5em;
+	margin-left: 0em;
+	margin-right: 0em;
+	text-align: justify;
 	text-indent: 2em;
 }
 .bold {
@@ -40,6 +40,12 @@ small {
 .right {
 	text-align: right;
 	text-indent: 0em;
+}
+.image {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	text-indent: 0em;
+	text-align: center;
 }
 .typeface{
 	font-family: monospace
@@ -158,11 +164,11 @@ p.poem {
 }
 
 p.line {
-	border-bottom: 1px solid #E6E6FA
+	border-bottom: 2px dotted #7A7A7A
 }
 
 p.linew {
-	border-bottom: 3px solid #E6E6FA
+	border-bottom: 3px solid #7A7A7A
 }
 
 blockquote {

@@ -220,7 +220,7 @@ Bush Shipyards 布什造船厂，地球
 Callisto 木卫四
 Calypso 木卫十四
 Ceres 谷神星
-Corazon Sagrado 科拉松·萨拉多 星系
+Corazon Sagrado 科拉松·萨拉多，星系
 Cyllene 木卫四十八
 Deimos 火卫二
 Dobridomov 多布里多莫夫，星系
@@ -232,14 +232,14 @@ Farhome 法厚木
 Felicité 费利西泰
 Firdaws 菲达斯
 Fortuna Sittard 福图纳·西塔德，纽威斯特德的首都
-Freehold 弗里霍德
-Galbraith 加尔布雷斯星系
+Freehold 弗里霍德，星系
+Galbraith 加尔布雷斯，星系
 Ganymede 木卫三
 Gedara 格达拉
 Gewitter Base 盖维特基地
 Hakuseki 哈库斯基
-Harris 哈里斯星系
-Haza 哈扎星系
+Harris 哈里斯，星系
+Haza 哈扎，星系
 Hecate Base 赫卡特基地
 Hygeia Station 海吉娅空间站
 Iapetus 土卫八
@@ -250,28 +250,28 @@ Io 木卫一
 Laconia 拉科尼亚
 Larson 拉森
 Luna 月球
-Kronos 康诺斯星系
-Magpie 马格佩星系
+Kronos 康诺斯，星系
+Magpie 马格佩，星系
 Mariner Valley 马里纳谷
 Medina Station 麦地那空间站
-New Egypt 新埃及星系
+New Egypt 新埃及，星系
 New Greece 新希腊
 New Wales 新威尔士
 Nieuwestad 纽威斯特德，重力1.2g
 Nouvelle École 努维尔高等学校 Abbassia
-Nuriel 努里尔星系
+Nuriel 努里尔，星系
 Oshima 欧西玛
 Pallas 智神星空间站 Pallas-Tycho 智神星-第谷
-Pankaja 潘卡雅星系
-Parker 帕克星系
+Pankaja 潘卡雅，星系
+Parker 帕克，星系
 Pátria 帕特里亚
-Persephone 珀耳塞福涅星系
+Persephone 珀耳塞福涅，星系
 Phobos 火卫一
 Phoebe 土卫九
-Quivira 奎维拉星系
-San Esteban 圣埃斯特本星系
+Quivira 奎维拉，星系
+San Esteban 圣埃斯特本，星系
 San Ysidro 圣易西铎（圣地亚哥）
-Sanctuary 圣神殿星系
+Sanctuary 圣神殿，星系
 Sao Paulo 圣保罗
 Saturnus 土星
 St. Anthony 圣安东尼
@@ -284,7 +284,6 @@ Thoth 透特（普罗托根秘密实验基地）
 Titan 土卫六
 Torfaen 托芬，星系
 Tycho Station 第谷空间站
-Typhoon 飓风空间站
 Venus 金星
 Vesta 灶神星
 Warsaw 华沙（波兰首都）
@@ -457,9 +456,9 @@ XO 大副（Executive Officer）
 
 
 # 其他
-alien artifact 外星神器
+alien artifact 外星遗器
 autodoc 自动诊疗机
-by the numbers and by the book 按照命令去做吧
+by the numbers and by the book 按照章程和命令去做吧
 casino level 娱乐层
 comms 通信器
 crash couch 抗压座椅
@@ -473,18 +472,21 @@ extraction team 开采队
 extrapolative physics 外推物理学
 Extrasolar object 系外天体
 flight deck 驾驶舱
+fluid/juice 注射流体（无呼吸功能  breathable-fluid 呼吸液 submersion 深海呼吸液）
 fuel pellets 燃料球
 glandular implant 腺体植入
 goldilocks zone 可居住区
 gruncher 虼螂
 hand terminal 手持终端
+handhold 扶手（foothold 脚撑）
 high-density resonance coating 高密度共振涂料
 hunting frigate 狩猎护卫舰
 ice hauler 运冰船
 jellyfish 海蜇
 ki-ka-ko “叽-咔-叩”
-light body armor 轻型防弹盔甲
+light body armor 轻型防弹铠甲
 logistics department 后勤部门
+machine shop 机械间
 mag boots 磁力靴
 material reality 物质现实
 nonlocal signaling protocols 跨域信令协议
@@ -493,10 +495,11 @@ ops deck 操作台
 protomolecule 原分子
 recording station 记录站
 recyclers 循环器
-repair drones 修复无人机
+repair drones 修复机器狗
+repeater 中继器（transponder 应答器）
 rock hoppers 采矿船
 sea slugs 海洋蛞蝓
-siege of Laconia 拉科尼亚围城战
+siege of Laconia 拉科尼亚围攻战
 skinnies “瘦高仔”（小行星带人的蔑称）
 slow life model 慢生命形态
 slow zone 慢域
