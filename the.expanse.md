@@ -447,6 +447,7 @@ Xerxes-class 薛西斯级
 CIC 作战信息中心（Combat Information Center）
 HUD 平视显示屏（Head Up Display）
 IFF 敌我识别系统（Identification Friend or Foe）
+IV 静脉注射
 MCRN 火星太空舰队
 NIR 近红外（Near-Infrared）
 OPA 外行星联盟
