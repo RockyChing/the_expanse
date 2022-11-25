@@ -62,16 +62,18 @@ Coop 库普
 Cotyar Ghazi 柯特亚·加齐
 Cyn 塞恩
 Daphne Kohl 达芙妮·科尔
+Davenport 达文波特
 David Calrassi 大卫·卡拉西
 David Trujillo 大卫·特鲁希略
 De Caamp 德坎普，中尉
 Dimitri Havelock 迪米特里·哈夫洛克
 Diogo Harari 迪亚戈·哈拉里
 Duchet 杜谢
+Ekko Levy 艾克·利维
 Elise 伊莉丝，霍顿母亲
 Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲
+Elsa 艾尔莎
 Elvi Okoye 艾薇·奥科耶
-Ekko Levy 艾克·利维
 Emilia Bell-Cavat 艾米利娅·贝尔-卡瓦特
 Emma 艾玛
 Erich 艾里奇
@@ -79,6 +81,7 @@ Esteban Sorrento-Gillis 埃斯特本·索伦托-吉利斯
 Fayez Sarkis 法耶兹·萨基斯
 Fernanda Daté 费尔南达·达特
 Filip Inaros 菲利普·伊拉罗斯
+Fisher 费希尔
 Francisca Torrez 弗朗西斯卡·托雷斯
 Frederick L. Johnson 弗雷德里克·L·约翰逊（Fred Johnson 弗雷德·约翰逊）
 Gagnon 加格农，医生
@@ -144,6 +147,7 @@ Nami 南米
 Namono 南诺诺（Nono 诺诺）
 Natasha Li 娜塔莎·李
 Nathan Smith 南森·斯密斯
+Natalia 纳塔莉亚
 Negila 内吉拉 博士
 Nico Sanjrani 尼克·桑杰拉尼
 Nicola 妮可拉
@@ -177,12 +181,12 @@ Sanchez 桑切斯
 Sanders 桑德斯 博士 艾薇团队成员
 Sandra Ip 桑德拉·伊普
 Sandrine Gujarat 桑德琳·古吉拉特
+Santiago Jilie Singh 圣地亚哥·朱里埃·辛格（Sonny 桑尼）
 Sematimba 塞玛汀巴（Semi 塞米）
 Serge 塞吉
 Shaddid 沙迪德（Captain 队长）
 Shed Garvey 谢德·加维
 Shin Jung Park 朴新荣·帕克
-Singh 辛格
 Skelton 斯凯顿
 Solomon Epstein 所罗门·爱泼斯坦 爱泼斯坦引擎
 Soren 索伦
@@ -195,6 +199,7 @@ Talissa 塔丽莎（Tali 塔丽）
 Teresa Duarte 特蕾莎·杜阿尔特（Tiny 特妮）
 Théo Ammundsun 西奥·阿蒙德桑
 Travin 特拉文
+Trina Pilau 特里娜·皮劳
 Tristan Reeves 崔斯坦·里弗斯
 Wendy 温迪
 Weyrick 韦里克
@@ -313,6 +318,7 @@ Canterbury “坎特伯雷”号（Cant “坎特”号）
 Caustic Bitch “刻薄婊子”，PinkWink “粉红女郎”
 Cerisier “樱花”号
 Chetzemoka “切泽莫卡”号
+Cleo “克雷奥”号
 Donnager “唐纳吉尔”号
 Dhupa “丹帕”号
 Duffy “杜菲”号
@@ -408,6 +414,7 @@ Sohag Presbyterian Academy 索哈格长老会学院
 Star Helix Police 星旋警局
 State Building 帝国大厦
 Survey Exploration Directorate 勘测勘探部
+Task Force Rhino 犀牛特遣队
 Tereshkova 捷列什科娃
 Technology 技术部
 Transport Union 运输联会
@@ -423,7 +430,9 @@ XO 大副（executive officer）
 Admiral 舰队司令
 Association of Worlds rep 世界代表协会
 Captain 舰长
+flight control officer 航行指挥官
 high consul 高级领事
+navigation officer 引航官
 operations officer 行动部长
 prime minister 首相，总理
 Secretary-General 秘书长（Executive Administration 行政首长）
@@ -437,6 +446,7 @@ Pulsar-class destroyers 脉冲星级驱逐舰
 Goliath “哥利亚”铠甲
 Gravitar class 重力级
 Magnetar class 磁星级
+Proteus class 变形虫级
 Sirocco class 巡洋舰级
 Stalker “潜行者”铠甲
 Storm class 暴风级

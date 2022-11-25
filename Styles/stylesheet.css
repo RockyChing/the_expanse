@@ -171,6 +171,14 @@ p.linew {
 	border-bottom: 3px solid #7A7A7A
 }
 
+.linehr {
+	color: gray;
+	display: block;
+	height: 2px;
+	margin: 0.5em auto;
+	border: currentColor inset 1px
+}
+
 blockquote {
 	padding: 1.5em;	
 }
