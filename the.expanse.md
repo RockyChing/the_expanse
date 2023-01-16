@@ -40,6 +40,7 @@ Bridge Caspar 布里奇·卡斯帕
 Caesar 凯撒
 Carol Chiwewe 卡萝尔·绮薇薇
 Carlos c de Baca 卡洛斯·C·德·巴卡（Bull 布尔）
+Cameron Tur 卡梅隆·图尔
 Camina Drummer 卡米娜·德鲁默
 Canton 坎顿
 Cantor 坎特
@@ -59,6 +60,7 @@ Cole 科尔
 Coleridge 柯勒律治
 Connor 康纳
 Coop 库普
+Corazón Sagrado 科拉松·萨拉多
 Cotyar Ghazi 柯特亚·加齐
 Cyn 塞恩
 Daphne Kohl 达芙妮·科尔
@@ -75,6 +77,7 @@ Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲
 Elsa 艾尔莎
 Elvi Okoye 艾薇·奥科耶
 Emilia Bell-Cavat 艾米利娅·贝尔-卡瓦特
+Emily Santos-Baca 艾米丽·桑托斯-巴卡
 Emma 艾玛
 Erich 艾里奇
 Esteban Sorrento-Gillis 埃斯特本·索伦托-吉利斯
@@ -130,6 +133,7 @@ Mallia Currán 马莉亚·柯兰
 Marco Inaros 马尔科·伊拉罗斯
 Marrel Imvic 马雷尔·伊姆维克，语言学家
 Marwick 马威克
+McCahill 麦卡希尔
 McDowell 麦道尔
 Mei Meng 梅·孟
 Melero 梅尔罗
@@ -198,9 +202,12 @@ Susan Yi 伊苏珊
 Talissa 塔丽莎（Tali 塔丽）
 Teresa Duarte 特蕾莎·杜阿尔特（Tiny 特妮）
 Théo Ammundsun 西奥·阿蒙德桑
+Tjon 特琼
 Travin 特拉文
 Trina Pilau 特里娜·皮劳
 Tristan Reeves 崔斯坦·里弗斯
+Vaughn 沃恩
+Walker 沃克
 Wendy 温迪
 Weyrick 韦里克
 William Sakai 威廉·酒井
@@ -238,6 +245,7 @@ Felicité 费利西泰
 Firdaws 菲达斯
 Fortuna Sittard 福图纳·西塔德，纽威斯特德的首都
 Freehold 弗里霍德，星系
+Fusang 扶桑（Gallish Comple 高卢建筑群）
 Galbraith 加尔布雷斯，星系
 Ganymede 木卫三
 Gedara 格达拉
@@ -255,6 +263,7 @@ Io 木卫一
 Laconia 拉科尼亚
 Larson 拉森
 Luna 月球
+Kinley 金利
 Kronos 康诺斯，星系
 Magpie 马格佩，星系
 Mariner Valley 马里纳谷
@@ -389,6 +398,7 @@ Association of Worlds 世界公会
 BELT 小行星带
 Belters 小行星带人
 Carne Por la Machina 卡恩·波·拉麦奇纳
+Earth-Mars Coalition 地球-火星联合政府（EMC 地火联政）
 Earth security force 地球安保队
 Force Recon Battalion 部队侦察营
 Free Navy 自由舰队
@@ -437,6 +447,7 @@ operations officer 行动部长
 prime minister 首相，总理
 Secretary-General 秘书长（Executive Administration 行政首长）
 security officer 安全部长
+science advisor 科学顾问
 Undersecretary 副秘书（Assistant Undersecretary 助理副秘书）
 weapons officer 武器部长
 
@@ -458,7 +469,7 @@ CIC 作战信息中心（Combat Information Center）
 HUD 平视显示屏（Head Up Display）
 IFF 敌我识别系统（Identification Friend or Foe）
 IV 静脉注射
-MCRN 火星太空舰队
+MCRN 火星舰队
 NIR 近红外（Near-Infrared）
 OPA 外行星联盟
 PDC 定点防御炮
@@ -523,4 +534,4 @@ tightbeam 集束通信
 traffic analysis 航运分析
 transport tube 地铁
 vac suit 太空服
-
+void city 浮动之城（Independence 独立城，Guard of Passage 路卫城，People’s Home 人民之家，Assurance of Peace 和卫城）

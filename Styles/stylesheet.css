@@ -154,7 +154,7 @@ p.center {
 }
 p.poem {
 	font-weight:normal;
-	font-family:KaiTi;
+	font-family:"DK-KAITI", "KaiXinSong", "kt", "kaiti", "楷体";
 	margin-top:0em;
 	margin-bottom:0em;
 	margin-left:0em;
@@ -169,6 +169,19 @@ p.line {
 
 p.linew {
 	border-bottom: 3px solid #7A7A7A
+}
+
+p.zici_hdr {
+	font-size: 1.25em;
+	font-weight: bold;
+	text-indent: 2em;
+}
+
+a.zici_zhu {
+	color: blue;
+	font-size: 1.25em;
+	font-weight: bold;
+	text-decoration: underline
 }
 
 .linehr {
