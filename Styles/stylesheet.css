@@ -76,34 +76,8 @@ div.titlepage {
 	text-indent: 0em;
 	padding: 5em 1.5em 2.5em;
 }
-p.title {
-	font-weight: bold;
-	font-size: 1.2em;
-	padding: 2.5em 0;	
-}
-p.author {
-	font-style: normal;
-}
-p.series-info {
-	font-style: italic;
-	font-size: 0.9em;
-}
-
 div.series-listing {
 	page-break-before: always;
-}
-p.series-title {
-	font-weight: bold;
-	font-size: 1.2em;
-}
-p.series-content {
-	white-space: pre-line;
-	text-indent: 0;
-}
-p.series-current {
-	white-space: pre-line;
-	text-indent: 0;
-	font-weight: bold;
 }
 div.dedication {
 	page-break-before: always;
@@ -127,6 +101,32 @@ div.heading {
 }
 div.section {
 	text-align: justify;
+}
+
+p.title {
+	font-weight: bold;
+	font-size: 1.2em;
+	padding: 2.5em 0;
+}
+p.author {
+	font-style: normal;
+}
+p.series-info {
+	font-style: italic;
+	font-size: 0.9em;
+}
+p.series-title {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+p.series-content {
+	white-space: pre-line;
+	text-indent: 0;
+}
+p.series-current {
+	white-space: pre-line;
+	text-indent: 0;
+	font-weight: bold;
 }
 p.first {
 	text-indent: 0em;
@@ -162,19 +162,24 @@ p.poem {
 	text-align:justify;
 	text-indent: 2em;
 }
-
 p.line {
 	border-bottom: 2px dotted #7A7A7A
 }
-
 p.linew {
 	border-bottom: 3px solid #7A7A7A
 }
-
 p.zici_hdr {
 	font-size: 1.25em;
 	font-weight: bold;
 	text-indent: 2em;
+}
+
+span.red {
+	color: red
+}
+span.bred {
+	color: red;
+	font-weight: bold
 }
 
 a.zici_zhu {
@@ -182,6 +187,11 @@ a.zici_zhu {
 	font-size: 1.25em;
 	font-weight: bold;
 	text-decoration: underline
+}
+
+ul.left {
+	text-align: left;
+	text-indent: 0em;
 }
 
 .linehr {

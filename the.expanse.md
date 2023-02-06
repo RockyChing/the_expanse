@@ -11,6 +11,7 @@ Ty Franck 泰·弗兰克
 # 一、人物
 Alex Kamal 亚历克斯·卡玛尔
 Amos Burton 艾莫斯·伯顿（Timothy 蒂莫西 Bluto 布鲁托）
+Clarissa Melpomene Mao 克拉丽莎·梅泊梅尼·毛（Claire 克莱儿）
 James R. Holden 詹姆斯·霍顿
 Naomi Nagata 奈奥米·永田
 Roberta Draper 罗伯塔·德雷珀（Bobbie 博比）
@@ -55,7 +56,6 @@ Charles Allen 查尔斯·艾伦
 Charles Parker 查尔斯·帕克
 Chava Lombaugh 查瓦·伦堡
 Chrisjen Avasarala 克里斯金·阿瓦萨罗拉
-Clarissa Melpomene Mao 克拉丽莎·梅泊梅尼·毛（Claire 克莱儿，Melba AlzBeta Koh 梅尔芭·阿尔茨塔·柯）
 Cole 科尔
 Coleridge 柯勒律治
 Connor 康纳
@@ -136,9 +136,11 @@ Marwick 马威克
 McCahill 麦卡希尔
 McDowell 麦道尔
 Mei Meng 梅·孟
+Melba AlzBeta Koh 梅尔芭·阿尔茨塔·柯
 Melero 梅尔罗
 Micah al-Dujaili 米迦·阿杜贾里
 Michael-Jon de Uturbé 迈克尔-乔恩·德·乌图尔贝
+Michael Simeon 迈克尔·西蒙
 Michio Pa 道央·帕
 Milan 米兰
 Min 敏敏
