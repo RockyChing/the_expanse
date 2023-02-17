@@ -14,7 +14,7 @@ Amos Burton 艾莫斯·伯顿（Timothy 蒂莫西 Bluto 布鲁托）
 Clarissa Melpomene Mao 克拉丽莎·梅泊梅尼·毛（Claire 克莱儿）
 James R. Holden 詹姆斯·霍顿
 Naomi Nagata 奈奥米·永田
-Roberta Draper 罗伯塔·德雷珀（Bobbie 博比）
+Roberta W. Draper 罗伯塔·德雷珀（Bobbie 博比）
 
 Adolphus Murtry 阿道弗斯·默特里
 Ahmadi 艾哈迈迪
@@ -417,6 +417,7 @@ Protogen 普罗托根
 Protogen Security 普罗托根安保公司
 Psychiatric Services 精神科服务部
 Pure 'n' Kleen Water Company  普雷&克雷恩饮用水公司
+Rocicorp 罗西公司
 Royal Charter Energy （RCE）皇家宪章能源公司，艾薇老雇主
 Science Directorate 科学理事会
 security forces 安全部队
@@ -479,11 +480,15 @@ SIGINT 信号情报部
 XO 大副（Executive Officer）
 
 
+# 八、术语
+Coriolis effect 科氏效应
+
 # 其他
 alien artifact 外星遗器
 autodoc 自动诊疗机
 by the numbers and by the book 按照章程和命令去做吧
 casino level 娱乐层
+coalition-council room 联盟理事会会场
 comms 通信器
 crash couch 抗压座椅
 docking bridge 对接桥
