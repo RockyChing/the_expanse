@@ -103,6 +103,60 @@ div.section {
 	text-align: justify;
 }
 
+span.red {
+	color: red
+}
+span.bred {
+	color: red;
+	font-weight: bold
+}
+
+span.blue {
+	color: #00cc00;
+}
+span.bblue {
+	color: #00cc00;
+	font-weight: bold
+}
+
+span.orange {
+	color: #00cc00;
+}
+span.borange {
+	color: #ff00ff;
+	font-weight: bold
+}
+
+a.zici_zhu {
+	color: blue;
+	font-size: 1.25em;
+	font-weight: bold;
+	text-decoration: underline
+}
+
+ul.left {
+	text-align: left;
+	text-indent: 0em;
+}
+
+.linehr {
+	color: gray;
+	display: block;
+	height: 2px;
+	margin: 0.5em auto;
+	border: currentColor inset 1px
+}
+
+/* Replace <br/> */
+p.newLineTop {
+	font-weight: normal;
+	margin-top: 2em;
+	margin-bottom: 0.5em;
+	margin-left: 0em;
+	margin-right: 0em;
+	text-align: justify;
+	text-indent: 2em;
+}
 p.title {
 	font-weight: bold;
 	font-size: 1.2em;
@@ -162,6 +216,11 @@ p.poem {
 	text-align:justify;
 	text-indent: 2em;
 }
+p.right_KaiTi {
+	font-weight:normal;
+	font-family:"DK-KAITI", "KaiXinSong", "kt", "kaiti", "楷体";
+	text-align: right;
+}
 p.line {
 	border-bottom: 2px dotted #7A7A7A
 }
@@ -172,34 +231,6 @@ p.zici_hdr {
 	font-size: 1.25em;
 	font-weight: bold;
 	text-indent: 2em;
-}
-
-span.red {
-	color: red
-}
-span.bred {
-	color: red;
-	font-weight: bold
-}
-
-a.zici_zhu {
-	color: blue;
-	font-size: 1.25em;
-	font-weight: bold;
-	text-decoration: underline
-}
-
-ul.left {
-	text-align: left;
-	text-indent: 0em;
-}
-
-.linehr {
-	color: gray;
-	display: block;
-	height: 2px;
-	margin: 0.5em auto;
-	border: currentColor inset 1px
 }
 
 blockquote {

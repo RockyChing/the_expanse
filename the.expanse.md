@@ -272,6 +272,7 @@ Mariner Valley 马里纳谷
 Medina Station 麦地那空间站
 New Egypt 新埃及，星系
 New Greece 新希腊
+New Roma 新罗马
 New Wales 新威尔士
 Nieuwestad 纽威斯特德，重力1.2g
 Nouvelle École 努维尔高等学校 Abbassia
@@ -363,6 +364,7 @@ Minsky “明斯基”号
 Musafir “远行者”号
 Nag Hammadi “纳格·哈马地”号
 Nauvoo “诺伍”号（Behemoth “巨兽”号）
+Old Buncome “奥尔德·布康”号
 Pella “佩拉”号
 Pau Kant “鲍·康德”号
 Perishable Harvest “短暂收获”号
@@ -466,8 +468,11 @@ Stalker “潜行者”铠甲
 Storm class 暴风级
 Xerxes-class 薛西斯级
 
+# 七、食物
+Pad thai 泰式炒粉
+Red curry 红咖喱
 
-# 七、缩写
+# 八、缩写
 CIC 作战信息中心（Combat Information Center）
 HUD 平视显示屏（Head Up Display）
 IFF 敌我识别系统（Identification Friend or Foe）
@@ -480,7 +485,7 @@ SIGINT 信号情报部
 XO 大副（Executive Officer）
 
 
-# 八、术语
+# 九、术语
 Coriolis effect 科氏效应
 
 # 其他
