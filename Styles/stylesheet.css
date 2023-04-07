@@ -1,3 +1,4 @@
+/* Version: 2023.4.3 */
 /* Generic useful styles: */
 body {
 	font-size: 100%;
@@ -104,18 +105,18 @@ div.section {
 }
 
 span.red {
-	color: red
+	color: #ff00ff;
 }
 span.bred {
-	color: red;
+	color: #ff00ff;
 	font-weight: bold
 }
 
-span.blue {
-	color: #00cc00;
+span.dred {
+	color: #ab1942;
 }
-span.bblue {
-	color: #00cc00;
+span.bdred {
+	color: #ab1942;
 	font-weight: bold
 }
 
@@ -124,6 +125,14 @@ span.orange {
 }
 span.borange {
 	color: #ff00ff;
+	font-weight: bold
+}
+
+span.blue {
+	color: #00cc00;
+}
+span.bblue {
+	color: #00cc00;
 	font-weight: bold
 }
 
@@ -194,6 +203,11 @@ p.emphasis {
 	text-align:justify;
 	text-indent: 2em;
 }
+p.refGray {
+	color: #646464;
+	text-align:justify;
+	text-indent: 2em;
+}
 p.separator {
 	text-align: center;
 	text-indent: 0em;
@@ -235,6 +249,11 @@ p.zici_hdr {
 
 blockquote {
 	padding: 1.5em;	
+}
+
+/* note.png */
+.note {
+	width: 24px;
 }
 
 /* Legacy, in order to minimize failures*/

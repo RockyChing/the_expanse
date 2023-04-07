@@ -151,6 +151,7 @@ Muskrat 穆史克拉特 特蕾莎的宠物狗
 Myers 迈尔斯
 Nami 南米
 Namono 南诺诺（Nono 诺诺）
+Nanda 南达
 Natasha Li 娜塔莎·李
 Nathan Smith 南森·斯密斯
 Natalia 纳塔莉亚
