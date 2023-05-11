@@ -116,6 +116,7 @@ Juliette Andromeda Mao 朱莉叶-安德洛墨达·毛 （Julie Mao 朱莉·毛�
 Kachela al-Din 卡切拉·丁
 Kaarlo 克劳罗
 Karal 卡罗尔
+Karo 卡罗
 Kasim Andrada 卡西姆·安德罗达
 Katria Mendez 卡特莉娅·孟迪兹
 Kelly 凯利
@@ -169,6 +170,7 @@ Overstreet 奥韦斯崔特
 Paolo Cortázar 保罗·科塔萨尔 博士
 Paula Gutierrez 保拉·古提瑞兹
 Payne Houston 佩恩·休斯顿
+Pítr Vukcevich 彼提尔·伍克维奇
 Praxidike Meng 普拉克斯迪克·孟（Prax 普拉克斯）
 Quinn de Bodard 奎恩·德·波达
 Ren 雷恩
@@ -360,6 +362,7 @@ Lagomorpha “兔毛虫”号
 Lastialus “拉斯蒂劳斯”号
 Lightbreaker “破光者”号
 Lin Siniang “林四娘”号
+Malaclypse “马拉克利普斯”号
 Malak Alnuwr “马拉克·阿尔努尔”号
 Minsky “明斯基”号
 Musafir “远行者”号
@@ -410,6 +413,7 @@ Free Navy 自由舰队
 Imahara Institute 今原学院，田中学校
 Intelligence Directorate 情报部
 Jacobin-Black Combined Capital 雅各宾-布莱克联合资本（JBCC “雅布资本” 基特）
+Kurtadam 库尔塔
 Laconian Military Council 拉科尼亚军事委员会
 Martian Congressional Republic（MCR） 火星国会共和国
 Martian Marine Corps 火星海军陆战队
@@ -470,8 +474,10 @@ Storm class 暴风级
 Xerxes-class 薛西斯级
 
 # 七、食物
+fish sauce鱼酱
 Pad thai 泰式炒粉
 Red curry 红咖喱
+rice noodle 米粉
 
 # 八、缩写
 CIC 作战信息中心（Combat Information Center）
@@ -534,6 +540,7 @@ repair drones 修复机器狗
 repeater 中继器（transponder 应答器）
 rock hoppers 采矿船
 sea slugs 海洋蛞蝓
+service tunnel 检修隧道
 siege of Laconia 拉科尼亚围攻战
 skinnies “瘦高仔”（小行星带人的蔑称）
 slow life model 慢生命形态
