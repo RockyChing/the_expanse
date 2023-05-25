@@ -173,6 +173,7 @@ Payne Houston 佩恩·休斯顿
 Pítr Vukcevich 彼提尔·伍克维奇
 Praxidike Meng 普拉克斯迪克·孟（Prax 普拉克斯）
 Quinn de Bodard 奎恩·德·波达
+Ramez 拉曼斯
 Ren 雷恩
 Rini 莉霓·格劳丁
 Robert Fagan 罗伯特·费根（Tilly 蒂莉）
@@ -506,6 +507,7 @@ crash couch 抗压座椅
 docking bridge 对接桥
 dogwhistle 狗尾巴草
 drive 引擎
+drive cone 引擎锥
 drive plume 引擎焰（引擎羽流）
 drive signature 引擎特征
 entity 存在物（gate/ring entity 星环里的存在物）
@@ -517,6 +519,7 @@ fluid/juice 注射流体（无呼吸功能  breathable-fluid 呼吸液 submersio
 fuel pellets 燃料球
 glandular implant 腺体植入
 goldilocks zone 可居住区
+grapple gun 抓钩枪
 gruncher 虼螂
 hand terminal 手持终端
 handhold 扶手（foothold 脚撑）
