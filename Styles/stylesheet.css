@@ -1,4 +1,4 @@
-/* Version: 2023.4.3 */
+/* Version: 2023.6.10 */
 /* Generic useful styles: */
 body {
 	font-size: 100%;
@@ -104,6 +104,11 @@ div.section {
 	text-align: justify;
 }
 
+span.pizhu {
+	color: #ab1942;
+	font-size: 0.80em;
+}
+
 span.red {
 	color: #ff00ff;
 }
@@ -112,10 +117,10 @@ span.bred {
 	font-weight: bold
 }
 
-span.dred {
+span.blue {
 	color: #ab1942;
 }
-span.bdred {
+span.bblue {
 	color: #ab1942;
 	font-weight: bold
 }
@@ -125,14 +130,6 @@ span.orange {
 }
 span.borange {
 	color: #ff00ff;
-	font-weight: bold
-}
-
-span.blue {
-	color: #00cc00;
-}
-span.bblue {
-	color: #00cc00;
 	font-weight: bold
 }
 
@@ -255,6 +252,50 @@ blockquote {
 .note {
 	width: 24px;
 }
+
+/* front.xhtml */
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.centered {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 0.67em
+    }
+.centered1 {
+    display: block;
+    font-weight: bold;
+    text-align: center;
+    text-indent: 0;
+    margin: 1em 0 1.33em
+    }
+.centered2 {
+    display: block;
+    font-size: 0.83333em;
+    line-height: 170%;
+    text-align: center;
+    text-indent: 0;
+    margin: 0
+    }
+
 
 /* Legacy, in order to minimize failures*/
 .header {

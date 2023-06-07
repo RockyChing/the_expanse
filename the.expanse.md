@@ -117,6 +117,7 @@ Kachela al-Din 卡切拉·丁
 Kaarlo 克劳罗
 Karal 卡罗尔
 Karo 卡罗
+Kasik 卡西克
 Kasim Andrada 卡西姆·安德罗达
 Katria Mendez 卡特莉娅·孟迪兹
 Kelly 凯利
