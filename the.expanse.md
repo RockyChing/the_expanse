@@ -213,6 +213,7 @@ Tjon 特琼
 Travin 特拉文
 Trina Pilau 特里娜·皮劳
 Tristan Reeves 崔斯坦·里弗斯
+Vanegas 梵内加斯
 Vaughn 沃恩
 Walker 沃克
 Wendy 温迪
@@ -461,6 +462,7 @@ Secretary-General 秘书长（Executive Administration 行政首长）
 security officer 安全部长
 science advisor 科学顾问
 Undersecretary 副秘书（Assistant Undersecretary 助理副秘书）
+Undersecretary of Executive Affairs 执行事务部副部长
 weapons officer 武器部长
 
 
