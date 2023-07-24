@@ -91,6 +91,7 @@ Gagnon 加格农，医生
 Galwan ud-Din 加尔万·尤金
 Gino 基诺
 Giselle 吉赛尔（亚历克斯妻子）
+Gloria Hu 格洛莉娅（胡司令）
 Gorman Le 戈尔曼·勒
 Gregor Shapiro 格雷戈·夏皮罗
 Harshaan Lee 哈沙安·李 博士
@@ -280,6 +281,7 @@ New Egypt 新埃及，星系
 New Greece 新希腊
 New Roma 新罗马
 New Wales 新威尔士
+Neue Ausland 新奥斯兰
 Nieuwestad 纽威斯特德，重力1.2g
 Nouvelle École 努维尔高等学校 Abbassia
 Nuriel 努里尔，星系
@@ -299,6 +301,7 @@ Sao Paulo 圣保罗
 Saturnus 土星
 St. Anthony 圣安东尼
 Sumner 萨姆纳
+Surabhi 苏拉比
 Svarga Minor 小斯瓦尔加
 Tecoma 特科马
 Thanjavur 坦加布尔
@@ -368,10 +371,13 @@ Lin Siniang “林四娘”号
 Malaclypse “马拉克利普斯”号
 Malak Alnuwr “马拉克·阿尔努尔”号
 Minsky “明斯基”号
+Michael Souther “迈克尔·萨瑟”号
 Musafir “远行者”号
 Nag Hammadi “纳格·哈马地”号
 Nauvoo “诺伍”号（Behemoth “巨兽”号）
+Odachi “奥达奇”号
 Old Buncome “奥尔德·布康”号
+Ontario “安大略”号
 Pella “佩拉”号
 Pau Kant “鲍·康德”号
 Perishable Harvest “短暂收获”号
@@ -386,11 +392,13 @@ Rocinante “罗西南多”号（Roci “罗西”号，Tachi “太刀”号  
 Scopuli “海岩”号
 Senator “塞纳托尔”号
 Seung Un “温承炫”号
+Severin “塞维林”号
 Shinsakuto “新佐久户”号
 Sidpai “希派”号 “罗西”号冒名的飞船
 Somnambulist “梦游者”号
 Sparrowhawk “雀鹰”号
 Spider Webb “斯派德·韦勃”号
+Talwar “塔尔瓦”号
 Thomas Prince “托马斯王子”号
 Tori Byron “托瑞·拜伦”号
 Tullus Aufidius “图卢斯·奥菲迪厄斯”号

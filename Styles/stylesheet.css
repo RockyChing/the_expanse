@@ -1,4 +1,4 @@
-/* Version: 2023.6.10 */
+/* Version: 2023.7.24 */
 /* Generic useful styles: */
 body {
 	font-size: 100%;
@@ -102,6 +102,11 @@ div.heading {
 }
 div.section {
 	text-align: justify;
+}
+
+img.auto {
+	max-width: 100%;
+	height: auto
 }
 
 span.pizhu {
@@ -289,7 +294,7 @@ blockquote {
     }
 .centered2 {
     display: block;
-    font-size: 0.83333em;
+    font-size: 0.90em;
     line-height: 170%;
     text-align: center;
     text-indent: 0;
