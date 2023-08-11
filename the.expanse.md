@@ -126,6 +126,7 @@ Kim Randall 金姆·兰德尔
 Kit Kamal 基特·卡玛尔
 Komi Tuan 科米·图安
 Konecheck 科恩切克
+Lafflin 拉夫林
 Leniki 利尼基
 Lionel Polanski 莱昂内尔·波兰斯基
 Lister 利斯特
@@ -271,6 +272,7 @@ Innis Shallows 伊尼斯浅滩
 Io 木卫一
 Laconia 拉科尼亚
 Larson 拉森
+Loundres Nova 劳恩蒂斯·诺瓦
 Luna 月球
 Kinley 金利
 Kronos 康诺斯，星系
@@ -286,7 +288,8 @@ Nieuwestad 纽威斯特德，重力1.2g
 Nouvelle École 努维尔高等学校 Abbassia
 Nuriel 努里尔，星系
 Oshima 欧西玛
-Pallas 智神星空间站 Pallas-Tycho 智神星-第谷
+Pallas 智神星空间站
+Pallas-Tycho Complex 智神星-第谷复合空间站
 Pankaja 潘卡雅，星系
 Parker 帕克，星系
 Pátria 帕特里亚
