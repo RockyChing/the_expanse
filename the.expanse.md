@@ -35,6 +35,7 @@ Ashford 阿什福德
 Augusto Nguyen 奥古斯托·阮
 Bakari 巴卡里（基特儿子）
 Basia Merton 巴斯亚·默顿（Katoa 卡图亚 Felcia 费西娅）
+Benedito Lafflin 贝内迪托·拉夫林
 Black 布莱克
 Botton 波顿
 Bridge Caspar 布里奇·卡斯帕
@@ -126,7 +127,6 @@ Kim Randall 金姆·兰德尔
 Kit Kamal 基特·卡玛尔
 Komi Tuan 科米·图安
 Konecheck 科恩切克
-Lafflin 拉夫林
 Leniki 利尼基
 Lionel Polanski 莱昂内尔·波兰斯基
 Lister 利斯特
@@ -272,6 +272,7 @@ Innis Shallows 伊尼斯浅滩
 Io 木卫一
 Laconia 拉科尼亚
 Larson 拉森
+Leuctra （Luke-tra） 留克特拉
 Loundres Nova 劳恩蒂斯·诺瓦
 Luna 月球
 Kinley 金利
@@ -556,6 +557,7 @@ recyclers 循环器
 repair drones 修复机器狗
 repeater 中继器（transponder 应答器）
 rock hoppers 采矿船
+Saahas-maut 萨哈斯穆特
 sea slugs 海洋蛞蝓
 service tunnel 检修隧道
 siege of Laconia 拉科尼亚围攻战
