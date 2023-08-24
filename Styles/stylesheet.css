@@ -1,4 +1,4 @@
-/* Version: 2023.7.24 */
+/* Version: 2023.8.22 */
 /* Generic useful styles: */
 body {
 	font-size: 100%;
@@ -109,6 +109,7 @@ img.auto {
 span.pizhu {
 	color: #ab1942;
 	font-size: 0.80em;
+	font-family:"STKaiti", "Kaiti", "KaiXinSong", "楷体", "楷体_GB2312";
 }
 
 span.red {
@@ -219,9 +220,9 @@ p.center {
 	text-align: center;
 	text-indent: 0em;
 }
-p.poem {
+p.Kaiti {
 	font-weight:normal;
-	font-family:"DK-KAITI", "KaiXinSong", "kt", "kaiti", "楷体";
+	font-family:"STKaiti", "Kaiti", "KaiXinSong", "楷体", "楷体_GB2312";
 	margin-top:0em;
 	margin-bottom:0em;
 	margin-left:0em;
@@ -231,7 +232,7 @@ p.poem {
 }
 p.right_KaiTi {
 	font-weight:normal;
-	font-family:"DK-KAITI", "KaiXinSong", "kt", "kaiti", "楷体";
+	font-family:"STKaiti", "Kaiti", "KaiXinSong", "楷体", "楷体_GB2312";
 	text-align: right;
 }
 p.line {

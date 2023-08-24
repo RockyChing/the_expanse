@@ -18,6 +18,7 @@ Roberta W. Draper 罗伯塔·德雷珀（Bobbie 博比）
 
 Adolphus Murtry 阿道弗斯·默特里
 Ahmadi 艾哈迈迪
+Albin Nazari 阿尔宾·纳扎里
 Aliana Tanaka 艾莉安娜·田中
 Akari 明里，田中姑妈
 Alexi Myerson-Freud 亚历克西·迈尔森-佛洛伊德
@@ -272,7 +273,8 @@ Innis Shallows 伊尼斯浅滩
 Io 木卫一
 Laconia 拉科尼亚
 Larson 拉森
-Leuctra （Luke-tra） 留克特拉
+Leuctra 留克特拉
+Leuctra Point 留克特拉角
 Loundres Nova 劳恩蒂斯·诺瓦
 Luna 月球
 Kinley 金利
@@ -353,9 +355,11 @@ Eye of the Typhoon “台风之眼”号（Typhoon “台风”号）
 Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”
 Forgiveness “宽恕”号
+Frederick Lewis “弗雷德里克·路易斯”号
 Godalming “歌德明”号
 Gathering Storm “暴风集结”号（Storm “暴风”号）
 Giambattista “巴蒂斯塔”号
+Governor Knight “总督骑士”号
 Guanshiyin “观世音”号
 Hammurabi “汉谟拉比”号
 Heart of the Tempest “暴风雨之心”号（Tempest “暴风雨”号）
