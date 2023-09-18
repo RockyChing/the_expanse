@@ -64,6 +64,7 @@ Connor 康纳
 Coop 库普   
 Corazón Sagrado 科拉松·萨拉多   
 Cotyar Ghazi 柯特亚·加齐   
+Coyo 柯优   
 Cyn 塞恩   
 Daphne Kohl 达芙妮·科尔   
 Davenport 达文波特   
@@ -225,6 +226,7 @@ Weyrick 韦里克
 William Sakai 威廉·酒井   
 Winston Duarte 温斯顿·杜阿尔特   
 Xan 阿赞   
+Zig Ochoa 齐·奥乔亚  
    
    
 # 二、地名
@@ -423,14 +425,16 @@ Witch of Endor “隐多珥女巫”号
    
 # 四、团体
 Alighar Muslim University 阿利格尔穆斯林大学   
-Association of Worlds 世界公会   
+Association of Worlds 世界协会（Laconian Congress of Worlds 拉科尼亚世界公会）   
 BELT 小行星带   
-Belters 小行星带人   
+Belters 小行星带人 
+Black Sky 玄天会（OPA一派）   
 Carne Por la Machina 卡恩·波·拉麦奇纳   
 Earth-Mars Coalition 地球-火星联合政府（EMC 地火联政）   
 Earth security force 地球安保队   
 Force Recon Battalion 部队侦察营   
 Free Navy 自由舰队   
+Golden Bough Society 金枝会（OPA一派）    
 Imahara Institute 今原学院，田中学校   
 Intelligence Directorate 情报部   
 Jacobin-Black Combined Capital 雅各宾-布莱克联合资本（JBCC “雅布资本” 基特）   
@@ -463,7 +467,7 @@ United Nations（UN） 联合国
 University of Calabar 加拉巴大学   
 UN Navy（UNN） 联合国舰队   
 UN Public Broadcasting 联合国公共广播公司   
-Voltaire Collective 伏尔泰联会（OPA一支）   
+Voltaire Collective 伏尔泰会（OPA一派）   
    
 # 五、官阶
 Acting XO 代理大副   
@@ -515,6 +519,7 @@ XO 大副（Executive Officer）
    
    
 # 九、术语
+Belter Creole 小行星带克里奥尔语
 Coriolis effect 科氏效应   
    
 # 其他
@@ -531,6 +536,7 @@ drive 引擎
 drive cone 引擎锥   
 drive plume 引擎焰（引擎羽流）   
 drive signature 引擎特征   
+dumb terminal 转储终端    
 entity 存在物（gate/ring entity 星环里的存在物）   
 extraction team 开采队   
 extrapolative physics 外推物理学   
@@ -555,6 +561,7 @@ machine shop 机械间
 mag boots 磁力靴   
 material reality 物质现实   
 nonlocal signaling protocols 跨域信令协议   
+open sections 开放区域   
 unknown entities 未知实体   
 ops deck 操作台   
 protomolecule 原分子   

@@ -1,4 +1,4 @@
-/* Version: 2023.8.27 */
+/* Version: 2023.9.14 */
 /* Generic useful styles: */
 body {
 	font-size: 100%;
@@ -226,6 +226,12 @@ p.Kaiti {
 	text-align:justify;
 	text-indent: 2em;
 	margin: 0 0 0.5em 0;
+}
+p.left_Kaiti {
+	font-weight:normal;
+	font-family:"STKaiti", "Kaiti", "KaiXinSong", "楷体", "楷体_GB2312";
+	text-align:left;
+	text-indent: 0em;
 }
 p.right_KaiTi {
 	font-weight:normal;
