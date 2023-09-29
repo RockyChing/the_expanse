@@ -124,7 +124,7 @@ Karal 卡罗尔
 Karo 卡罗   
 Kasik 卡西克   
 Kasim Andrada 卡西姆·安德罗达   
-Katria Mendez 卡特莉娅·孟迪兹   
+Katria Mendez 卡特莉娅·孟迪兹（Miss Kitty 咪咪小姐，艾莫斯称之）   
 Kelly 凯利   
 Kim Randall 金姆·兰德尔   
 Kit Kamal 基特·卡玛尔   
