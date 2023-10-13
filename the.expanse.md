@@ -530,6 +530,7 @@ casino level 娱乐层
 coalition-council room 联盟理事会会场   
 comms 通信器   
 crash couch 抗压座椅   
+dead man’s switch 死亡监测器   
 docking bridge 对接桥   
 dogwhistle 狗尾巴草   
 drive 引擎   
