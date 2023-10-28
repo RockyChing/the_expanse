@@ -79,6 +79,7 @@ Elise 伊莉丝，霍顿母亲
 Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲   
 Elsa 艾尔莎   
 Elvi Okoye 艾薇·奥科耶   
+Emil-Michelle Li 艾米-米歇尔·李
 Emilia Bell-Cavat 艾米利娅·贝尔-卡瓦特   
 Emily Santos-Baca 艾米丽·桑托斯-巴卡   
 Emma 艾玛   
@@ -120,6 +121,7 @@ Jules-Pierre Mao 朱尔斯-皮埃尔·毛
 Juliette Andromeda Mao 朱莉叶-安德洛墨达·毛 （Julie Mao 朱莉·毛）   
 Kachela al-Din 卡切拉·丁   
 Kaarlo 克劳罗   
+Kajri 卡姞里（Kiki 琪琪）   
 Karal 卡罗尔   
 Karo 卡罗   
 Kasik 卡西克   
@@ -214,6 +216,7 @@ Susan Yi 伊苏珊
 Talissa 塔丽莎（Tali 塔丽）   
 Teresa Duarte 特蕾莎·杜阿尔特（Tiny 特妮）   
 Théo Ammundsun 西奥·阿蒙德桑   
+Thorne Chao 赵索恩   
 Tjon 特琼   
 Travin 特拉文   
 Trina Pilau 特里娜·皮劳   
