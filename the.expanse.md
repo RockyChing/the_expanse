@@ -74,11 +74,12 @@ De Caamp 德坎普，中尉
 Dimitri Havelock 迪米特里·哈夫洛克   
 Diogo Harari 迪亚戈·哈拉里   
 Duchet 杜谢   
+Ehrlich 艾利希   
 Ekko Levy 艾克·利维   
 Elise 伊莉丝，霍顿母亲   
 Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲   
 Elsa 艾尔莎   
-Elvi Okoye 艾薇·奥科耶   
+Elvi Okoye 艾薇·奥科耶（Els 艾丝）   
 Emil-Michelle Li 艾米-米歇尔·李
 Emilia Bell-Cavat 艾米利娅·贝尔-卡瓦特   
 Emily Santos-Baca 艾米丽·桑托斯-巴卡   
@@ -111,6 +112,7 @@ Jakande 贾坎德
 Jakulski 雅库尔斯基   
 Jandol 老詹   
 Jason 杰森   
+Jen Lively 珍·莱芙丽   
 Jenna 詹娜   
 Jillian Houston 吉莉安·休斯顿   
 Josephus A. Miller 约瑟夫·A·米勒   
@@ -144,6 +146,7 @@ Marrel Imvic 马雷尔·伊姆维克，语言学家
 Marwick 马威克   
 McCahill 麦卡希尔   
 McDowell 麦道尔   
+Mehmet Sagale 穆罕默德·萨加莱（Met 默德）   
 Mei Meng 梅·孟   
 Melba AlzBeta Koh 梅尔芭·阿尔茨塔·柯   
 Melero 梅尔罗   
@@ -219,6 +222,7 @@ Théo Ammundsun 西奥·阿蒙德桑
 Thorne Chao 赵索恩   
 Tjon 特琼   
 Travin 特拉文   
+Travon Barrish 特拉万·巴里什   
 Trina Pilau 特里娜·皮劳   
 Tristan Reeves 崔斯坦·里弗斯   
 Vanegas 梵内加斯   
@@ -476,7 +480,6 @@ Voltaire Collective 伏尔泰会（OPA一派）
 Acting XO 代理大副   
 XO 大副（executive officer）   
 Admiral 舰队司令   
-Association of Worlds rep 世界代表协会   
 Captain 舰长   
 flight control officer 航行指挥官   
 high consul 高级领事   
@@ -542,6 +545,7 @@ drive plume 引擎焰（引擎羽流）
 drive signature 引擎特征   
 dumb terminal 转储终端    
 entity 存在物（gate/ring entity 星环里的存在物）   
+exobiology 宇宙生物学   
 extraction team 开采队   
 extrapolative physics 外推物理学   
 Extrasolar object 系外天体   
