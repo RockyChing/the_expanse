@@ -38,6 +38,7 @@ Bakari 巴卡里（基特儿子）
 Basia Merton 巴斯亚·默顿（Katoa 卡图亚 Felcia 费西娅）   
 Benedito Lafflin 贝内迪托·拉夫林   
 Black 布莱克   
+Blanca 布兰卡   
 Botton 波顿   
 Bridge Caspar 布里奇·卡斯帕   
 Caesar 凯撒   
@@ -78,7 +79,7 @@ Ehrlich 艾利希
 Ekko Levy 艾克·利维   
 Elise 伊莉丝，霍顿母亲   
 Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲   
-Elsa 艾尔莎   
+Elsa 艾尔莎（monster 小怪物）   
 Elvi Okoye 艾薇·奥科耶（Els 艾丝）   
 Emil-Michelle Li 艾米-米歇尔·李
 Emilia Bell-Cavat 艾米利娅·贝尔-卡瓦特   
@@ -255,6 +256,7 @@ Calypso 木卫十四
 Ceres 谷神星   
 Corazon Sagrado 科拉松·萨拉多，星系   
 Cyllene 木卫四十八   
+Deep Transfer Station 深度中转空间站   
 Deimos 火卫二   
 Dobridomov 多布里多莫夫，星系   
 Draper Station 德雷珀空间站   
@@ -280,7 +282,7 @@ Iapetus 土卫八
 Ilus 伊洛斯（New Terra 新地球，First Landing 首镇）   
 Innis Deep 伊尼斯   
 Innis Shallows 伊尼斯浅滩   
-Io 木卫一   
+Io 木卫一（Io Campaign 木卫一战役）   
 Laconia 拉科尼亚   
 Larson 拉森   
 Leuctra 留克特拉   
@@ -421,6 +423,7 @@ Talwar “塔尔瓦”号
 Thomas Prince “托马斯王子”号   
 Tori Byron “托瑞·拜伦”号   
 Tullus Aufidius “图卢斯·奥菲迪厄斯”号   
+Verity Close “拥护真理”号   
 Vincent Soo “苏文森”号   
 Voice of the Whirlwind “旋风之声”号（Whirlwind “旋风”号）   
 Vukodlak “乌克德拉克”号   
@@ -543,7 +546,7 @@ drive 引擎
 drive cone 引擎锥   
 drive plume 引擎焰（引擎羽流）   
 drive signature 引擎特征   
-dumb terminal 转储终端    
+dumb terminal 哑终端    
 entity 存在物（gate/ring entity 星环里的存在物）   
 exobiology 宇宙生物学   
 extraction team 开采队   
@@ -568,6 +571,7 @@ logistics department 后勤部门
 machine shop 机械间   
 mag boots 磁力靴   
 material reality 物质现实   
+monitor 监控器   
 nonlocal signaling protocols 跨域信令协议   
 open sections 开放区域   
 unknown entities 未知实体   
