@@ -51,6 +51,7 @@ Cantor 坎特
 Cara 卡拉（Sparkles 光闪闪，艾莫斯称之）   
 Carmondy 卡蒙迪   
 Carrie Fisk 卡丽·菲斯克   
+Caspar Asoau 卡斯帕·阿索   
 Casey 凯西   
 Cassie 凯茜   
 Caton 凯顿   
@@ -217,6 +218,7 @@ Stanni 斯坦尼
 Stokes 斯托克斯   
 Strickland 史崔克兰（Carlos Merrian 卡洛斯·梅里安）   
 Susan Yi 伊苏珊   
+Takeshi Oba 武治·奥巴  
 Talissa 塔丽莎（Tali 塔丽）   
 Teresa Duarte 特蕾莎·杜阿尔特（Tiny 特妮）   
 Théo Ammundsun 西奥·阿蒙德桑   
@@ -393,6 +395,7 @@ Malaclypse “马拉克利普斯”号
 Malak Alnuwr “马拉克·阿尔努尔”号   
 Minsky “明斯基”号   
 Michael Souther “迈克尔·萨瑟”号   
+Mosley “莫斯利”号   
 Musafir “远行者”号   
 Nag Hammadi “纳格·哈马地”号   
 Nauvoo “诺伍”号（Behemoth “巨兽”号）   
@@ -401,6 +404,7 @@ Old Buncome “奥尔德·布康”号
 Ontario “安大略”号   
 Pella “佩拉”号   
 Pau Kant “鲍·康德”号   
+Pendulum’s Arc “钟摆弧”号（Pendulum “钟摆”号）   
 Perishable Harvest “短暂收获”号   
 Pleasant Life “愉快生活”号   
 Preiss “普瑞斯”号   
