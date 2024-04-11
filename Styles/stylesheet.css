@@ -1,15 +1,58 @@
-/* Version: 2023.9.14 */
+/* Version: 2024.3.13 */
 /* Generic useful styles: */
 body {
 	font-size: 100%;
 	padding: 0;
 }
+
 p {
 	font-weight: normal;
 	text-align: justify;
 	text-indent: 2em;
 	margin: 0 0 0.5em 0;
 }
+
+h1 {
+	font-size: 1.75em;
+	text-indent: 0em;
+	text-align: center
+}
+h2 {
+	font-size: 1.50em;
+	text-indent: 0em;
+	text-align: center
+}
+h3 {
+	font-size: 1.25em;
+	text-indent: 0em;
+	text-align: center
+}
+h4 {
+	font-size: 1.1em;
+	text-indent: 0em;
+	text-align: center
+}
+
+/* Chapters: */
+div.chapter {
+	page-break-before: always;
+}
+div.heading {
+	text-indent: 0;
+	text-align: center;
+}
+div.section {
+	text-align: justify;
+}
+
+/* Format: */
+p.yiny {
+	font-weight: normal;
+	text-align: justify;
+	text-indent: 2em;
+	margin: 0 2em 0.5em 2em;
+}
+
 .bold {
 	font-weight: bold;
 }
@@ -25,11 +68,12 @@ p {
 .small {
 	font-size: 0.75em;
 }
-small {
-	font-size: 0.75em;
-}
 .big {
 	font-size: 1.2em;
+}
+.left {
+	text-align: left;
+	text-indent: 0em;
 }
 .center {
 	text-align: center;
@@ -39,113 +83,59 @@ small {
 	text-align: right;
 	text-indent: 0em;
 }
-.image {
-	margin-top: 1em;
-	margin-bottom: 1em;
-	text-indent: 0em;
-	text-align: center;
+
+/* Font: */
+.Kaiti {
+	font-family: "STKaiti", "Kaiti", "KaiXinSong", "楷体", "楷体_GB2312";
 }
-.typeface{
-	font-family: monospace
+.Songti {
+	font-family: "宋体", "Songti", "SimSun", "sans-serif";
 }
-div.newpage {
-	page-break-before: always;
-}
-h1 {
-	text-indent: 0em;
-	text-align: center
-}
-h2 {
-	text-indent: 0em;
-	text-align: center
-}
-h3 {
-	text-indent: 0em;
-	text-align: center
-}
-h4 {
-	text-indent: 0em;
-	text-align: center
+.FSong {
+	font-family: "STFangsong", "fs", "FangSong", "Fangsong_GB2312", "仿宋", "仿宋_gb2312", "华文仿宋";
 }
 
-/* Start of Book: */
-div.titlepage {
-	text-align: center;
-	text-indent: 0em;
-	padding: 5em 1.5em 2.5em;
+/* Colors: */ 
+.red {
+	color: #ff00ff;
 }
-div.series-listing {
-	page-break-before: always;
-}
-div.dedication {
-	page-break-before: always;
-	padding: 5em 0;
-}
-div.acknowledgments {
-	page-break-before: always;
-	padding: 2.5em 0 0;
-}
-div.epigraph {
-	page-break-before: always;
-	padding: 5em 0 0;
-}
-/* Chapters: */
-div.chapter {
-	page-break-before: always;
-}
-div.heading {
-	text-indent: 0;
-	text-align: center;
-}
-div.section {
-	text-align: justify;
+.bred {
+	color: #ff00ff;
+	font-weight: bold
 }
 
+blue {
+	color: #ab1942;
+}
+bblue {
+	color: #ab1942;
+	font-weight: bold
+}
+
+.orange {
+	color: #00cc00;
+}
+.borange {
+	color: #ff00ff;
+	font-weight: bold
+}
+
+/* Images: */
 img.auto {
 	max-width: 100%;
 	height: auto
 }
 
+/* Spans: */
 span.pizhu {
 	color: #ab1942;
 	font-size: 0.80em;
 	font-family:"STKaiti", "Kaiti", "KaiXinSong", "楷体", "楷体_GB2312";
 }
 
-span.red {
-	color: #ff00ff;
-}
-span.bred {
-	color: #ff00ff;
-	font-weight: bold
-}
-
-span.blue {
-	color: #ab1942;
-}
-span.bblue {
-	color: #ab1942;
-	font-weight: bold
-}
-
-span.orange {
-	color: #00cc00;
-}
-span.borange {
-	color: #ff00ff;
-	font-weight: bold
-}
-
-a.zici_zhu {
+a.no_dec {
 	color: blue;
-	font-size: 1.25em;
-	font-weight: bold;
-	text-decoration: underline
-}
-
-ul.left {
-	text-align: left;
-	text-indent: 0em;
+	text-decoration: none;
 }
 
 .linehr {
@@ -154,109 +144,6 @@ ul.left {
 	height: 2px;
 	margin: 0.5em auto;
 	border: currentColor inset 1px
-}
-
-/* Replace <br/> */
-p.newLineTop {
-	font-weight: normal;
-	margin-top: 2em;
-	margin-bottom: 0.5em;
-	margin-left: 0em;
-	margin-right: 0em;
-	text-align: justify;
-	text-indent: 2em;
-}
-p.title {
-	font-weight: bold;
-	font-size: 1.2em;
-	padding: 2.5em 0;
-}
-p.author {
-	font-style: normal;
-}
-p.series-info {
-	font-style: italic;
-	font-size: 0.9em;
-}
-p.series-title {
-	font-weight: bold;
-	font-size: 1.2em;
-}
-p.series-content {
-	white-space: pre-line;
-	text-indent: 0;
-}
-p.series-current {
-	white-space: pre-line;
-	text-indent: 0;
-	font-weight: bold;
-}
-p.first {
-	text-indent: 0em;
-}
-p.verse {
-	margin: 0.5em 1 em 0 em;
-	text-indent: -0.5em;	
-}
-p.emphasis {
-	font-weight: bold;
-	text-align:justify;
-	text-indent: 2em;
-}
-p.refGray {
-	color: #646464;
-	text-align:justify;
-	text-indent: 2em;
-}
-p.separator {
-	text-align: center;
-	text-indent: 0em;
-}
-p.left {
-	text-align: left;
-	text-indent: 0em;
-}
-p.center {
-	text-align: center;
-	text-indent: 0em;
-}
-p.Kaiti {
-	font-weight:normal;
-	font-family:"STKaiti", "Kaiti", "KaiXinSong", "楷体", "楷体_GB2312";
-	text-align:justify;
-	text-indent: 2em;
-	margin: 0 0 0.5em 0;
-}
-p.left_Kaiti {
-	font-weight:normal;
-	font-family:"STKaiti", "Kaiti", "KaiXinSong", "楷体", "楷体_GB2312";
-	text-align:left;
-	text-indent: 0em;
-}
-p.right_KaiTi {
-	font-weight:normal;
-	font-family:"STKaiti", "Kaiti", "KaiXinSong", "楷体", "楷体_GB2312";
-	text-align: right;
-}
-p.line {
-	border-bottom: 2px dotted #7A7A7A
-}
-p.linew {
-	border-bottom: 3px solid #7A7A7A
-}
-p.zici_hdr {
-	font-size: 1.25em;
-	font-weight: bold;
-	text-indent: 2em;
-}
-
-blockquote {
-	padding: 1.5em;	
-}
-
-/* note.png */
-.note {
-	width: 24px;
 }
 
 /* front.xhtml */

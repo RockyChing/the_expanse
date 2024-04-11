@@ -14,7 +14,7 @@ Amos Burton 艾莫斯·伯顿（Timothy 蒂莫西 Bluto 布鲁托）
 Clarissa Melpomene Mao 克拉丽莎·梅泊梅尼·毛（Claire 克莱儿）   
 James R. Holden 詹姆斯·霍顿   
 Naomi Nagata 奈奥米·永田   
-Roberta W. Draper 罗伯塔·德雷珀（Bobbie 博比，Babs 博布）   
+Roberta W. Draper 罗伯塔·德雷珀（Bobbie 博比，Babs 博布 Gunny 军士）   
    
 Adolphus Murtry 阿道弗斯·默特里   
 Ahmadi 艾哈迈迪   
@@ -41,7 +41,9 @@ Black 布莱克
 Blanca 布兰卡   
 Botton 波顿   
 Bridge Caspar 布里奇·卡斯帕   
+Burnham 伯恩姆   
 Caesar 凯撒   
+Calvin 卡尔文   
 Carol Chiwewe 卡萝尔·绮薇薇   
 Carlos c de Baca 卡洛斯·C·德·巴卡（Bull 布尔）   
 Cameron Tur 卡梅隆·图尔   
@@ -60,9 +62,11 @@ Charles Allen 查尔斯·艾伦
 Charles Parker 查尔斯·帕克   
 Chava Lombaugh 查瓦·伦堡   
 Chrisjen Avasarala 克里斯金·阿瓦萨罗拉   
+Chuck 恰克   
 Cole 科尔   
 Coleridge 柯勒律治   
-Connor 康纳   
+Connor 康纳（Nutless “小坚果”）   
+Connor Weigel 康纳·威格尔   
 Coop 库普   
 Corazón Sagrado 科拉松·萨拉多   
 Cotyar Ghazi 柯特亚·加齐   
@@ -82,10 +86,10 @@ Elise 伊莉丝，霍顿母亲
 Elizabeth Finley 伊丽莎白·芬莉 特蕾莎的远亲   
 Elsa 艾尔莎（monster 小怪物）   
 Elvi Okoye 艾薇·奥科耶（Els 艾丝）   
-Emil-Michelle Li 艾米-米歇尔·李
+Emil-Michelle Li 艾米-米歇尔·李    
 Emilia Bell-Cavat 艾米利娅·贝尔-卡瓦特   
 Emily Santos-Baca 艾米丽·桑托斯-巴卡   
-Emma 艾玛   
+Emma Zomorodi 艾玛·左莫罗迪（Pankara 潘卡拉）   
 Erich 艾里奇   
 Esteban Sorrento-Gillis 埃斯特本·索伦托-吉利斯   
 Fayez Sarkis 法耶兹·萨基斯   
@@ -110,6 +114,7 @@ Imogene Batia 伊莫金·巴蒂亚
 Iwasa 伊瓦萨   
 Jacob 雅各布   
 Jacobin 雅各宾   
+Jae Eun Song 宋琼恩   
 Jakande 贾坎德   
 Jakulski 雅库尔斯基   
 Jandol 老詹   
@@ -125,6 +130,7 @@ Jules-Pierre Mao 朱尔斯-皮埃尔·毛
 Juliette Andromeda Mao 朱莉叶-安德洛墨达·毛 （Julie Mao 朱莉·毛）   
 Kachela al-Din 卡切拉·丁   
 Kaarlo 克劳罗   
+Kahno 卡诺   
 Kajri 卡姞里（Kiki 琪琪）   
 Karal 卡罗尔   
 Karo 卡罗   
@@ -132,6 +138,7 @@ Kasik 卡西克
 Kasim Andrada 卡西姆·安德罗达   
 Katria Mendez 卡特莉娅·孟迪兹（Miss Kitty 咪咪小姐，艾莫斯称之）   
 Kelly 凯利   
+Khalid Marks 哈利德·马克斯   
 Kim Randall 金姆·兰德尔   
 Kit Kamal 基特·卡玛尔   
 Komi Tuan 科米·图安   
@@ -144,6 +151,7 @@ Lucia 露西娅
 Lydia Allen 莉蒂娅·艾伦   
 Mallia Currán 马莉亚·柯兰   
 Marco Inaros 马尔科·伊拉罗斯   
+Mark 马克   
 Marrel Imvic 马雷尔·伊姆维克，语言学家   
 Marwick 马威克   
 McCahill 麦卡希尔   
@@ -189,8 +197,10 @@ Quinn de Bodard 奎恩·德·波达
 Ramez 拉曼斯   
 Ren 雷恩   
 Rini 莉霓·格劳丁   
+Rittenaur 里特纳尔   
 Robert Fagan 罗伯特·费根（Tilly 蒂莉）   
 Roberta Draper 罗伯塔·德雷珀   
+Rohani 罗哈尼   
 Rokia 罗琪娅（Rohi 罗伊基特妻子）   
 Rosenfeld Guoliang 罗森菲尔德·郭亮   
 Rossif 罗西夫   
@@ -208,8 +218,10 @@ Santiago Jilie Singh 圣地亚哥·朱里埃·辛格（Sonny 桑尼）
 Sematimba 塞玛汀巴（Semi 塞米）   
 Serge 塞吉   
 Shaddid 沙迪德（Captain 队长）   
+Shan Ellison 山·埃里森   
 Shed Garvey 谢德·加维   
 Shin Jung Park 朴新荣·帕克   
+Rini Glaudin 琳妮·格劳丁   
 Skelton 斯凯顿   
 Solomon Epstein 所罗门·爱泼斯坦 爱泼斯坦引擎   
 Soren 索伦   
@@ -249,13 +261,16 @@ Auberon 奥伯伦，星系
 Baltimore 巴尔的摩（美国一座港市）   
 Bara Gaon 巴拉加恩，星系   
 Behrenhold 贝伦霍德   
+Bellerophon 贝尔罗丰   
 Benin City 贝宁城   
 Bogotá 波哥大   
 Breach Candy 布瑞彻·坎迪   
 Bush Shipyards 布什造船厂，地球   
 Callisto 木卫四   
 Calypso 木卫十四   
+Castila 卡斯提拉   
 Ceres 谷神星   
+Charon 卡戎，星系   
 Corazon Sagrado 科拉松·萨拉多，星系   
 Cyllene 木卫四十八   
 Deep Transfer Station 深度中转空间站   
@@ -291,11 +306,13 @@ Leuctra 留克特拉
 Leuctra Point 留克特拉角   
 Loundres Nova 劳恩蒂斯·诺瓦   
 Luna 月球   
+Kalma 卡尔玛，星系   
 Kinley 金利   
 Kronos 康诺斯，星系   
 Magpie 马格佩，星系   
 Mariner Valley 马里纳谷   
 Medina Station 麦地那空间站   
+Naraka 纳拉卡，星系   
 New Egypt 新埃及，星系   
 New Greece 新希腊   
 New Roma 新罗马   
@@ -317,6 +334,7 @@ Quivira 奎维拉，星系
 San Esteban 圣埃斯特本，星系   
 San Ysidro 圣易西铎（圣地亚哥）   
 Sanctuary 圣神殿，星系   
+Sanaang 杉盎，星系   
 Sao Paulo 圣保罗   
 Saturnus 土星   
 St. Anthony 圣安东尼   
@@ -349,6 +367,7 @@ Augustin Gamarra “奥古斯汀·甘加拉”号
 Azure Dragon “青龙”号   
 Barbapiccola “巴巴匹可拉”号   
 Barkeith “巴基斯”号   
+Bhikaji Cama “贝卡基·卡马”号   
 Black Kite “黑风筝”号   
 Blackberry “黑莓”号   
 Brian “布莱恩”号   
@@ -363,6 +382,7 @@ Chetzemoka “切泽莫卡”号
 Cleo “克雷奥”号   
 Donnager “唐纳吉尔”号   
 Dhupa “丹帕”号   
+Drybeck “德莱贝克”号   
 Duffy “杜菲”号   
 Edward Israel “爱德华·以色列”号   
 Eight Tenets of Bushido “武士道八信条”号   
@@ -395,8 +415,10 @@ Malaclypse “马拉克利普斯”号
 Malak Alnuwr “马拉克·阿尔努尔”号   
 Minsky “明斯基”号   
 Michael Souther “迈克尔·萨瑟”号   
+Monsoon “季风”号   
 Mosley “莫斯利”号   
 Musafir “远行者”号   
+Myron’s Folly “迈伦的荒唐事”号   
 Nag Hammadi “纳格·哈马地”号   
 Nauvoo “诺伍”号（Behemoth “巨兽”号）   
 Odachi “奥达奇”号   
@@ -406,6 +428,7 @@ Pella “佩拉”号
 Pau Kant “鲍·康德”号   
 Pendulum’s Arc “钟摆弧”号（Pendulum “钟摆”号）   
 Perishable Harvest “短暂收获”号   
+Plain of Jordan “约旦平原”号   
 Pleasant Life “愉快生活”号   
 Preiss “普瑞斯”号   
 Prince of the Face “法斯王子”号   
@@ -458,6 +481,7 @@ Martian Congressional Republic（MCR） 火星国会共和国
 Martian Marine Corps 火星海军陆战队   
 Outer Planets All（OPA） 外行星联盟   
 Mao-Kwikowski Mercantile 毛-奎考斯基商贸公司（Mao-Kwik 毛-奎考商贸）   
+Personnel Directorate 人事局   
 Pinkwater 潘克沃特   
 Protogen 普罗托根   
 Protogen Security 普罗托根安保公司   
@@ -559,8 +583,10 @@ Extrasolar object 系外天体
 flight deck 驾驶舱   
 fluid/juice 注射流体（无呼吸功能  breathable-fluid 呼吸液 submersion 深海呼吸液）   
 fuel pellets 燃料球   
+full-submersion crash couch 全浸没式抗压座椅
 glandular implant 腺体植入   
 goldilocks zone 可居住区   
+golgo 戈戈球（流行于小行星带人之间的游戏）
 grapple gun 抓钩枪   
 gruncher 虼螂   
 hand terminal 手持终端   
