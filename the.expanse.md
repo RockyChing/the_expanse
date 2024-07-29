@@ -1,4 +1,4 @@
-== ^_^==   
+== ^_^ ==   
    
 by 印象   
 译：22.   
@@ -57,6 +57,7 @@ Caspar Asoau 卡斯帕·阿索
 Casey 凯西   
 Cassie 凯茜   
 Caton 凯顿   
+Chama 夏玛   
 Chandra Wei 钱德拉·魏   
 Charles Allen 查尔斯·艾伦   
 Charles Parker 查尔斯·帕克   
@@ -108,8 +109,10 @@ Gorman Le 戈尔曼·勒
 Gregor Shapiro 格雷戈·夏皮罗   
 Harshaan Lee 哈沙安·李 博士   
 Hector Cortez 赫克托·科特兹（Hank 汉克）   
+Hernandez 赫南德兹   
 Himemiya Gosset 希梅米亚·戈塞特   
-Ilich 伊利奇   
+Ian 伊恩   
+Ilich 伊利奇（Jason 杰森）   
 Imogene Batia 伊莫金·巴蒂亚   
 Iwasa 伊瓦萨   
 Jacob 雅各布   
@@ -187,6 +190,7 @@ Octavia Muss 奥克塔维亚·穆斯
 Oksana 奥科萨纳   
 Onni Langstiver 奥尼·朗斯提佛   
 Oran Alberts 奥兰·艾伯特   
+Orm 奥姆   
 Overstreet 奥韦斯崔特   
 Paolo Cortázar 保罗·科塔萨尔 博士   
 Paula Gutierrez 保拉·古提瑞兹   
@@ -199,7 +203,7 @@ Ren 雷恩
 Rini 莉霓·格劳丁   
 Rittenaur 里特纳尔   
 Robert Fagan 罗伯特·费根（Tilly 蒂莉）   
-Roberta Draper 罗伯塔·德雷珀   
+Roberts 罗伯茨   
 Rohani 罗哈尼   
 Rokia 罗琪娅（Rohi 罗伊基特妻子）   
 Rosenfeld Guoliang 罗森菲尔德·郭亮   
@@ -247,7 +251,7 @@ Wendy 温迪
 Weyrick 韦里克   
 William Sakai 威廉·酒井   
 Winston Duarte 温斯顿·杜阿尔特   
-Xan 阿赞   
+Xan 阿赞（Alexander 亚历山大）   
 Zig Ochoa 齐·奥乔亚  
    
    
@@ -290,6 +294,7 @@ Galbraith 加尔布雷斯，星系
 Ganymede 木卫三   
 Gedara 格达拉   
 Gewitter Base 盖维特基地   
+Hamshalim 哈姆沙林   
 Hakuseki 哈库斯基   
 Harris 哈里斯，星系   
 Haza 哈扎，星系   
@@ -367,6 +372,7 @@ Augustin Gamarra “奥古斯汀·甘加拉”号
 Azure Dragon “青龙”号   
 Barbapiccola “巴巴匹可拉”号   
 Barkeith “巴基斯”号   
+Benedict “本尼迪克特”号   
 Bhikaji Cama “贝卡基·卡马”号   
 Black Kite “黑风筝”号   
 Blackberry “黑莓”号   
@@ -374,12 +380,14 @@ Brian “布莱恩”号
 Brother Dog “兄弟狗”号   
 Cane Rosso “凯恩·罗索”号   
 Cassius “卡西斯”号   
+Chet Lam “切特·拉姆”号   
 Connaught “康诺特”号   
 Canterbury “坎特伯雷”号（Cant “坎特”号）   
 Caustic Bitch “刻薄婊子”，PinkWink “粉红女郎”   
 Cerisier “樱花”号   
 Chetzemoka “切泽莫卡”号   
 Cleo “克雷奥”号   
+Deliverance “解救”号   
 Donnager “唐纳吉尔”号   
 Dhupa “丹帕”号   
 Drybeck “德莱贝克”号   
@@ -391,6 +399,7 @@ Falcon “鹰隼”号
 Flying Buffalothat “飞行的布法罗”   
 Forgiveness “宽恕”号   
 Frederick Lewis “弗雷德里克·路易斯”号   
+Garcia y Vasquez “加西亚.y.瓦斯奎兹”号   
 Godalming “歌德明”号   
 Gathering Storm “暴风集结”号（Storm “暴风”号）   
 Giambattista “巴蒂斯塔”号   
@@ -421,6 +430,7 @@ Musafir “远行者”号
 Myron’s Folly “迈伦的荒唐事”号   
 Nag Hammadi “纳格·哈马地”号   
 Nauvoo “诺伍”号（Behemoth “巨兽”号）   
+Neve Avivim “内韦·艾维维姆”号   
 Odachi “奥达奇”号   
 Old Buncome “奥尔德·布康”号   
 Ontario “安大略”号   
@@ -436,6 +446,7 @@ Proteus “变形虫”号 外星飞船
 Quinn “奎恩”号   
 Razorback “狭背鲸”号   
 Rising Derecho “瑞星·德雷科”号（“德雷科”号 拉科尼亚驱逐舰）   
+Rising Shamal “瑞星·沙美儿”号（“沙美儿”号 拉科尼亚驱逐舰）   
 Rocinante “罗西南多”号（Roci “罗西”号，Tachi “太刀”号  light frigate 轻型护卫舰）   
 Scopuli “海岩”号   
 Senator “塞纳托尔”号   
@@ -558,6 +569,11 @@ XO 大副（Executive Officer）
 # 九、术语
 Belter Creole 小行星带克里奥尔语
 Coriolis effect 科氏效应   
+Myers-Skelton Premature Immunosenescence 迈尔斯-斯克尔顿过早免疫衰老症   
+   
+# 十、标语
+First. Fastest. Furthest. 争先，求快，望远（普罗托根的标语）   
+SHE TAKES CARE OF YOU. YOU TAKE CARE OF HER. 与它相依，彼此扶持（“罗西”号机械间的标语）   
    
 # 其他
 alien artifact 外星遗器   
@@ -605,7 +621,7 @@ monitor 监控器
 nonlocal signaling protocols 跨域信令协议   
 open sections 开放区域   
 unknown entities 未知实体   
-ops deck 操作台   
+ops deck 操作台（指挥舱）   
 protomolecule 原分子   
 recording station 记录站   
 recyclers 循环器   
