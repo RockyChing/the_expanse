@@ -1,4 +1,4 @@
-/* Version: 2024.3.13 */
+/* Version: 2024.9.11 */
 /* Generic useful styles: */
 body {
 	font-size: 100%;
@@ -9,7 +9,7 @@ p {
 	font-weight: normal;
 	text-align: justify;
 	text-indent: 2em;
-	margin: 0 0 0.5em 0;
+	margin: 0 0 0.6em 0;
 }
 
 h1 {
@@ -51,6 +51,10 @@ p.yiny {
 	text-align: justify;
 	text-indent: 2em;
 	margin: 0 2em 0.5em 2em;
+}
+
+.hide {
+	visibility: hidden;
 }
 
 .bold {
@@ -145,7 +149,16 @@ a.no_dec {
 	margin: 0.5em auto;
 	border: currentColor inset 1px
 }
-
+/* Replace <br/> */
+p.newLineTop {
+	font-weight: normal;
+	margin-top: 2em;
+	margin-bottom: 0.5em;
+	margin-left: 0em;
+	margin-right: 0em;
+	text-align: justify;
+	text-indent: 2em;
+}
 /* front.xhtml */
 .calibre {
     display: block;
@@ -199,3 +212,14 @@ a.no_dec {
 	text-align: right;
 	text-indent: 0em;
 }
+
+li {
+    list-style-type: none;
+    margin-left: 0;
+  }
+a {
+    text-decoration: none;
+  }
+a:hover {
+    color: red;
+  }
