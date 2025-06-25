@@ -74,6 +74,7 @@ Cotyar Ghazi 柯特亚·加齐
 Coyo 柯优   
 Cyn 塞恩   
 Daphne Kohl 达芙妮·科尔   
+Dave 戴夫   
 Davenport 达文波特   
 David Calrassi 大卫·卡拉西   
 David Trujillo 大卫·特鲁希略   
@@ -490,7 +491,7 @@ Kurtadam 库尔塔
 Laconian Military Council 拉科尼亚军事委员会   
 Martian Congressional Republic（MCR） 火星国会共和国   
 Martian Marine Corps 火星海军陆战队   
-Outer Planets All（OPA） 外行星联盟   
+Outer Planets All（OPA） 外行星联盟（外盟）   
 Mao-Kwikowski Mercantile 毛-奎考斯基商贸公司（Mao-Kwik 毛-奎考商贸）   
 Personnel Directorate 人事局   
 Pinkwater 潘克沃特   
@@ -560,7 +561,7 @@ IFF 敌我识别系统（Identification Friend or Foe）
 IV 静脉注射   
 MCRN 火星舰队   
 NIR 近红外（Near-Infrared）   
-OPA 外行星联盟   
+OPA 外行星联盟（外盟）   
 PDC 定点防御炮   
 SIGINT 信号情报部   
 XO 大副（Executive Officer）   
@@ -592,6 +593,8 @@ drive plume 引擎焰（引擎羽流）
 drive signature 引擎特征   
 dumb terminal 哑终端    
 entity 存在物（gate/ring entity 星环里的存在物）   
+environment suit 环境防护服   
+EVA kit 舱外活动工具箱
 exobiology 宇宙生物学   
 extraction team 开采队   
 extrapolative physics 外推物理学   
