@@ -4,6 +4,6 @@
    
 后续校错等修改，主要更新ePub电子书。   
    
-《无垠的太空(1).利维坦觉醒》电子书（1-29章）:   
-**地址：**https://www.alipan.com/s/9zncLGAEdJW   
-**提取码：**d6r6
+《无垠的太空(1).利维坦觉醒》电子书（1-42章）:   
+**地址：**https://www.alipan.com/s/R6mFvSnvFZD   
+**提取码：**7lgc
