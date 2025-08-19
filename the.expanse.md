@@ -1,4 +1,4 @@
-== ^_^ ==   
+== ^_^ ==
    
 by 印象   
 译：22.   
@@ -16,6 +16,7 @@ James R. Holden 詹姆斯·霍顿
 Naomi Nagata 奈奥米·永田   
 Roberta W. Draper 罗伯塔·德雷珀（Bobbie 博比，Babs 博布 Gunny 军士）   
    
+Ade Tukunbo 阿黛·图昆波   
 Adolphus Murtry 阿道弗斯·默特里   
 Ahmadi 艾哈迈迪   
 Albin Nazari 阿尔宾·纳扎里   
@@ -39,13 +40,16 @@ Basia Merton 巴斯亚·默顿（Katoa 卡图亚 Felcia 费西娅）
 Benedito Lafflin 贝内迪托·拉夫林   
 Black 布莱克   
 Blanca 布兰卡   
+Bomie Chatterjee 波米·查特基   
 Botton 波顿   
+Bredon 布瑞顿   
 Bridge Caspar 布里奇·卡斯帕   
 Burnham 伯恩姆   
 Caesar 凯撒   
 Calvin 卡尔文   
 Carol Chiwewe 卡萝尔·绮薇薇   
 Carlos c de Baca 卡洛斯·C·德·巴卡（Bull 布尔）   
+Cameron Paj 卡梅隆·帕吉   
 Cameron Tur 卡梅隆·图尔   
 Camina Drummer 卡米娜·德鲁默   
 Canton 坎顿   
@@ -100,7 +104,7 @@ Fernand Massey 费尔南多·梅西
 Filip Inaros 菲利普·伊拉罗斯   
 Fisher 费希尔   
 Francisca Torrez 弗朗西斯卡·托雷斯   
-Frederick L. Johnson 弗雷德里克·L·约翰逊（Fred Johnson 弗雷德·约翰逊）   
+Frederick Lucius Johnson 弗雷德里克·卢修斯·约翰逊（Fred Johnson 弗雷德·约翰逊）   
 Gagnon 加格农，医生   
 Galwan ud-Din 加尔万·尤金   
 Gino 基诺   
@@ -123,15 +127,16 @@ Jakande 贾坎德
 Jakulski 雅库尔斯基   
 Jandol 老詹   
 Jason 杰森   
+Javier Liu 刘嘉威   
 Jen Lively 珍·莱芙丽   
 Jenna 詹娜   
 Jillian Houston 吉莉安·休斯顿   
-Josephus A. Miller 约瑟夫·A·米勒   
+Josephus Aloisus Miller 约瑟夫·阿洛伊修斯·米勒（Candace 坎迪丝）   
 Joey 乔伊   
 Jordao 乔道   
 Juarez 华雷斯   
-Jules-Pierre Mao 朱尔斯-皮埃尔·毛   
-Juliette Andromeda Mao 朱莉叶-安德洛墨达·毛 （Julie Mao 朱莉·毛）   
+Jules-Pierre Mao 朱尔斯-皮埃尔·毛（Ariadne 阿德妮）   
+Juliette Andromeda Mao 朱莉叶·安德洛墨达·毛 （Julie Mao 朱莉·毛）   
 Kachela al-Din 卡切拉·丁   
 Kaarlo 克劳罗   
 Kahno 卡诺   
@@ -141,7 +146,7 @@ Karo 卡罗
 Kasik 卡西克   
 Kasim Andrada 卡西姆·安德罗达   
 Katria Mendez 卡特莉娅·孟迪兹（Miss Kitty 咪咪小姐，艾莫斯称之）   
-Kelly 凯利   
+Kelly 凯利（Gomez 戈麦兹，Mole 摩尔，Dookie 杜基）   
 Khalid Marks 哈利德·马克斯   
 Kim Randall 金姆·兰德尔   
 Kit Kamal 基特·卡玛尔   
@@ -200,6 +205,7 @@ Pítr Vukcevich 彼提尔·伍克维奇
 Praxidike Meng 普拉克斯迪克·孟（Prax 普拉克斯）   
 Quinn de Bodard 奎恩·德·波达   
 Ramez 拉曼斯   
+Rebecca Byers 瑞贝卡·拜耶斯（Becca 贝卡）   
 Ren 雷恩   
 Rini 莉霓·格劳丁   
 Rittenaur 里特纳尔   
@@ -213,7 +219,7 @@ Saba 萨巴（地下组织）
 Sadavir Errinwright 萨达瓦·艾伦怀特   
 Sagale 萨格尔   
 Salis 萨利斯   
-Samara Rosenberg 姗玛拉·罗森伯格（Sam 姗姆）   
+Samara Rosenberg 姗玛拉·罗森伯格（Sam 姗姆，Sammy 姗米）   
 Samuels 塞缪尔斯   
 Sanchez 桑切斯   
 Sanders 桑德斯 博士 艾薇团队成员   
@@ -337,6 +343,7 @@ Persephone 珀耳塞福涅，星系
 Phobos 火卫一   
 Phoebe 土卫九   
 Quivira 奎维拉，星系   
+Rhea 土卫五   
 San Esteban 圣埃斯特本，星系   
 San Ysidro 圣易西铎（圣地亚哥）   
 Sanctuary 圣神殿，星系   
@@ -348,12 +355,16 @@ Sumner 萨姆纳
 Surabhi 苏拉比   
 Svarga Minor 小斯瓦尔加   
 Tecoma 特科马   
+Terrytown 特里敦   
 Thanjavur 坦加布尔   
 Thisbe Yards 提斯比造船厂   
 Thoth 透特（普罗托根秘密实验基地）   
 Titan 土卫六   
+Titania 天卫三
 Torfaen 托芬，星系   
+Triton 海卫一   
 Tycho Station 第谷空间站   
+Tycho Manufacturing and Engineering Concern 第谷制造工程公司   
 Venus 金星   
 Vesta 灶神星   
 Warsaw 华沙（波兰首都）   
@@ -389,7 +400,7 @@ Cerisier “樱花”号
 Chetzemoka “切泽莫卡”号   
 Cleo “克雷奥”号   
 Deliverance “解救”号   
-Donnager “唐纳吉尔”号   
+Donnager “唐纳吉尔”号（Donnie “唐尼”号）   
 Dhupa “丹帕”号   
 Drybeck “德莱贝克”号   
 Duffy “杜菲”号   
@@ -406,6 +417,7 @@ Gathering Storm “暴风集结”号（Storm “暴风”号）
 Giambattista “巴蒂斯塔”号   
 Governor Knight “总督骑士”号   
 Guanshiyin “观世音”号   
+Guy Molinari “盖伊·莫利纳里”号   
 Hammurabi “汉谟拉比”号   
 Heart of the Tempest “暴风雨之心”号（Tempest “暴风雨”号）   
 Hornblower “吹角者”号   
@@ -449,6 +461,7 @@ Razorback “狭背鲸”号
 Rising Derecho “瑞星·德雷科”号（“德雷科”号 拉科尼亚驱逐舰）   
 Rising Shamal “瑞星·沙美儿”号（“沙美儿”号 拉科尼亚驱逐舰）   
 Rocinante “罗西南多”号（Roci “罗西”号，Tachi “太刀”号  light frigate 轻型护卫舰）   
+Scipio Africanus 西庇奥·阿非利加努斯   
 Scopuli “海岩”号   
 Senator “塞纳托尔”号   
 Seung Un “温承炫”号   
@@ -473,32 +486,35 @@ Witch of Endor “隐多珥女巫”号
    
    
 # 四、团体
+Al Abbiq 阿尔阿比克安保公司   
 Alighar Muslim University 阿利格尔穆斯林大学   
 Association of Worlds 世界协会（Laconian Congress of Worlds 拉科尼亚世界公会）   
 BELT 小行星带   
 Belters 小行星带人 
 Black Sky 玄天会（OPA一派）   
 Carne Por la Machina 卡恩·波·拉麦奇纳   
-Earth-Mars Coalition 地球-火星联合政府（EMC 地火联政）   
+Earth-Mars Coalition 地球-火星联合政府（EMC 地火联政，EMCN 地火联政太空军）   
 Earth security force 地球安保队   
+Far Horizons Foundation 遥远星际基金会   
 Force Recon Battalion 部队侦察营   
 Free Navy 自由舰队   
-Golden Bough Society 金枝会（OPA一派）    
+Golden Bough Society 金枝社（OPA一派）    
 Imahara Institute 今原学院，田中学校   
 Intelligence Directorate 情报部   
 Jacobin-Black Combined Capital 雅各宾-布莱克联合资本（JBCC “雅布资本” 基特）   
 Kurtadam 库尔塔   
 Laconian Military Council 拉科尼亚军事委员会   
+Loca Greiga 洛卡·格里加（帮派）
 Martian Congressional Republic（MCR） 火星国会共和国   
 Martian Marine Corps 火星海军陆战队   
 Outer Planets All（OPA） 外行星联盟（外盟）   
-Mao-Kwikowski Mercantile 毛-奎考斯基商贸公司（Mao-Kwik 毛-奎考商贸）   
+Mao-Kwikowski Mercantile 毛-奎科沃斯基商业集团（Mao-Kwik 毛-奎科集团，Maokwik）   
 Personnel Directorate 人事局   
 Pinkwater 潘克沃特   
 Protogen 普罗托根   
 Protogen Security 普罗托根安保公司   
 Psychiatric Services 精神科服务部   
-Pure 'n' Kleen Water Company  普雷&克雷恩饮用水公司   
+Pure 'n' Kleen Water Company  普雷&克雷恩水资源公司   
 Rocicorp 罗西公司   
 Royal Charter Energy （RCE）皇家宪章能源公司，艾薇老雇主   
 Science Directorate 科学理事会   
@@ -506,7 +522,9 @@ security forces 安全部队
 Sejong World College 世宗世界学院   
 separatist 独立主义者   
 Sohag Presbyterian Academy 索哈格长老会学院   
+Sohiro’s crew 相宏帮   
 Star Helix Police 星旋警局   
+Star Helix Security 星旋安保公司   
 State Building 帝国大厦   
 Survey Exploration Directorate 勘测勘探部   
 Task Force Rhino 犀牛特遣队   
@@ -524,6 +542,8 @@ Acting XO 代理大副
 XO 大副（executive officer）   
 Admiral 舰队司令   
 Captain 舰长   
+Executive Affairs 执行事务部   
+Executive Administration 执行管理部   
 flight control officer 航行指挥官   
 high consul 高级领事   
 navigation officer 引航官   
@@ -532,24 +552,28 @@ prime minister 首相，总理
 Secretary-General 秘书长（Executive Administration 行政首长）   
 security officer 安全部长   
 science advisor 科学顾问   
-Undersecretary 副秘书（Assistant Undersecretary 助理副秘书）   
-Undersecretary of Executive Affairs 执行事务部副部长   
+Undersecretary 副部长（Assistant to the Undersecretary 副部长助理）   
 weapons officer 武器部长   
    
    
 # 六、武器
-Pulsar-class destroyers 脉冲星级驱逐舰   
-Goliath “哥利亚”铠甲   
+Goliath 哥利亚（铠甲）   
 Gravitar class 重力级   
 Magnetar class 磁星级   
+Munroe class 门罗级   
+Phantom-class 幻影级   
 Proteus class 变形虫级   
-Sirocco class 巡洋舰级   
-Stalker “潜行者”铠甲   
+Pulsar class 脉冲星级   
+Raptor class 猛禽级   
+Sirocco class 热风级   
+Stalker 潜行者（铠甲）   
 Storm class 暴风级   
-Xerxes-class 薛西斯级   
+Xerxes class 薛西斯级   
    
 # 七、食物
 fish sauce鱼酱   
+fungal beans 真菌豆子   
+moss whiskey 苔藓威士忌   
 Pad thai 泰式炒粉   
 Red curry 红咖喱   
 rice noodle 米粉   
@@ -624,7 +648,7 @@ monitor 监控器
 nonlocal signaling protocols 跨域信令协议   
 open sections 开放区域   
 unknown entities 未知实体   
-ops deck 操作台（指挥舱）   
+ops deck 指挥舱/指挥台/指挥舱甲板层   
 protomolecule 原分子   
 recording station 记录站   
 recyclers 循环器   
@@ -643,7 +667,7 @@ Sweet Sixteen 二八豆蔻
 Tempest “暴风雨”，神秘力量   
 thermal profile 热力曲线   
 the Pen “高墙”   
-tightbeam 集束通信   
+tightbeam 集束通信（narrow-beam transfer 窄束通信）   
 traffic analysis 航运分析   
 transport tube 地铁   
 vac suit 太空服   
