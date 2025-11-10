@@ -30,6 +30,7 @@ Anderson Dawes 安德森·道斯
 Anet Dimitriadis 阿诺特·迪米特里斯   
 Anna Reál 安娜·雷亚尔   
 Annamarie 安娜玛丽   
+Anneke Douby 安妮克·杜比   
 Annushka Volovodov 安努什卡·沃洛沃多夫（Anna 安娜，牧师）   
 Anton Trejo 安东·特雷霍   
 Antony Dresden 安东尼·德雷斯顿   
@@ -66,7 +67,7 @@ Chandra Wei 钱德拉·魏
 Charles Allen 查尔斯·艾伦   
 Charles Parker 查尔斯·帕克   
 Chava Lombaugh 查瓦·伦堡   
-Chrisjen Avasarala 克里斯金·阿瓦萨罗拉   
+Chrisjen Avasarala 克里斯金·阿瓦萨罗拉（Arjun 阿尔琼）   
 Chuck 恰克   
 Cole 科尔   
 Coleridge 柯勒律治   
@@ -253,6 +254,7 @@ Trina Pilau 特里娜·皮劳
 Tristan Reeves 崔斯坦·里弗斯   
 Vanegas 梵内加斯   
 Vaughn 沃恩   
+Vyakislav Pratkanis 维亚基斯拉夫·普拉特卡尼斯   
 Walker 沃克   
 Wendy 温迪   
 Weyrick 韦里克   
@@ -269,8 +271,10 @@ Arcadia 阿卡迪亚
 Argatha 阿加塔，星系   
 Aterpol 阿特波尔   
 Auberon 奥伯伦，星系   
+Aurorae Sinus 极光湾   
 Baltimore 巴尔的摩（美国一座港市）   
-Bara Gaon 巴拉加恩，星系   
+Bara Gaon 巴拉加恩，星系（Al Halub 哈勒布，Zehanat 泽哈纳特省）   
+Bara Gaon Complex 巴拉加恩综合体
 Behrenhold 贝伦霍德   
 Bellerophon 贝尔罗丰   
 Benin City 贝宁城   
@@ -301,6 +305,7 @@ Galbraith 加尔布雷斯，星系
 Ganymede 木卫三   
 Gedara 格达拉   
 Gewitter Base 盖维特基地   
+Greater Terai Shared Interest Zone 大特莱共同利益区
 Hamshalim 哈姆沙林   
 Hakuseki 哈库斯基   
 Harris 哈里斯，星系   
@@ -316,7 +321,7 @@ Laconia 拉科尼亚
 Larson 拉森   
 Leuctra 留克特拉   
 Leuctra Point 留克特拉角   
-Loundres Nova 劳恩蒂斯·诺瓦   
+Loundres Nova 伦敦新城   
 Luna 月球   
 Kalma 卡尔玛，星系   
 Kinley 金利   
@@ -325,6 +330,7 @@ Magpie 马格佩，星系
 Mariner Valley 马里纳谷   
 Medina Station 麦地那空间站   
 Naraka 纳拉卡，星系   
+Nariman 纳里曼   
 New Egypt 新埃及，星系   
 New Greece 新希腊   
 New Roma 新罗马   
@@ -461,6 +467,7 @@ Razorback “狭背鲸”号
 Rising Derecho “瑞星·德雷科”号（“德雷科”号 拉科尼亚驱逐舰）   
 Rising Shamal “瑞星·沙美儿”号（“沙美儿”号 拉科尼亚驱逐舰）   
 Rocinante “罗西南多”号（Roci “罗西”号，Tachi “太刀”号  light frigate 轻型护卫舰）   
+Savage Landing “野蛮登陆”号   
 Scipio Africanus 西庇奥·阿非利加努斯   
 Scopuli “海岩”号   
 Senator “塞纳托尔”号   
@@ -489,7 +496,7 @@ Witch of Endor “隐多珥女巫”号
 Al Abbiq 阿尔阿比克安保公司   
 Alighar Muslim University 阿利格尔穆斯林大学   
 Association of Worlds 世界协会（Laconian Congress of Worlds 拉科尼亚世界公会）   
-BELT 小行星带   
+Belt 小行星带（简称“星带”）   
 Belters 小行星带人 
 Black Sky 玄天会（OPA一派）   
 Carne Por la Machina 卡恩·波·拉麦奇纳   
@@ -499,7 +506,7 @@ Far Horizons Foundation 遥远星际基金会
 Force Recon Battalion 部队侦察营   
 Free Navy 自由舰队   
 Golden Bough Society 金枝社（OPA一派）    
-Imahara Institute 今原学院，田中学校   
+Imahara Institute 今原学院（田中学校）   
 Intelligence Directorate 情报部   
 Jacobin-Black Combined Capital 雅各宾-布莱克联合资本（JBCC “雅布资本” 基特）   
 Kurtadam 库尔塔   
@@ -516,7 +523,7 @@ Protogen Security 普罗托根安保公司
 Psychiatric Services 精神科服务部   
 Pure 'n' Kleen Water Company  普雷&克雷恩水资源公司   
 Rocicorp 罗西公司   
-Royal Charter Energy （RCE）皇家宪章能源公司，艾薇老雇主   
+Royal Charter Energy 皇家宪章能源公司（RCE，艾薇老雇主）   
 Science Directorate 科学理事会   
 security forces 安全部队   
 Sejong World College 世宗世界学院   
@@ -530,10 +537,10 @@ Survey Exploration Directorate 勘测勘探部
 Task Force Rhino 犀牛特遣队   
 Tereshkova 捷列什科娃   
 Technology 技术部   
-Transport Union 运输联会   
-United Nations（UN） 联合国   
+Transport Union 运输联会（TU 运联）   
+United Nations 联合国（UN）   
+United Nations Navy 联合国舰队（UNN）   
 University of Calabar 加拉巴大学   
-UN Navy（UNN） 联合国舰队   
 UN Public Broadcasting 联合国公共广播公司   
 Voltaire Collective 伏尔泰会（OPA一派）   
    
@@ -561,7 +568,7 @@ Goliath 哥利亚（铠甲）
 Gravitar class 重力级   
 Magnetar class 磁星级   
 Munroe class 门罗级   
-Phantom-class 幻影级   
+Phantom class 幻影级   
 Proteus class 变形虫级   
 Pulsar class 脉冲星级   
 Raptor class 猛禽级   
@@ -571,7 +578,7 @@ Storm class 暴风级
 Xerxes class 薛西斯级   
    
 # 七、食物
-fish sauce鱼酱   
+fish sauce 鱼酱   
 fungal beans 真菌豆子   
 moss whiskey 苔藓威士忌   
 Pad thai 泰式炒粉   

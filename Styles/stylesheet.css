@@ -9,7 +9,8 @@ p {
 	font-weight: normal;
 	text-align: justify;
 	text-indent: 2em;
-	margin: 0 0 0.6em 0;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
 }
 
 h1 {
