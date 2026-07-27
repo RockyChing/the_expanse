@@ -11,7 +11,7 @@ Ty Franck 泰·弗兰克
 # 一、人物
 Alex Kamal 亚历克斯·卡玛尔   
 Amos Burton 艾莫斯·伯顿（Timothy 蒂莫西 Bluto 布鲁托）   
-Clarissa Melpomene Mao 克拉丽莎·梅泊梅尼·毛（Claire 克莱儿）   
+Clarissa Melpomene Mao 克拉丽莎·梅泊梅尼·毛（Claire 克莱儿 Peaches 小桃妹）   
 James R. Holden 詹姆斯·霍顿   
 Naomi Nagata 奈奥米·永田   
 Roberta W. Draper 罗伯塔·德雷珀（Bobbie 博比，Babs 博布 Gunny 军士）   
@@ -109,7 +109,7 @@ Frederick Lucius Johnson 弗雷德里克·卢修斯·约翰逊（Fred Johnson �
 Gagnon 加格农，医生   
 Galwan ud-Din 加尔万·尤金   
 Gino 基诺   
-Giselle 吉赛尔（亚历克斯妻子）   
+Giselle 吉赛尔（Jizz 吉兹，亚历克斯妻子）   
 Gloria Hu 格洛莉娅（胡司令）   
 Gorman Le 戈尔曼·勒   
 Gregor Shapiro 格雷戈·夏皮罗   
@@ -120,7 +120,7 @@ Himemiya Gosset 希梅米亚·戈塞特
 Ian 伊恩   
 Ilich 伊利奇（Jason 杰森）   
 Imogene Batia 伊莫金·巴蒂亚   
-Iwasa 伊瓦萨   
+Iwasa 岩佐（Goyer 戈耶）   
 Jacob 雅各布   
 Jacobin 雅各宾   
 Jae Eun Song 宋琼恩   
@@ -186,7 +186,7 @@ Namono 南诺诺（Nono 诺诺）
 Nanda 南达   
 Natasha Li 娜塔莎·李   
 Nathan Smith 南森·斯密斯   
-Natalia 纳塔莉亚   
+Natalia 纳塔莉亚（Nat 纳特）   
 Negila 内吉拉 博士   
 Nico Sanjrani 尼克·桑杰拉尼   
 Nicola 妮可拉   
@@ -226,7 +226,7 @@ Sanchez 桑切斯
 Sanders 桑德斯 博士 艾薇团队成员   
 Sandra Ip 桑德拉·伊普   
 Sandrine Gujarat 桑德琳·古吉拉特   
-Santiago Jilie Singh 圣地亚哥·朱里埃·辛格（Sonny 桑尼）   
+Santiago Jilie Singh 圣地亚哥·吉里埃·辛格（Sonny 桑尼）   
 Sematimba 塞玛汀巴（Semi 塞米）   
 Serge 塞吉   
 Shaddid 沙迪德（Captain 队长）   
@@ -337,6 +337,7 @@ New Roma 新罗马
 New Wales 新威尔士   
 Neue Ausland 新奥斯兰   
 Nieuwestad 纽威斯特德，重力1.2g   
+Nova Catalunya 新卡塔利尼亚   
 Nouvelle École 努维尔高等学校 Abbassia   
 Nuriel 努里尔，星系   
 Oshima 欧西玛   

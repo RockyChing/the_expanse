@@ -43,6 +43,6 @@ https://expanse.fandom.com/wiki/The_Expanse_Wiki
 
 ## 赞助 & 打赏
 
-![微信](https://github.com/RockyChing/the_expanse/raw/master/Sponsor/sposor_wechat.jpg =200px)
+![微信](https://github.com/RockyChing/the_expanse/raw/master/Sponsor/sposor_wechat.jpg)
    
-![支付宝](https://github.com/RockyChing/the_expanse/raw/master/Sponsor/sposor_alipay.jpg =200px)
+![支付宝](https://github.com/RockyChing/the_expanse/raw/master/Sponsor/sposor_alipay.jpg)
