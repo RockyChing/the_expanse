@@ -13,7 +13,7 @@ Alex Kamal 亚历克斯·卡玛尔
 Amos Burton 艾莫斯·伯顿（Timothy 蒂莫西 Bluto 布鲁托）   
 Clarissa Melpomene Mao 克拉丽莎·梅泊梅尼·毛（Claire 克莱儿 Peaches 小桃妹）   
 James R. Holden 詹姆斯·霍顿   
-Naomi Nagata 奈奥米·永田   
+Naomi Nagata 奈奥米·永田（Knuckles 奈宝）   
 Roberta W. Draper 罗伯塔·德雷珀（Bobbie 博比，Babs 博布 Gunny 军士）   
    
 Ade Tukunbo 阿黛·图昆波   
